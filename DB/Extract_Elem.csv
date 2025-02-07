@@ -1,0 +1,671 @@
+﻿,textbook ID,학년,출판사,교육과정,단원 번호,단원 명,DESCRIPTION,KEY_EXPRESSION,KEY_EXPRESSION_KOR,SUB_EXPRESSION
+0,310,초3,YBM(김),2022,1,Hello! I’m Dito,Hello/Hi! 등의 표현을 사용해 만날 때 인사하기. ,Hi there! ,,Hello! Hey! 
+1,310,초3,YBM(김),2022,2,"Sit Down, Please",극존칭 표현을 통해 요청하고 그에 긍정적으로 응답하기. ,"A: Sit down, please. B: Sure. ",,A: Please take a seat. B: Certainly. A: Kindly sit down. B: Of course. 
+2,310,초3,YBM(김),2022,3,What’s This?,의문문을 활용해 무슨 물건인지 묻고 답하기. ,A: What's this? B: It's a box. ,,A: What's that? B: It's a (). A: What is this called? B: It is a (). 
+3,310,초3,YBM(김),2022,4,I Like Pizza,"Do you like ()?와 Yes, I do. / No, I don't. 표현을 활용해 좋아하는 음식 묻고 답하기. ","A: Do you enjoy ice cream? B: No, I don't. ",,"A: Do you like (fruit)? B: Yes, I do. A: Do you enjoy eating (food)? B: No, I don't. "
+4,310,초3,YBM(김),2022,5,How Many Tigers?,"""How many""를 활용해 동물의 수 묻고 답하기 . ",A: How many lions are there? B: There are five lions. ,,A: How many () are there? B: There are () (). A: How many ()? B: (). 
+5,310,초3,YBM(김),2022,6,Can You Swim?,can을 활용해 상대방의 능력을 묻고 답하기. ,"A: Can you play the piano? B: Yes, I can. ",,"A: Are you able to (activity)? B: Yes, I can. A: Do you know how to (action)? B: Yes, I can. "
+6,310,초3,YBM(김),2022,7,What Color Is It?,의문문과 답변을 통해 사물의 색깔에 대해 묻고 답하기. ,A: What color is the car? B: It's blue. ,,A: What shade is it? B: It's (). A: Which hue does it have? B: It's (). 
+7,310,초3,YBM(김),2022,8,Do You Have a Ruler?,Do you have ()?를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a backpack? B: Yes, I do. / No, I don’t. ",,"A: Do you have a ()? B: Yes, I do. / No, I don’t. A: Have you got a ()? B: Yes, I have. / No, I haven’t. "
+8,310,초3,YBM(김),2022,9,How Old Are You?,의문사 How를 활용하여 상대방의 나이를 묻고 답하기. ,A: How old are you? B: I’m seven years old. ,,A: What's your age? B: I’m () years old. A: Can you tell me your age? B: I’m () years old. 
+9,310,초3,YBM(김),2022,10,He’s My Dad,의문문 형태 'Who is ()?'를 활용해 상대방이 누구인지 묻고 답하기. ,A: Who is she? B: She is my teacher. ,,A: Who is he? B: He is my () teacher. A: Who is this? B: This is my (). 
+10,310,초3,YBM(김),2022,11,How’s the Weather?,날씨를 묻고 표현을 활용하여 답하기. ,A: How’s the weather? B: It's rainy. ,,A: What’s the weather like? B: It's (). A: How does the sky look today? B: It’s (). 
+11,311,초3,YBM(최),2022,1,"Hello, ABC!",만났을 때 사용하는 간단한 인사말 활용하기. ,Good day! ,,How are you? Hi there! 
+12,311,초3,YBM(최),2022,2,What’s This?,What’s ()? 패턴을 활용해 무엇인지 묻고 답하기. ,A: What’s this? B: It’s a toy. ,,A: What’s that? B: It’s a (). A: What’s this called? B: It’s a (). 
+13,311,초3,YBM(최),2022,3,"Sit Down, Please",명령문을 활용해 상대방에게 요청하고 응답하기. ,"A: Sit down, please. B: Sure. ",,"A: Come here, please. B: Alright. A: Stand up, please. B: Okay. "
+14,311,초3,YBM(최),2022,4,How Many Cows?,How many ()를 활용해 수 묻고 답하기. ,A: How many apples do you have? B: I have five apples. ,,A: How many pencils are there? B: There are () pencils. A: How many cars do you see? B: I see () cars. 
+15,311,초3,YBM(최),2022,5,Do You Like Apples?,Do you like ()?를 활용해 좋아하는 것 묻고 답하기. ,"A: Do you like strawberries? B: Yes, I do. ",,"A: Do you enjoy eating ()? B: Yes, I do. A: Do you find () enjoyable? B: No, I don't. "
+16,311,초3,YBM(최),2022,6,I Can Jump,Can you ()? 을 활용해 할 수 있는지 묻고 답하기. ,"A: Can you run fast? B: Yes, I can. ",,"A: Are you able to ()? B: No, I cannot. A: Do you know how to ()? B: Yes, I do. "
+17,311,초3,YBM(최),2022,7,I Have a Pencil,Do you ()를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a marker? B: No, I don't. ",,"A: Do you own a ()? B: Yes, I do. A: Do you possess a ()? B: No, I don’t. "
+18,311,초3,YBM(최),2022,8,I’m Happy,I am () 표현을 활용해 감정이나 상태 표현하기. ,I'm joyful. ,,I'm content. I'm thrilled. 
+19,311,초3,YBM(최),2022,9,What Color Is It?,What color is ()?을 통해 색깔 묻고 답하기. ,A: What color is the car? B: It is blue. ,,A: What is its color? B: It is (). A: Can you tell me the color? B: It is (). 
+20,311,초3,YBM(최),2022,10,How’s the Weather?,날씨를 묻고 답하기 위한 How's ()? 표현을 활용. ,A: How’s the weather? B: It’s sunny. ,,A: What's the weather like? B: It’s (). A: How is it outside? B: It's (). 
+21,302,초3,YBM(김),2015,1,"Hello, I’m Tibo",만날 때 사용하는 기본적인 인사 표현 익히기. ,Hello there! ,,Hi! Greetings! 
+22,302,초3,YBM(김),2015,2,What’s This?,What’s ()?를 활용해 사물이나 대상을 묻고 답하기. ,A: What's this? B: It's a book. ,,A: What's that? B: It's a () A: What is it? B: It's a () 
+23,302,초3,YBM(김),2015,3,"Sit Down, Please",please 를 활용해 상대방에게 요청하고 이에 응답하기. ,"A: Close the window, please. B: Sure. ",,"A: Pass the book, please. B: Certainly. A: Turn on the light, please. B: Of course. "
+24,302,초3,YBM(김),2015,4,Do You Like Pizza?,Do you like ()?를 활용해 좋아하거나 싫어하는 음식 묻고 답하기. ,"A: Do you like ice cream? B: Yes, I do. / No, I don’t. ",,"A: Do you enjoy ()? B: Yes, I do. / No, I don’t. A: Are you fond of ()? B: Yes, I am. / No, I’m not. "
+25,302,초3,YBM(김),2015,5,How Are You?,인사말을 통해 안부를 묻고 답하기. ,A: How are you? B: I'm doing well. ,,A: How have you been? B: I'm feeling good. A: How's it going? B: I'm feeling fine. 
+26,302,초3,YBM(김),2015,6,Can You Swim?,가능 여부를 묻고 답할 때 'Can you ()?' 구문을 활용하기. ,"A: Can you ride a bicycle? B: Yes, I can. ",,"A: Are you able to (action)? B: Yes, I can. A: Do you know how to (verb)? B: No, I can’t. "
+27,302,초3,YBM(김),2015,7,How Many Lions?,How many ()?를 통해 동물의 수 묻고 답하기. ,A: How many cats are there? B: Three cats. ,,A: How many dogs? B: Four dogs. A: How many birds? B: Two birds. 
+28,302,초3,YBM(김),2015,8,What Color Is It?,What color is ()?을 통해 색깔 묻고 답하기. ,A: What color is the car? B: It is blue. ,,A: What is its color? B: It is (). A: Can you tell me the color? B: It is (). 
+29,302,초3,YBM(김),2015,9,Let’s Jump,Let's ()를 활용해 제안하고 이에 답하기. ,A: Let’s eat lunch. B: Sure. ,,"A: Let’s go fishing. B: Sorry, I can’t. A: Let’s play a game. B: Alright. "
+30,302,초3,YBM(김),2015,10,Do You Have Any Crayons?,Do you have ()?를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a pencil? B: Yes, I do. / No, I don't. ",,"A: Have you got a ()? B: Yes, I have. / No, I haven’t. A: Are you carrying a ()? B: Yes, I am. / No, I’m not. "
+31,302,초3,YBM(김),2015,11,How Old Are You?,How old are you?의 문구를 통해 나이를 묻고 답하기. ,A: How old are you? B: I'm seven years old. ,,A: What is your age? B: I am () years old. A: How many years have you lived? B: I am () years old. 
+32,302,초3,YBM(김),2015,12,"Don’t Run, Please",금지 표현을 활용해 상대방에게 요구 전달하기 및 이에 답하기. ,"A: Don't shout, please. B: Okay. ",,"A: Don't run, please. B: Sorry. A: Don't touch that, please. B: Okay. "
+33,302,초3,YBM(김),2015,13,How’s the Weather?,날씨에 대해 묻고 답할 때 활용 가능한 표현 배우기. ,A: How's the weather? B: It's cloudy. ,,A: What's it like outside? B: It's () A: How is it today? B: It's () 
+34,303,초3,YBM(최),2015,1,"Hi, I’m Sena",만난 후 인사하거나 헤어질 때 사용하는 간단한 표현 익히기. ,Hi there! ,,Hello! Bye! 
+35,303,초3,YBM(최),2015,2,What’s This?,What’s ()? 표현을 활용해 사물이 무엇인지 묻고 답하기. ,A: What's that? B: It's a book. ,,A: What's this? B: It's a () A: What is it? B: It's a () 
+36,303,초3,YBM(최),2015,3,"Open the Box, Please",존대하는 요청을 하고 이에 답하기 . ,"A: Open the book, please. B: Sure. ",,"A: Close the box, please. B: All right. A: Bring the pen, please. B: Certainly. "
+37,303,초3,YBM(최),2015,4,Do You Like Apples?,do you like ~? 문형을 활용해 상대방의 선호도를 물음과 응답하기. ,"A: Do you enjoy bananas? B: Yes, I do. ",,"A: Do you like ()? B: Yes, I do. A: Do you enjoy ()? B: No, I don't. "
+38,303,초3,YBM(최),2015,5,How Many Dogs?,질문을 통해 수량을 묻고 답하기. ,A: How many books do you have? B: I have three. ,,A: How many apples are there? B: There are (). A: How many chairs do you need? B: I need (). 
+39,303,초3,YBM(최),2015,6,Do You Have a Ruler?,do you have ()?를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a notebook? B: Yes, I do. ",,"A: Do you own a ()? B: Yes, I do. A: Have you got a ()? B: No, I don't. "
+40,303,초3,YBM(최),2015,7,Can You Swim?,can/cannot 표현을 활용해 능력 여부 묻고 답하기. ,"A: Can you paint? B: Yes, I can. ",,"A: Are you able to ()? B: Yes, I am. A: Do you know how to ()? B: No, I don’t. "
+41,303,초3,YBM(최),2015,8,"Don’t Run, Please",Don't ()를 활용해 금지 표현하기. ,Don't climb. ,,Don't jump. Don't shout. 
+42,303,초3,YBM(최),2015,9,Who Is She?,Who is ()?를 활용해 타인의 신원을 묻고 답하기. ,A: Who is she? B: She’s my teacher. ,,A: Who is that? B: That’s my (). A: Who are they? B: They are my (). 
+43,303,초3,YBM(최),2015,10,What Color Is It?,'What color is ()?'의 구조로 색깔 묻고 답하기. ,A: What color are these? B: They are green. ,,A: What shade is it? B: It is (). A: Can you tell me the color? B: It is (). 
+44,303,초3,YBM(최),2015,11,How Old Are You?,의문문 구조를 통해 나이를 묻고 답하는 표현을 배우기. ,A: How old are you? B: I'm seven years old. ,,A: How many years have you? B: I am () years old. A: What's your age? B: I'm () years old. 
+45,303,초3,YBM(최),2015,12,How’s the Weather?,날씨 표현을 활용해 즐거운 대화하기. ,A: How's the weather? B: It's sunny. ,,A: How's the day? B: It's (). A: What's the weather like? B: It's (). 
+46,410,초4,YBM(김),2022,1,How Are You?,상대방의 안부를 물어보고 응답하기. ,A: How are you doing? B: I'm doing fine. ,,A: How have you been? B: I'm feeling (). A: Is everything all right? B: Not too bad. 
+47,410,초4,YBM(김),2022,2,Let’s Play Baseball,Let's를 활용해 제안하고 이에 대해 답하기. ,Let's go to the park. ,,Let's () together. How about we ()? 
+48,410,초4,YBM(김),2022,3,Where Is My Bag?,위치 묻기 표현을 활용하여 물건의 위치 묻고 답하기. ,A: Where is my backpack? B: It's on the table. ,,A: Where is my pencil case? B: It's in the drawer. A: Where are my shoes? B: They're under the chair. 
+49,410,초4,YBM(김),2022,4,Are You Happy?,감정을 묻고 답하기 위해 be 동사의 형태를 활용해 대화하기. ,"A: Are you delighted? B: Yes, I am. ",,"A: Are you feeling content? B: Yes, I am. A: Are you enjoying yourself? B: Yes, I am. "
+50,410,초4,YBM(김),2022,5,"Don’t Touch, Please",'Don't ()'을 활용해 금지 요청하고 이에 답하기. ,"A: Don’t speak loudly, please. B: Sure, I won't. ",,"A: Don’t move fast, please. B: Okay, I won’t. A: Don’t run here, please. B: Alright, I won't. "
+51,410,초4,YBM(김),2022,6,Is This Your Watch?,소유를 나타내는 표현을 활용해 물건의 주인인지 묻고 답하기. ,"A: Is this your bag? B: Yes, it is. / No, it isn't. ",,"A: Is this your ()? B: Yes, it is. / No, it isn't. A: Is this hers? B: Yes, it is. / No, it isn't. "
+52,410,초4,YBM(김),2022,7,What Time Is It?,What time을 활용해 현재 시각 묻고 답하기. ,A: What time is it? B: It's nine o'clock. ,,A: Do you know the time? B: It's (). A: Can you tell me the time? B: It's (). 
+53,410,초4,YBM(김),2022,8,What Are You Doing?,be ()ing를 활용해 지금 하고 있는 일 묻고 답하기. ,A: What are you doing? B: I'm feeding the birds. ,,A: What is going on? B: I am (). A: What are you busy with? B: I'm (). 
+54,410,초4,YBM(김),2022,9,What Day Is It?,요일을 묻고 답하는 표현을 익히기. ,A: What day is today? B: It's Friday. ,,A: Which day is it? B: It's (). A: Today is what day? B: It's (). 
+55,410,초4,YBM(김),2022,10,I’m a Farmer,'What do you do?'를 통해 직업 묻고 답하기. ,A: What do you do? B: I'm a teacher. ,,A: What's your profession? B: I'm a (). A: What’s your job? B: I'm a (). 
+56,410,초4,YBM(김),2022,11,How Much Is It?,가격을 묻고 답하기 위해 'How much is ()?'를 활용하기. ,How much is this backpack? — It's fifteen dollars. ,,How much does this cost? — It's (). What's the price of this item? — It's (). 
+57,411,초4,YBM(최),2022,1,How Are You?,How are you?를 활용해 안부 묻고 답하기. ,A: How are you? B: I'm happy. ,,A: How's it going? B: I'm feeling (). A: How do you feel? B: I'm (). 
+58,411,초4,YBM(최),2022,2,Who Is She?,Who is ~ ? 라는 표현을 활용해 상대방이 누구인지 묻고 답하기. ,A: Who is she? B: She's my mom. ,,A: Who is that? B: That's my (). A: Who are they? B: They're my (). 
+59,411,초4,YBM(최),2022,3,What Time Is It?,What time-을 활용해 현재 시간을 묻고 답하기. ,B: It’s twenty to six. ,,A: What's the current time? B: It’s () o’clock. A: Could you tell me the time? B: It’s about (). 
+60,411,초4,YBM(최),2022,4,Let’s Play Soccer,Let's (~)를 활용해 함께 할 활동을 제안하고 이에 답하기. ,A: Let’s go swimming. B: Sure! That's a great idea. ,,"A: Shall we go biking? B: Sounds good to me. A: Let’s have a picnic. B: Sorry, I’m busy. "
+61,411,초4,YBM(최),2022,5,Where Is My Bag?,Where is ()? 패턴을 통해 물건의 위치 묻고 답하기. ,A: Where’s my book? B: It’s on the chair. ,,A: Where can I find my keys? B: They’re on the () A: Do you see my pen? B: It’s under the () 
+62,411,초4,YBM(최),2022,6,What Are You Doing?,be ()ing를 활용해 현재 하고 있는 일 묻고 답하기. ,A: What are you up to now? B: I'm making a craft. ,,A: What’s happening now? B: I'm ()ing a ()? A: What are you engaged in now? B: I'm creating a (). 
+63,411,초4,YBM(최),2022,7,Is This Your Jacket?,"소유격 및 간단한 예, 아니오 응답을 활용해 소유 여부를 묻고 답하기. ","A: Is this your coat? B: No, it isn't. ",,"A: Is that your scarf? B: Yes, it is. A: Are these your mittens? B: No, they aren't. "
+64,411,초4,YBM(최),2022,8,Do You Want Some Chicken?,Do you want ()?을 활용해 음식 권하고 답하기 . ,"A: Would you like some juice? B: Yes, please. ",,"A: Do you care for some (food)? B: Yes, please. A: Can I offer you some (drink)? B: No, thanks. "
+65,411,초4,YBM(최),2022,9,What Day Is It Today?,요일을 묻고 답하는 표현을 활용해 현재 요일을 확인하기. ,A: What day is it today? B: It's Friday. ,,A: What day are we on? B: It's (). A: Do you know today's day? B: It's (). 
+66,411,초4,YBM(최),2022,10,How Much Is It?,how much 를 활용해 물건의 가격 묻고 답하기. ,A: How much is that item? B: It's 250 yen. ,,A: What is the price of this item? B: It's () won. A: How much does that cost? B: It's () dollars. 
+67,402,초4,YBM(김),2015,1,What’s Your Name?,이름 묻고 답할 때 활용되는 표현. ,A: What's your name? B: My name is Sarah. ,,A: May I know your name? B: My name is (). A: What should I call you? B: I am (). 
+68,402,초4,YBM(김),2015,2,Are You Happy?,be ~? 패턴을 통해 감정이나 상태에 대해 묻고 답하기. ,"A: Are you cheerful? B: Yes, I am. ",,"A: Are you content? B: Yes, I am. A: Are you feeling well? B: Yes, I am. "
+69,402,초4,YBM(김),2015,3,Who Is He?,"Who is (), 표현을 활용해 상대방이 누구인지 묻고 답하기. ",A: Who is she? B: She's my teacher. ,,A: Who is that? B: That's my (). A: Who are they? B: They're my (). 
+70,402,초4,YBM(김),2015,4,Let’s Play Baseball,Let's ()를 활용해 제안하고 이에 답하기. ,A: Let's play soccer! B: Sure. ,,A: How about cycling this afternoon? B: Alright! A: Why don't we go fishing? B: That sounds great! 
+71,402,초4,YBM(김),2015,5,Is This Your Rocket?,소유격 표현을 이용해 물건의 주인 묻고 답하기. ,"A: Is this your ball? B: Yes, it is. ",,"A: Is this your ()? B: Yes, it is. A: Is this ((item)) yours? B: No, it isn’t. "
+72,402,초4,YBM(김),2015,6,What Time Is It?,What time -을 활용해 시각을 묻고 답하기. ,A: What time is it? B: It's five o'clock. ,,A: Can you tell me the time? B: It's () o'clock. A: Do you know the current time? B: It's () o'clock. 
+73,402,초4,YBM(김),2015,7,It’s Under the Table,Where is ()? 을 활용해 물건의 위치를 묻고 답하기. ,A: Where is my book? B: It's on the table. ,,A: Where can I find my shoes? B: They're under the bed. A: Where did you put my bag? B: It's beside the chair. 
+74,402,초4,YBM(김),2015,8,Do You Want Some Ice Cream?,권유 표현을 활용해 상대방이 음식이나 물건을 원하는지 묻고 답하기. ,"A: Would you like a slice of pizza? B: No, thank you. ",,"A: Do you care for some soup? B: Yes, I'd like that. A: How about some tea? B: No, thanks. "
+75,402,초4,YBM(김),2015,9,Can I Come In?,질문 표현을 활용해 상대방에게 허락 요청하고 그에 대한 답변하기. ,A: Can I stay here? B: Sure. ,,"A: May I sit down here? B: Of course. A: Would it be okay if I take this? B: Sorry, you can't. "
+76,402,초4,YBM(김),2015,10,What Are You Doing?,현재 진행형을 활용하여 지금 하고 있는 일 묻고 답하기. ,A: What are you doing? B: I'm painting a picture. ,,A: What are you busy with? B: I am working on (). A: What’s keeping you occupied? B: I'm engaged in (). 
+77,402,초4,YBM(김),2015,11,"Put On Your Jacket, Please",상대방에게 요청을 하고 이에 답하는 간단한 표현을 활용해 대화 진행하기. ,"A: Could you take off your hat, please? B: Sure. ",,"A: Would you put on your shoes, please? B: Certainly. A: Please take off your backpack. B: No problem. "
+78,402,초4,YBM(김),2015,12,How Much Is It?,How much를 활용해 가격 묻고 답하기. ,A: How much is this item? B: It's twelve fifty. ,,A: What does this cost? B: It's (). A: What's the price of this? B: It's (). 
+79,402,초4,YBM(김),2015,13,What Day Is It?,요일을 표현하는 단어를 활용해 현재 요일 묻고 답하기. ,A: What day is it today? B: It’s Thursday. ,,"A: Can you tell me the day today? B: It’s (). A: Do you know what day it is? B: Oh, it’s (). "
+80,403,초4,YBM(최),2015,1,How Are You?,하루의 시간대에 알맞은 인사말을 활용해 인사하기. ,Good morning! ,,Good afternoon! Good evening! 
+81,403,초4,YBM(최),2015,2,This Is Kate,This is ()를 이용하여 다른 사람 소개하기. ,This is my teacher. ,,This is my classmate. This is my neighbor. 
+82,403,초4,YBM(최),2015,3,Where Is My Watch?,상대방과 물건의 위치를 묻고 답하기. ,A: Where is my bag? B: It's on the table. ,,A: Where is my phone? B: It's near the () A: Where are my glasses? B: They are on the () 
+83,403,초4,YBM(최),2015,4,Are You Okay?,기쁨을 나타낼 때 사용할 수 있는 간단한 표현 활용하기. ,I'm thrilled! ,,I'm excited! I'm overjoyed! 
+84,403,초4,YBM(최),2015,5,What Time Is It?,시각을 물어보고 대답하기 위한 What time is it? 문장을 통해 시간 표현에 익숙해지기. ,A: What time is it? B: It's 7 o'clock. ,,A: What's the time? B: It's () o'clock. A: Do you know the time? B: It's () o'clock. 
+85,403,초4,YBM(최),2015,6,Let’s Play Badminton,Let's ()을 활용하여 제안·권유하고 이에 응답하기. ,"A: Let's go swimming. B: Sure, that sounds great. ",,"A: Why don’t we try ()? B: Yeah, I’d like that. A: How about we enjoy ()? B: I'm unable to join because (). "
+86,403,초4,YBM(최),2015,7,What Are You Doing?,'be ()ing'를 활용해 상대방이 지금 하고 있는 행동 묻고 답하기. ,A: What are you doing? B: I’m making a drawing. ,,A: What are you up to? B: I’m currently (). A: What’s happening? B: I’m busy (). 
+87,403,초4,YBM(최),2015,8,What Do You Want?,want 표현을 활용해 원하는 것 묻고 답하기. ,A: What do you wish to have? B: I would like some fruits. ,,A: What are you looking for? B: I want some (). A: What would you like? B: I need some (). 
+88,403,초4,YBM(최),2015,9,What Day Is It Today?,"요일을 묻고 답할 때, What day is ()를 활용하기. ",A: What day is today? B: It’s Wednesday. ,,A: What is the day? B: It’s (). A: What weekday is it? B: Today is (). 
+89,403,초4,YBM(최),2015,10,Is This Your Cap?,be 동사를 활용해 물건의 주인이 맞는지 묻고 답하기. ,"A: Is this your bag? B: Yes, it is. ",,"A: Is this your (item)? B: Yes, it is. A: Is (item) yours? B: No, it isn’t. "
+90,403,초4,YBM(최),2015,11,Touch Your Feet,명령문을 활용해 특정 동작 수행 지시하기. ,Stand on one leg. ,,Jump in the air. Raise your hand. 
+91,403,초4,YBM(최),2015,12,Do You Like Fishing?,do you like-? 을 활용해 취미 활동에 대해 긍정부정 의사 표현 연습하기. ,"A: Do you enjoy swimming? B: Yes, I do. / No, I don’t. I like baking. ",,"A: Do you like hiking? B: Yes, I do. / No, I don’t. I enjoy (). A: Are you into crafting? B: Yes, I am. / No, I’m not. I enjoy (). "
+92,503,초5,YBM(김),2015,1,How’s It Going?,How’s it going?을 활용해 안부 묻고 답하기. ,How are you doing? — I'm doing well. ,,How have you been? — I've been doing well. How’s everything? — Everything is good. 
+93,503,초5,YBM(김),2015,2,I’m in the Kitchen,의문사 Where를 활용해 사람의 위치 묻고 답하기. ,A: Where are you? B: I'm in the living room. ,,A: Where is he? B: He's in the () room. A: Where are they? B: They're in the () area. 
+94,503,초5,YBM(김),2015,3,Whose Balloon Is This?,Whose의 소유격 의문사를 활용해 물건의 주인이 누구인지 묻고 답하기. ,A: Whose bag is this? B: It's Donna's. ,,A: To whom does this belong? B: It's ()'s. A: Whose item is this? B: Belongs to (). 
+95,503,초5,YBM(김),2015,4,Let’s Go Camping,Let's 표현을 통해 제안하기. ,Let's go hiking. ,,Let's have a picnic. Let's visit the park. 
+96,503,초5,YBM(김),2015,5,I Want an Airplane,want를 활용해 바라는 것 묻고 답하기. ,What would you like for your birthday? — I would like a car. ,,What do you wish to have for ()? — I would like (). What gift would you choose for ()? — I want (). 
+97,503,초5,YBM(김),2015,6,What Does He Do?,직업 관련 질문에 대한 답변을 활용해 직업 묻고 답하기. ,A: What does she do? B: She's a teacher. ,,A: What is his job? B: He’s a (). A: What is her profession? B: She’s a (). 
+98,503,초5,YBM(김),2015,7,What Time Do You Get Up?,질문 및 응답 문장을 활용해 하루의 일과에 대해 묻고 답하기. ,A: What time do you wake up? B: I wake up at 6:30. ,,A: What time do you go to bed? B: I go to bed at (). A: When do you have breakfast? B: I have breakfast at (). 
+99,503,초5,YBM(김),2015,8,Where Are You From?,출신지를 묻고 답할 때 사용하는 표현을 학습하기. ,A: Where are you from? B: I'm from Japan. ,,A: Where do you come from? B: I come from (). A: Which country are you from? B: I'm from (). 
+100,503,초5,YBM(김),2015,9,I Went to the Museum,과거시제 동사를 활용해 이전에 한 일 묻고 답하기. ,A: What did you do yesterday? B: I went to the park. ,,A: What were you up to yesterday? B: I visited the (place). A: How did you spend yesterday? B: I enjoyed (activity). 
+101,503,초5,YBM(김),2015,10,What Does He Look Like?,"""look like""를 활용해 생김새 묻고 답하기. ",A: What does she look like? B: She has curly hair. ,,A: Could you describe her appearance? B: She has (). A: What kind of hair does he have? B: He has (). 
+102,503,초5,YBM(김),2015,11,He’s Listening to Music,현재 진행형을 사용하여 누군가가 지금 무엇을 하고 있는지 묻고 답하기. ,A: What is he doing? B: He's reading a book. ,,A: What is she doing? B: She's ()ing. A: What is happening over there? B: He's ()ing. 
+103,503,초5,YBM(김),2015,12,They’re Three Dollars,가격을 묻고 답하는 표현을 활용해 대화하기. ,A: How much is this shirt? B: It's eight dollars. ,,A: What's the price of this watch? B: It's () dollars. A: How many dollars is this item? B: It's (). 
+104,503,초5,YBM(김),2015,13,Where Is the Gift Shop?,위치 표현을 사용해 물건의 위치 묻고 답하기. ,A: Where is the library? B: It's near the coffee shop. ,,A: Where can I find the ( )? B: It's located ( ) the ( ). A: Where is the ( )? B: It's ( ). 
+105,503,초5,YBM(김),2015,14,What Do You Do in Your Free Time?,free time라는 표현을 활용해 여가 활동 묻고 답하기. ,A: What do you do for fun? B: I paint pictures. ,,A: What activities do you enjoy in your leisure time? B: I () for fun. A: What do you like to do when you're not working? B: I enjoy (). 
+106,504,초5,YBM(최),2015,1,I’m from Mexico,Where are you from?에 대한 답변을 통해 출신 국가를 묻고 답하기. ,A: Where are you from? B: I'm from Japan. ,,A: What country are you from? B: I'm from (). A: Which place do you hail from? B: I come from (). 
+107,504,초5,YBM(최),2015,2,What Are These?,'What are these?'을 활용해 여러 개의 물건이 무엇인지 묻고 답하기. ,A: What are these? B: They're books. ,,A: What are those? B: They're (). A: What are they called? B: They're (). 
+108,504,초5,YBM(최),2015,3,Can I Take a Picture?,can를 사용하여 허락을 구하고 이에 대해 긍정 또는 부정으로 답하기. ,"A: Can I play with the puppy? B: Yes, you can. ",,"A: Could I try this candy? B: Sure, you can. A: May I read that book? B: Sorry, you can’t. "
+109,504,초5,YBM(최),2015,4,Whose Shoes Are These?,Whose ()?를 활용해 물건의 주인이 누구인지 묻고 답하기. ,A: Whose bag is this? B: It's Mina's. ,,A: Who owns this bag? B: It's ()'s. A: To whom does this belong? B: It's ()'s. 
+110,504,초5,YBM(최),2015,5,My Favorite Subject Is Music,favorite를 활용해 좋아하는 과목을 묻고 답하기. ,A: What's your favorite subject? B: My favorite subject is math. ,,A: Which subject do you like most? B: I prefer (). A: What's the subject you like best? B: My favorite is (). 
+111,504,초5,YBM(최),2015,6,I Get Up at Five,What time ()를 활용해 상대방의 일과 시간에 대해 묻고 답하기. ,What time do you wake up? I wake up at 7. ,,When do you rise? I get up at (). When do you start your day? I begin my day at (). 
+112,504,초5,YBM(최),2015,7,I Will Join a Book Club,미래 시제 will를 활용해 미래의 계획을 묻고 답하기. ,A: What will you do this weekend? B: I will visit my grandparents. ,,A: What are your plans for this afternoon? B: I will (). A: What do you aim to do tomorrow? B: I will (). 
+113,504,초5,YBM(최),2015,8,I Went to the Beach,과거 시제를 활용해 과거에 한 일에 대해 묻고 답하기. ,A: What did you do during your vacation? B: I visited a zoo and saw animals. ,,A: What did you enjoy yesterday? B: I () and also (). A: Where did you go before? B: I went to () and ()ed there. 
+114,504,초5,YBM(최),2015,9,Where Is the Ticket Office?,방향 안내 관련 표현을 활용해 길 묻고 답하기. ,A: Where is the City Library? B: Go straight and turn left. It's beside the park. ,,A: Where can I find ()? B: Go straight and then (). It's near (). A: How do I get to ()? B: Go down this way and then (). It's () from there. 
+115,504,초5,YBM(최),2015,10,How Much Are These Gloves?,How much is ()를 활용해 물건의 가격을 묻고 답하기. ,A: How much is this book? B: It’s five dollars. ,,A: What’s the price of this item? B: It costs (). A: How much does this pen cost? B: It is (). 
+116,504,초5,YBM(최),2015,11,What’s in the Bedroom?,This is ~를 활용하여 집 내부를 소개하기. ,This is the kitchen. ,,This is the bedroom. This is the balcony. 
+117,504,초5,YBM(최),2015,12,I Want to Climb Hallasan,want to ()를 활용해 하고 싶은 일 묻고 답하기. ,A: What do you want to do? B: I want to visit the amusement park. ,,A: What do you wish to do? B: I want to (). A: What would you like to do? B: I want to (). 
+118,504,초5,YBM(최),2015,13,What Season Do You Like?,"""do you like""를 활용해 상대방이 좋아하는 계절에 대해 묻고 답하기. ",A: Which season do you like? B: I enjoy autumn. ,,A: What is your favorite season? B: I love (). A: Which time of year do you enjoy most? B: I prefer (). 
+119,603,초6,YBM(김),2015,1,What Grade Are You In?,What grade are you in? — I’m in the sixth grade를 통해 자신의 학년을 묻고 답하기. ,A: What grade are you in? B: I'm in third grade. ,,A: What year are you in? B: I am in () grade. A: Which grade are you in? B: I'm in () level. 
+120,603,초6,YBM(김),2015,2,What Would You Like?,'Would you like ()?'을 활용해 음식에 대해 묻고 답하기. ,"A: What would you like? B: I'd like strawberry ice cream, please. ",,A: What do you want to eat? B: I'd like (). A: What are you craving for? B: I'd prefer (). 
+121,603,초6,YBM(김),2015,3,My Favorite Subject Is Science,선호하는 과목에 대해 묻고 답하기. ,A: What’s your favorite school subject? B: My favorite subject is art. ,,A: What class do you enjoy the most? B: My favorite subject is (). A: Which subject do you like best? B: My favorite subject is (). 
+122,603,초6,YBM(김),2015,4,How About Turning Off the Light?,How about ()을 활용해 제안하기를 표현하기. ,How about reusing paper bags? ,,What do you think of using reusable containers? Why not consider recycling glass jars? 
+123,603,초6,YBM(김),2015,5,Go Straight and Turn Left,길을 묻고 방향을 안내하는 표현 익히기. ,A: Where is the post office? B: Go straight and take a right. ,,A: How do I get to the ()? B: Continue forward and then turn towards the (). A: Can you tell me the way to the ()? B: Walk along the path and make a () turn. 
+124,603,초6,YBM(김),2015,6,Your Car Is Faster Than Mine,비교급 표현을 활용해 사물을 비교하기. ,My bike is newer than yours. ,,This book is thicker than that one. Her house is larger than his. 
+125,603,초6,YBM(김),2015,7,What Will You Do This Summer?,will을 활용해 계획 묻고 답하기. ,A: What will you do next weekend? B: I’ll visit my grandparents. ,,A: What are your plans for tomorrow? B: I will (). A: What would you like to do this afternoon? B: I’m planning to (). 
+126,603,초6,YBM(김),2015,8,How Was Your Trip?,How was ()를 통해 과거 경험 묻고 답하기. ,A: How was your day? B: It was enjoyable. I went to the park. ,,A: What was your experience like? B: It was (). I (). A: How did it go? B: It was (). I (). 
+127,603,초6,YBM(김),2015,9,I Exercise Four Times a Week,빈도수 묻고 답하기에 How often do you ()? 를 활용하기. ,A: How often do you read books? B: I read books once a day. ,,A: How frequently do you ()? B: I () () times a week. A: What is the frequency of your ()? B: I () () a month. 
+128,603,초6,YBM(김),2015,10,What Season Do You Like?,좋아하는 것을 묻고 답하기에 대한 표현 활용. ,A: What season do you enjoy? B: I prefer spring as the flowers bloom beautifully. ,,A: Which season do you like most? B: I enjoy spring because the flowers bloom. A: What's your favorite season? B: I love spring due to the blooming flowers. 
+129,603,초6,YBM(김),2015,11,What Do You Want to Be?,‘want to be’를 활용해 장래 희망 묻고 답하기. ,A: What do you want to be? B: I want to be a teacher. ,,A: What career do you aspire to? B: I want to become (). A: What's your ideal future job? B: My dream is to become (). 
+130,603,초6,YBM(김),2015,12,I Have a Headache,ask about physical discomfort and respond using I have a (). ,A: What's the problem? B: I feel feverish. ,,A: How are you feeling? B: I have (). A: What's bothering you? B: My () hurts. 
+131,603,초6,YBM(김),2015,13,When Is the School Festival?,의문사 When을 활용해 날짜 묻고 답하기. ,A: When is the meeting? B: It's on March 15th. ,,A: When does the movie start? B: It's on () (). A: What's the date for the event? B: It is scheduled on () (). 
+132,603,초6,YBM(김),2015,14,Congratulations!,be going to -를 활용해 계획 묻고 답하기. ,A: What are you planning to do this afternoon? B: I'm planning to visit the park. ,,A: What are you going to do later? B: I’m going to (). A: What is your plan for today? B: My plan is to (). 
+133,604,초6,YBM(최),2015,1,I’m in the Sixth Grade,학년에 대해 묻고 답하기. ,A: What grade are you in? B: I'm in the fifth grade. ,,A: In which grade are you? B: I'm in the () grade. A: What level are you on? B: I'm on level (). 
+134,604,초6,YBM(최),2015,2,I Want to Be a Pilot,'want to be'를 활용하여 장래 희망을 묻고 답하기. ,A: What do you want to become? B: I want to become an artist. ,,A: What is your dream career? B: I want to become (). A: What's your aspiration? B: My target is to become (). 
+135,604,초6,YBM(최),2015,3,Let’s Go Swimming,Let's () 제안하는 표현을 활용해 활동을 제안하고 이에 답하기. ,"A: Let's have a picnic this weekend. B: That sounds wonderful. / Sorry, I cannot join. ",,"A: Let's try baking cookies. B: That sounds fun. / Sorry, I’m busy that day. A: Let's visit the museum. B: That sounds like a plan. / Sorry, I have another commitment. "
+136,604,초6,YBM(최),2015,4,When Is Your Birthday?,날짜를 묻는 표현을 통해 특정 날짜에 대해 묻고 답하기. ,A: When is her birthday? B: It's on May 5th. ,,A: What date is your event? B: It's on (). A: When does it occur? B: It happens on (). 
+137,604,초6,YBM(최),2015,5,I’m Going to Plant Trees,be going to () 표현을 통해 계획을 묻고 답하기. ,A: What are you going to do? B: I'm planning to visit the park. ,,A: What will you do? B: I’ll () soon. A: What is your plan for today? B: I plan to (). 
+138,604,초6,YBM(최),2015,6,I Have a Headache,현재 상황에 대해 간단한 의문문을 활용해 문제를 묻고 답하기. ,A: What's wrong? B: I have a stomachache. ,,A: How do you feel? B: I have a (). A: Are you okay? B: I have a (). 
+139,604,초6,YBM(최),2015,7,What Would You Like to Have?,Would like를 활용해 음식 주문 주고받기. ,A: What would you like to eat? B: I’d like to eat pasta. ,,A: What do you want to have? B: I want to have (). A: May I take your order? B: I'd like (). 
+140,604,초6,YBM(최),2015,8,He Has Short Straight Hair,외모를 묻고 묘사할 때 What does () look like?를 활용해 표현하기. ,A: What does she look like? B: She has long curly hair. ,,A: How does she appear? B: She has () hair. A: Describe her looks. B: She has () hair. 
+141,604,초6,YBM(최),2015,9,I’m Stronger Than You,비교구문을 활용하여 두 대상을 서로 비교하기. ,A horse is faster than a donkey. ,,An elephant is larger than a rhinoceros. A pencil is shorter than a pen 
+142,604,초6,YBM(최),2015,10,I Know About It,의문문을 활용해 특정 주제에 관해 알고 있는지 묻기. ,"A: Do you know anything about folk tales? B: No, I don't know much about them. ",,"A: Are you familiar with ()? B: No, I have no clue. A: Do you have any knowledge of ()? B: Yes, I am aware. "
+143,604,초6,YBM(최),2015,11,How Can I Get to the Museum?,'How can I get to ()?'을 활용해 원하는 목적지에 갈 수 있는 교통수단을 묻고 답하기. ,A: How can I get to the zoo? B: You can get there by train. ,,A: How do I reach the library? B: You can get there by bus. A: What transportation can take me to the park? B: You can get there by bicycle. 
+144,604,초6,YBM(최),2015,12,What Do You Think?,look 형식을 활용해 의견을 나타내는 표현 연습하기. ,This story seems fascinating. ,,This item appears exciting. This film looks engaging. 
+145,604,초6,YBM(최),2015,13,Why Are You Happy?,Why로 감정이나 상태의 이유를 묻고 답하기. ,A: Why are you thrilled? B: Because I performed well in the race. ,,A: Why are you ()? B: Because I (). A: What makes you feel ()? B: It's because (). 
+146,312,초3,동아(윤),2022,1,"Hello, ABC!",인사말 표현을 활용해 첫 만남 및 작별 시 인사하기. ,"A: Hello there! B: Hi, good to see you! ",,"A: Good afternoon, (). B: Afternoon, (). A: Take care, (). B: Catch you later, (). "
+147,312,초3,동아(윤),2022,2,What’s This?,의문사 'What'을 활용해 물건의 정체를 묻고 답하기. ,A: What’s that? B: It’s a pen. ,,"A: What’s this? B: It’s a (). A: Is that a ()? B: Yes, it is. / No, it isn’t. "
+148,312,초3,동아(윤),2022,3,"Sit Down, Please",명령문을 활용해 상대방에게 지시를 내리고 이에 대해 응답하기. ,Open the window. ,,"Bring me your notebook, (). Stand up, (). "
+149,312,초3,동아(윤),2022,4,How Many Carrots?,How many ()를 활용해 채소나 과일의 개수 묻고 답하기. ,A: How many apples? B: Five apples. ,,A: How many oranges? B: () oranges. A: How many bananas? B: () bananas. 
+150,312,초3,동아(윤),2022,5,I Like Salad,Do you like ()? 을 활용해 좋아하는 음식 묻고 답하기. ,"A: Do you like pizza? B: Yes, I do. ",,"A: Do you enjoy eating ()? B: Yes, I do. A: Are you fond of ()? B: No, I don't. "
+151,312,초3,동아(윤),2022,6,What Color Is It?,What color ()? -를 활용해 색깔을 묻고 답하기. ,A: What color is this? B: It's blue. ,,A: What shade is that? B: It's (). A: Can you tell me the color? B: It is (). 
+152,312,초3,동아(윤),2022,7,I Have a Pencil,Do you have ()? 를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a marker? B: Yes, I do. ",,"A: Do you own a ()? B: Yes, I do. A: Have you got a ()? B: No, I don’t. "
+153,312,초3,동아(윤),2022,8,Can You Swim?,Can you ()?를 사용하여 할 수 있는 것 묻고 답하기. ,"A: Can you jump? B: Yes, I can. ",,"A: Are you able to ()? B: Yes, I can. A: Do you know how to ()? B: Yes, I can. "
+154,312,초3,동아(윤),2022,9,It’s Big!,'be + 형용사'를 활용해 동물의 크기를 묘사하는 말 하기. ,It's large. ,,It's huge. It's enormous. 
+155,312,초3,동아(윤),2022,10,Who Is He?,Who is ()?를 활용해 누구인지 묻고 답하기. ,A: Who is she? B: She's my teacher. ,,A: Who is that person? B: They're my () A: Who are they? B: They are my () 
+156,312,초3,동아(윤),2022,11,How’s the Weather?,How's the ()?를 활용해 날씨 묻고 답하기. ,A: How's the weather? B: It's cloudy. ,,A: What's the weather like today? B: It's (). A: Is it sunny outside? B: It's (). 
+157,412,초4,동아(윤),2022,1,My Name Is Sally,'What’s your name?'이라는 표현을 통해 이름을 묻고 답하기. ,A: What's your name? B: My name is Jenny. ,,A: May I know your name? B: I'm (). A: Could you tell me your name? B: I am (). 
+158,412,초4,동아(윤),2022,2,This Is My Friend,This is ()를 활용해 다른 사람을 소개하고 이에 답하기. ,A: This is Alice. ,,A: This is ()'s friend. A: Let me introduce (). 
+159,412,초4,동아(윤),2022,3,Are You Happy?,Are you ()?을 활용해 감정이나 상태 묻고 답하기. ,"A: Are you tired? B: Yes, I am. / No, I'm not. I'm refreshed. ",,"A: Are you excited? B: Yes, I am. / No, I'm not. I'm calm. A: Are you sleepy? B: Yes, I am. / No, I'm not. I'm awake. "
+160,412,초4,동아(윤),2022,4,Let’s Play Soccer,Let’s ()을 통해 제안하고 이에 대한 다양한 반응을 표현하기. ,Let's go hiking. ,,Shall we try ()? How about ()? 
+161,412,초4,동아(윤),2022,5,Don’t Run!,부정 명령문의 Don’t ()을 활용해 금지하고 이에 답하기. ,A: Don't shout. B: Okay. ,,A: Don’t touch (). B: Sorry. A: Don't open (). B: Okay. 
+162,412,초4,동아(윤),2022,6,What Time Is It?,What time is it? 및 It's ()을 활용해 시각 묻고 답하기. ,A: What time is it? B: It's nine fifteen. ,,A: Can you tell me the time? B: It's () (). A: What's the current time? B: It's () (). 
+163,412,초4,동아(윤),2022,7,Where Is My Shoe?,Where is ()?를 사용해 물건의 위치를 묻고 답하기. ,"A: Where is my pencil? B: It’s under the table. [SUB_EXPRESSION] A: Where is my ()? B: It’s on the (). A: Do you see my ()? B: Yes, it’s (). ",,
+164,412,초4,동아(윤),2022,8,It’s Sunday!,요일을 묻고 대답하는 연습을 통해 날짜 관련 표현 배우기. ,A: What day is it today? B: It’s Monday. ,,A: Do you know what day it is today? B: It’s (). A: Can you tell which day it is today? B: Today is (). 
+165,412,초4,동아(윤),2022,9,Is This Your Cap?,소유를 묻고 답하는 표현을 통해 물건의 주인을 확인하기. ,"A: Is this your pencil? B: Yes, it is / No, it isn't. ",,"A: Is this your ()? B: Yes, it is / No, it isn't. A: Is this his/her ()? B: Yes, it is / No, it isn't. "
+166,412,초4,동아(윤),2022,10,I’m Cooking,be ()ing를 활용해 현재 무엇을 하고 있는지 묻고 답하기. ,A: What are you doing? B: I'm painting. ,,A: What are you up to? B: I am (). A: What is going on? B: I am (). 
+167,412,초4,동아(윤),2022,11,How Much Is It?,'How much ~?' 패턴을 활용해 물건의 가격 묻고 답하기. ,How much does this cost? ,,How much is the ()? What's the price of the ()? 
+168,304,초3,동아(박),2015,1,"Hello, I'm Jimin",간단한 인사말을 활용해 만나거나 헤어질 때 인사하기. ,Hello there! ,,Hi! Goodbye! 
+169,304,초3,동아(박),2015,2,What's This?,'What's this/that?'를 활용해 사물의 이름을 묻고 답하기. ,A: What's that? B: It's a marker. ,,A: What is this? B: It's a (). A: What is that? B: It's a (). 
+170,304,초3,동아(박),2015,3,"Sit Down, Please",명령문 표현을 활용해 지시하고 답하기. ,"A: Sit down, please. B: Alright. ",,"A: Stand up, please. B: Sure. A: Please wait. B: Okay. "
+171,304,초3,동아(박),2015,4,Is It a Bear?,Is it ()?를 활용해 간단한 확인 및 답하기. ,"A: Is it a bird? B: Yes, it is. ",,"A: Is it ()? B: Yes, it is. A: Could that be ()? B: Yes, it is. "
+172,304,초3,동아(박),2015,5,I Like Pizza,Do you like ()?를 활용해 좋아하는 음식 묻고 답하기. ,"A: Do you like cookies? B: Yes, I do. ",,"A: Do you like ()? B: Yes, I do. A: Are you a fan of ()? B: No, I’m not. "
+173,304,초3,동아(박),2015,6,How Many Carrots?,How many ()?를 활용해 개수 묻고 답하기. ,A: How many apples do you have? B: I have three apples. ,,A: How many books are there? B: There are (). A: How many candies did you eat? B: I ate (). 
+174,304,초3,동아(박),2015,7,I Can Swim,Can ()를 활용해 할 수 있는지 묻고 답하기. ,"A: Can you draw? B: Yes, I can. ",,"A: Are you able to ()? B: Yes, I am. A: Do you know how to ()? B: No, I don't. "
+175,304,초3,동아(박),2015,8,Do You Have a Bike?,Do you have ()?를 활용해 물건을 가지고 있는지 묻고 답하기. ,"A: Do you have a pencil? B: Yes, I do. / No, I don't. ",,"A: Do you own a ()? B: Yes, I do. / No, I don't. A: Do you possess a ()? B: Yes, I do. / No, I don't. "
+176,304,초3,동아(박),2015,9,I'm Happy,Are you ()?를 활용해 감정이나 상태 묻고 답하기. ,"Q: Are you excited? A: Yes, I am. ",,"Q: Are you content? A: Yes, I am. Q: Are you feeling well? A: No, I'm not. "
+177,304,초3,동아(박),2015,10,She's My Mom,사용자를 소개하는 문장을 활용해 상대방이 누구인지 묻고 답하기. ,A: Who's he? B: He's my uncle. ,,A: Who is she? B: She's my () A: Who might this be? B: This is my () 
+178,304,초3,동아(박),2015,11,What Color Is It?,What color is ()? - It's ()를 활용해 색깔을 묻고 답하기. ,A: What color is the car? B: It's red. ,,A: What color is this? B: It’s (). A: Can you tell me the color? B: It is (). 
+179,304,초3,동아(박),2015,12,How's the Weather?,How's the weather?를 활용해 날씨 상태를 묻고 답하기. ,A: How's the weather? B: It's rainy. ,,A: What's the weather like? B: It's (). A: How is it outside? B: It's (). 
+180,404,초4,동아(박),2015,1,My Name Is Cindy,하루의 특정 시간에 맞는 인사말 활용하기. ,Good morning! ,,Good afternoon! Good evening! 
+181,404,초4,동아(박),2015,2,How Are You?,상대방의 상태나 감정을 안부를 통해 묻고 답하기. ,"A: How are you? B: I'm great, thank you. ",,A: How's it going? B: I'm feeling (). A: How do you feel? B: I'm feeling (). 
+182,404,초4,동아(박),2015,3,"Don’t Push, Please",Don’t 등을 이용해 금지 표현하기. ,Please don’t push. ,,Don’t () here. Please avoid (). 
+183,404,초4,동아(박),2015,4,What Time Is It?,시각을 물어보거나 응답하는 방법 익히기. ,A: What time is it? B: It's one o’clock. ,,A: Can you tell me the time? B: It's () o’clock. A: Do you know the current time? B: It's () o’clock. 
+184,404,초4,동아(박),2015,5,I’m Cooking,be ()ing를 활용해 상대방이 지금 무엇을 하고 있는지 묻고 답하기. ,A: What are you doing? B: I'm painting. ,,A: What are you making? B: I'm ()ing. A: What’s keeping you busy? B: I'm ()ing. 
+185,404,초4,동아(박),2015,6,It’s on the Desk,Where is ()?를 활용해 물건의 위치 묻고 답하기. ,A: Where is the book? B: It's on the table. ,,A: Where can I find the ()? B: It's in the (). A: Where is my ()? B: It's near the (). 
+186,404,초4,동아(박),2015,7,Let’s Play Soccer,Let's ()를 활용해 제안하고 답하기. ,"A: Let's read a story. B: Sure! / No, thank you. ",,"A: Let's () together. B: Sure! / Sorry, I can't. A: Why don't we ()? B: I'd love to. / Maybe another time. "
+187,404,초4,동아(박),2015,8,"Yes, It’s Mine",소유 표현을 활용해 물건이 누구의 것인지 묻고 답하기. ,"A: Is this your backpack? B: Yes, it's mine. / No, it isn't. ",,"A: Is this your ()? B: Yes, it's mine. / No, it isn't. A: Is that her ()? B: Yes, it's hers. / No, it's not. "
+188,404,초4,동아(박),2015,9,I Want a T-shirt,do you want ()? 및 I want ()를 활용해 원하는 것이 무엇인지 묻고 답하기. ,A: What would you like? B: I want a toy car. ,,A: What do you desire? B: I want a () A: What are you looking for? B: I want a () 
+189,404,초4,동아(박),2015,10,Can You Help Me?,Can you ()? 표현을 통해 상대방에게 도움 요청하고 답하기. ,"A: Can you assist me? B: Yes, I can assist. ",,"A: Could you lend me a hand? B: Yes, I can (()). A: Would you mind helping out? B: Sure, I can (()). "
+190,404,초4,동아(박),2015,11,It’s Sunday,의문 표현을 활용해 요일 묻고 답하기. ,A: What day is it today? B: It’s Friday. ,,A: Which day is it today? B: It’s (). A: Can you tell me the day? B: It’s (). 
+191,404,초4,동아(박),2015,12,I Clean the Park,do () on weekends를 활용해 주말마다 무엇을 하는지 묻고 답하기. ,A: What do you usually do on weekends? B: I enjoy painting. ,,A: What do you often do on weekends? B: I like (). A: How do you usually spend your weekends? B: I love (). 
+192,501,초5,동아(박),2015,1,I’m from Canada,출신지를 묻고 답하는 대화에 사용되는 표현. ,A: Where are you from? B: I am from Korea. ,,A: Where do you come from? B: I come from (). A: What is your hometown? B: My hometown is (). 
+193,501,초5,동아(박),2015,2,My Favorite Subject Is Math,favorite ()를 활용해 좋아하는 과목 묻고 답하기. ,A: What's your favorite subject? B: My favorite subject is science. ,,A: What subject do you like most? B: My preferred subject is (). A: Which subject is your favorite? B: I enjoy studying (). 
+194,501,초5,동아(박),2015,3,Can I Borrow Your Scissors?,Can I ()? -를 활용해 허락을 요청하고 답하기. ,Can I use your notebook? ,,May I take ()? Is it okay if I borrow ()? 
+195,501,초5,동아(박),2015,4,Whose Cap Is This?,"""Whose () is this?을 활용해 누구의 물건인지 묻고 답하기."" ",A: Whose book is this? B: It's Mina's. ,,A: Whose pen is this? B: It's ()'s. A: Whose umbrella is this? B: It's ()'s. 
+196,501,초5,동아(박),2015,5,Let’s Go Camping,Let's ()를 통해 제안하고 이에 동의하며 답하기. ,A: Let's visit the zoo. B: Sure. ,,A: Why don't we explore ()? B: That sounds fun. A: How about going to ()? B: I'd love to. 
+197,501,초5,동아(박),2015,6,I Want to Go to the Beach,want to ()를 활용해 하고 싶은 일 묻고 답하기. ,A: What do you want to do? B: I want to go to the park. ,,A: What activity do you enjoy doing? B: I enjoy (). A: What would you like to try at the moment? B: I would like to try (). 
+198,501,초5,동아(박),2015,7,How Was Your Vacation?,How was ()?를 활용해 지나간 일의 느낌 묻고 답하기. ,A: How was your picnic? B: It was delightful. ,,A: How did you find the day? B: It was (). A: What did you think of your trip? B: It was (). 
+199,501,초5,동아(박),2015,8,I Get Up at 6,기본적인 일상의 일과를 묻고 답하기에 대한 표현을 활용하기. ,A: What time do you wake up? B: I wake up at 7. ,,A: When do you have breakfast? B: I have breakfast at (). A: What time do you go to school? B: I go to school at (). 
+200,501,초5,동아(박),2015,9,How Much Is It?,How much (~)?를 통해 가격 묻고 답하기. ,A: How much is this toy? B: It’s 500 won. ,,A: How much are these cookies? B: They’re () won. A: What is the price of this book? B: It’s () won. 
+201,501,초5,동아(박),2015,10,Where‘s the Library?,길의 위치를 묻고 답하기. ,A: Where's the nearest park? B: Go straight and you'll find it on your left. ,,A: Could you tell me the way to the ()? B: It's () from here. A: How can I reach the ()? B: It's located () nearby. 
+202,501,초5,동아(박),2015,11,She Has Long Curly Hair,look like를 활용해 외모 묻고 답하기. ,A: What does your best friend look like? B: She has short wavy hair. ,,A: How does your friend look? B: () has straight dark hair. A: Could you describe your neighbor's appearance? B: () is tall with curly brown hair. 
+203,501,초5,동아(박),2015,12,He‘s a Singer,동사 'do'를 활용해 대상의 직업에 대해 묻고 답하기. ,A: What does she do? B: She's a teacher. ,,A: What does () do? B: () is a () A: Who works as a ()? B: () works as a () 
+204,601,초6,동아(박),2015,1,I'm in the Sixth Grade,be in the ()th grade를 활용해 학년 묻고 답하기. ,A: What grade are you in? B: I'm in the second grade. ,,A: Which school year are you studying in? B: I'm in (). A: Could you tell me your grade? B: My grade is (). 
+205,601,초6,동아(박),2015,2,Why Are You Excited?,Why ()?를 통해 감정이나 상태의 이유 묻고 답하기. ,A: Why are you feeling happy? B: Because I received a gift. ,,A: Why do you look upset? B: It's because (). A: Why are you smiling? B: Because I just (). 
+206,601,초6,동아(박),2015,3,I Have a Stomachache,'What’s wrong?' 표현을 통해 현재 상태나 문제점을 묻고 이에 답하기. ,A: What's troubling you? B: I have a headache. ,,A: How do you feel? B: My () is hurting. A: Are you okay? B: My () feels uncomfortable. 
+207,601,초6,동아(박),2015,4,How Often Do You Wash Your Hands?,빈도 표현을 활용해 활동의 빈도 묻고 답하기. ,A: How often do you read stories? B: Every night before bedtime. ,,A: How frequently do you visit ()? B: About () a week. A: How often do you play with ()? B: () every afternoon. 
+208,601,초6,동아(박),2015,5,When Is Your Birthday?,When is ()?을 활용해 날짜 묻고 답하기. ,A: When is the concert? B: It's on July 15th. ,,A: When is ()? B: It's on (). A: What date is () happening? B: It's on (). 
+209,601,초6,동아(박),2015,6,I’ll Go on a Trip,"""will ()를 사용하여 미래의 계획에 대해 묻고 답하기."" ",A: What will you do this evening? B: I will watch a movie. ,,"A: What are you planning to do this weekend? B: I plan to () this weekend. A: Do you have any plans tomorrow? B: Yes, I will () tomorrow. "
+210,601,초6,동아(박),2015,7,It's Next to the Post Office,지시에 따라 목적지에 도달하는 방법 묻고 답하기. ,A: How can I get to the zoo? B: Take subway line 3 and get off at the last station. ,,"A: What's the best way to ()? B: You can take () and get there easily. A: Could you tell me how to reach ()? B: Sure, just take () and follow the directions. "
+211,601,초6,동아(박),2015,8,I'd Like Noodles,음식 주문할 때 사용되는 표현 배우기 ,"A: May I take your order? B: Yes, please. I'd like pizza. ",,"A: What would you like to eat? B: I’d like (). A: Can I get you anything? B: Yes, please. I want (). "
+212,601,초6,동아(박),2015,9,I’m Stronger Than Junho,비교급 표현을 활용해 두 대상 비교하기 ,A: Who is taller? B: Felix is taller than Sam. ,,A: Who runs faster? B: () is faster than (). A: Which one is smaller? B: () is smaller than (). 
+213,601,초6,동아(박),2015,10,Do You Know Anything About Romeo and Juliet?,어떤 것에 관해 알고 있는지 묻고 답하기 ,"A: Do you know anything about pandas? B: Yes, I do. They are black and white. ",,"A: Do you know about ()? B: Yes, it’s (). A: Have you heard of ()? B: Yes, I have. "
+214,601,초6,동아(박),2015,11,We Can Plant Trees,의견 묻고 답하기 ,A: What can we do for the earth? B: We can recycle paper. ,,A: What should we do for ()? B: We can (). A: How can we help ()? B: We should (). 
+215,601,초6,동아(박),2015,12,I Want to Be a Painter,장래 희망 묻고 답하기 ,A: What do you want to be? B: I want to be a scientist. ,,A: What do you dream of being? B: I want to be (). A: What’s your future goal? B: I want to become (). 
+216,307,초3,천재(함),2022,2,"Hi, I’m Momo",만날 때와 헤어질 때 사용할 수 있는 간단한 인사 표현 배우기 ,Hi! / Hello! / Goodbye! ,,Good morning! See you later! 
+217,307,초3,천재(함),2022,3,What’s This?,물건이 무엇인지 묻고 답하는 표현 배우기 ,A: What’s this? B: It’s a doll. ,,"A: What is ()? B: It’s a (). A: Is this a ()? B: Yes, it is. / No, it isn’t. "
+218,307,초3,천재(함),2022,4,"Stand Up, Please",요청할 때 사용할 수 있는 표현 배우기 ,"A: Stand up, please. B: Sure. ",,"A: Sit down, please. B: Okay. A: Be quiet, please. B: Alright. "
+219,307,초3,천재(함),2022,5,How Many Cows?,사물이나 동물의 개수를 묻고 답하는 표현 배우기 ,A: How many cats? B: Two cats. ,,"A: How many () do you see? B: I see (). A: Are there ()? B: Yes, there are. / No, there aren’t. "
+220,307,초3,천재(함),2022,6,Do You Have a Pencil?,물건을 가지고 있는지 묻고 답하는 표현 배우기 ,"A: Do you have an eraser? B: Yes, I do./No, I don’t. ",,"A: Do you own ()? B: Yes, I do./No, I don’t. A: Have you got ()? B: Yes, I have./No, I haven’t. "
+221,307,초3,천재(함),2022,7,What Color Is It?,색깔을 묻고 답하는 표현 배우기 ,A: What color is it? B: It’s blue. ,,"A: What’s the color of ()? B: It’s (). A: Is it ()? B: Yes, it is. / No, it isn’t. "
+222,307,초3,천재(함),2022,8,I Like Apples,좋아하는 과일·채소를 묻고 답하는 표현 배우기 ,"A: Do you like bananas? B: Yes, I do./No, I don’t. ",,"A: Do you enjoy eating ()? B: Yes, I do./No, I don’t. A: Do you love ()? B: Yes, I do./No, I don’t. "
+223,307,초3,천재(함),2022,9,"Wow, It’s Big!",동물이나 식물의 특징을 묘사하는 표현 배우기 ,It’s huge. ,,It’s very (). It looks (). 
+224,307,초3,천재(함),2022,10,Can You Jump?,할 수 있는지 묻고 답하는 표현 배우기 ,"A: Can you jump? B: Yes, I can./No, I can’t. ",,"A: Are you able to ()? B: Yes, I am./No, I’m not. A: Do you know how to ()? B: Yes, I do./No, I don’t. "
+225,307,초3,천재(함),2022,11,He’s My Dad,사람이 누구인지 묻고 답하는 표현 배우기 ,A: Who’s he? B: He’s my uncle. ,,A: Who is this? B: This is my (). A: Who are they? B: They are my (). 
+226,307,초3,천재(함),2022,12,How’s the Weather?,날씨를 묻고 답하는 표현 배우기 ,A: How’s the weather? B: It’s raining. ,,"A: What’s the weather like? B: It’s (). A: Is it () outside? B: Yes, it is./No, it isn’t. "
+227,407,초4,천재(함),2022,1,My Name Is Amy,이름을 묻고 답하기 ,A: What’s your name? B: My name is Tom. ,,A: What’s your name? B: I’m (). A: May I know your name? B: I’m (). 
+228,407,초4,천재(함),2022,2,I’m Happy,Are you ()?로 감정이나 상태를 확인하는 표현 배우기 ,"A: Are you happy? B: Yes, I am. / No, I’m not. ",,"A: Are you feeling ()? B: Yes, I am. / No, I’m not. A: Do you feel ()? B: Yes, I do. / No, I don’t. "
+229,407,초4,천재(함),2022,3,Don’t Sit Here,Don’t ()로 금지 표현을 사용하고 답하기 ,A: Don’t sit here. B: Okay. ,,A: Please don’t (). B: Sure. A: No (). B: Got it. 
+230,407,초4,천재(함),2022,4,Let’s Play Basketball,Let’s ()로 제안하고 반응하는 표현 익히기 ,"A: Let’s play baseball. B: Sounds good. / Sorry, I can’t. ",,A: Let’s try (). B: Okay! / Maybe next time. A: How about we ()? B: That’s a great idea! / I’m not sure. 
+231,407,초4,천재(함),2022,5,I Want Chicken,What do you want?로 원하는 것을 묻고 답하는 표현 배우기 ,A: What do you want? B: I want chicken. ,,A: What would you like? B: I’d like (). A: What are you looking for? B: I want (). 
+232,407,초4,천재(함),2022,6,Where’s My Cap?,Where’s ()?로 물건의 위치를 묻고 답하는 방법 배우기 ,A: Where’s my cap? B: It’s on the table. ,,A: Where’s my ()? B: It’s under the (). A: Do you know where () is? B: It’s next to the (). 
+233,407,초4,천재(함),2022,7,It’s Wednesday,요일을 묻고 답하는 표현 익히기 ,A: What day is it today? B: It’s Wednesday. ,,A: What day is it tomorrow? B: It’s (). A: What’s the date today? B: It’s (). 
+234,407,초4,천재(함),2022,8,How Much Is It?,How much is ()?로 가격을 묻고 답하는 방법 익히기 ,A: How much is it? B: It’s seven hundred won. ,,A: How much does () cost? B: It’s (). A: What’s the price of ()? B: It’s (). 
+235,407,초4,천재(함),2022,9,Is This Your Bag?,Is this ()?로 물건의 주인을 묻고 답하는 방법 익히기 ,"A: Is this your bag? B: Yes, it is. / No, it isn’t. ",,"A: Is this your ()? B: Yes, it is. / No, it isn’t. A: Does this belong to you? B: Yes, it does. / No, it doesn’t. "
+236,407,초4,천재(함),2022,10,What Time Is It?,What time is it?로 시간을 묻고 답하는 표현 익히기 ,A: What time is it? B: It’s ten thirty. ,,A: What time is it now? B: It’s (). A: Do you have the time? B: It’s (). 
+237,407,초4,천재(함),2022,11,I’m Drawing a Picture,What are you doing?로 현재 하고 있는 일을 묻고 답하는 표현 배우기 ,A: What are you doing? B: I’m doing homework. ,,A: What are you working on? B: I’m working on (). A: What are you busy with? B: I’m busy with (). 
+238,407,초4,천재(함),2022,12,What Do You Do?,What do you do?로 상대방의 직업을 묻고 답하는 방법 배우기 ,A: What do you do? B: I’m a doctor. ,,A: What’s your job? B: I work as a (). A: What do you do for a living? B: I’m a (). 
+239,309,초3,천재(이),2022,2,What’s This?,What’s ()? 패턴을 통해 물건이 무엇인지 묻고 답하는 방법 알아보기. ,A: What’s this? B: It’s a pen. ,,A: What’s that? B: It’s a (). A: What’s ()? B: It’s a (). 
+240,309,초3,천재(이),2022,3,"Sit Down, Please",상대방에게 행동을 요청하는 방법 배우기. ,"A: Sit down, please. B: Okay. ",,"A: Stand up, please. B: Sure. A: Be quiet, please. B: Alright. "
+241,309,초3,천재(이),2022,4,Do You Like Tomatoes?,Do you like ()? 패턴을 통해 좋아하는 것에 대해 묻고 답하는 방법 배우기. ,"A: Do you like tomatoes? B: Yes, I do. / No, I don’t. ",,"A: Do you like ()? B: Yes, I do. / No, I don’t. A: Do you enjoy eating ()? B: Yes, I do. / No, I don’t. "
+242,309,초3,천재(이),2022,5,How Many Pigs?,How many ()? 를 통해 동물의 수를 묻고 답하는 방법 배우기. ,A: How many cows? B: Four cows. ,,"A: How many () do you see? B: I see (). A: Are there ()? B: Yes, there are. / No, there aren’t. "
+243,309,초3,천재(이),2022,6,Can You Jump?,Can you ()? 를 통해 할 수 있는지 묻고 답하는 방법 배우기. ,"A: Can you dance? B: Yes, I can. / No, I can’t. ",,"A: Can you ()? B: Yes, I can. / No, I can’t. A: Do you know how to ()? B: Yes, I do. / No, I don’t. "
+244,309,초3,천재(이),2022,7,Do You Have a Pencil?,Do you have ()? 를 통해 물건을 가지고 있는지 묻고 답하는 방법 배우기. ,"A: Do you have an eraser? B: Yes, I do. / No, I don’t. ",,"A: Do you have ()? B: Yes, I do. / No, I don’t. A: Have you got ()? B: Yes, I have. / No, I haven’t. "
+245,309,초3,천재(이),2022,8,Are You Happy?,Are you ()? 를 통해 감정이나 상태를 묻고 답하는 방법 배우기. ,"A: Are you excited? B: Yes, I am. / No, I’m not. ",,"A: Are you feeling ()? B: Yes, I am. / No, I’m not. A: Do you feel ()? B: Yes, I do. / No, I don’t. "
+246,309,초3,천재(이),2022,9,What Color Is It?,What color is ()? 를 통해 색깔을 묻고 답하는 방법 배우기. ,A: What color is your bag? B: It’s blue. ,,"A: What’s the color of ()? B: It’s (). A: Is it ()? B: Yes, it is. / No, it isn’t. "
+247,309,초3,천재(이),2022,10,She’s My Mom,Who’s ()? 를 통해 사람의 신원을 묻고 답하는 방법 배우기. ,A: Who’s that boy? B: He’s my brother. ,,A: Who’s he? B: He’s my (). A: Who are they? B: They are my (). 
+248,309,초3,천재(이),2022,11,How’s the Weather?,날씨를 묻고 답하는 표현을 통해 날씨에 대해 말하는 방법 배우기. ,A: How’s the weather today? B: It’s cloudy. ,,"A: What’s the weather like? B: It’s (). A: Is it () outside? B: Yes, it is. / No, it isn’t. "
+249,409,초4,천재(이),2022,1,What’s Your Name?,시간에 맞는 인사를 통해 상황에 알맞게 인사하는 방법 배우기. ,Good morning. ,,Good afternoon. Good evening. 
+250,409,초4,천재(이),2022,2,"Don’t Push, Please!",Don’t () 를 통해 행동을 금지하거나 제지하는 방법 배우기. ,"A: Don’t run, please! B: Okay. / I’m sorry. ",,A: Please don’t (). B: Sure. A: No (). B: Got it. 
+251,409,초4,천재(이),2022,3,Do You Want Some Pizza?,Do you want some ()? 를 통해 음식을 권하고 이에 답하는 방법 배우기. ,"A: Do you want some cake? B: Yes, please. / No, thanks. ",,"A: Would you like some ()? B: Yes, please. / No, thanks. A: How about some ()? B: Sure! / No, I’m good. "
+252,409,초4,천재(이),2022,4,It’s on the Desk,Where is ()? 를 통해 물건의 위치를 묻고 답하는 방법 배우기. ,A: Where is my wallet? B: It’s under the chair. ,,A: Where is ()? B: It’s on the (). A: Do you know where () is? B: It’s next to the (). 
+253,409,초4,천재(이),2022,5,Is This Your Watch?,Is this your ()? 를 통해 물건의 주인을 묻고 답하는 방법 배우기. ,"A: Is this your hat? B: Yes, it is. / No, it isn’t. ",,"A: Is this your ()? B: Yes, it is. / No, it isn’t. A: Does this belong to you? B: Yes, it does. / No, it doesn’t. "
+254,409,초4,천재(이),2022,6,What Time Is It?,What time is it? 를 통해 시각을 묻고 답하는 방법 배우기. ,A: What time is it? B: It’s nine forty. ,,A: What time is it now? B: It’s (). A: Can you tell me the time? B: It’s (). 
+255,409,초4,천재(이),2022,7,I’m a Doctor,What do you do? 를 통해 상대방의 직업을 묻고 답하는 방법 배우기. ,A: What do you do? B: I’m a nurse. ,,A: What’s your job? B: I’m a (). A: What do you work as? B: I’m a (). 
+256,409,초4,천재(이),2022,8,How Much Is It?,How much is it? 를 통해 물건의 가격을 묻고 답하는 방법 배우기. ,A: How much is this bag? B: It’s one thousand won. ,,A: How much does this cost? B: It’s (). A: What’s the price of ()? B: It’s (). 
+257,409,초4,천재(이),2022,9,What Day Is It Today?,What day is it today? 를 통해 요일을 묻고 답하는 방법 배우기. ,A: What day is it today? B: It’s Friday. ,,A: What’s today’s day? B: It’s (). A: Do you know what day it is? B: It’s (). 
+258,409,초4,천재(이),2022,10,How Old Is He?,How old is ()? 를 통해 나이를 묻고 답하는 방법 배우기. ,A: How old is she? B: She’s five years old. ,,A: How old is he? B: He’s (). A: What’s the age of ()? B: (). 
+259,409,초4,천재(이),2022,11,What Are You Doing?,What are you doing? 를 통해 상대방이 지금 하고 있는 동작을 묻고 답하는 방법 배우기. ,A: What are you doing? B: I’m reading a book. ,,A: What are you doing right now? B: I’m (). A: What’s keeping you busy? B: I’m (). 
+260,308,초3,천재(김),2022,1,"Hello, ABC!",만날 때 인사하는 표현 배우기 ,A: Hi. B: Hello. ,,A: Hey! B: Hi there! A: Hello! B: Nice to see you! 
+261,308,초3,천재(김),2022,2,What’s This?,What’s this/that?로 물건이 무엇인지 묻고 답하기 ,A: What’s this? B: It’s a hat. ,,A: What’s that? B: It’s a (). A: What is this? B: It’s a (). 
+262,308,초3,천재(김),2022,3,"Sit Down, Please",요청하고 이에 답하는 표현 익히기 ,"A: Sit down, please. B: Okay. ",,"A: Stand up, please. B: Sure. A: Open the window, please. B: Alright. "
+263,308,초3,천재(김),2022,4,How Many Melons?,How many ()?로 과일·채소의 개수 묻고 답하기 ,A: How many oranges? B: Four oranges. ,,A: How many () do you see? B: I see (). A: Can you count the ()? B: There are (). 
+264,308,초3,천재(김),2022,5,I Like Pizza,Do you like ()?로 좋아하는 음식 묻고 답하기 ,"A: Do you like ice cream? B: Yes, I do. / No, I don’t. ",,"A: Do you like pasta? B: Yes, I do. / No, I don’t. A: Do you like apples? B: Yes, I do. / No, I don’t. "
+265,308,초3,천재(김),2022,6,What Color Is It?,What color is it?로 색을 묻고 답하는 표현 익히기 ,A: What color is it? B: It’s blue. ,,A: What color is this? B: It’s (). A: What color is your backpack? B: It’s (). 
+266,308,초3,천재(김),2022,7,Is It a Dog?,Is it ()?로 어떤 동물인지 확인하고 답하기 ,"A: Is it a rabbit? B: Yes, it is. / No, it isn’t. ",,"A: Is it a cat? B: Yes, it is. / No, it isn’t. A: Is it a fish? B: Yes, it is. / No, it isn’t. "
+267,308,초3,천재(김),2022,8,Do You Have a Pencil?,Do you have ()?로 물건을 가지고 있는지 묻고 답하기 ,"A: Do you have a book? B: Yes, I do. / No, I don’t. ",,"A: Have you got a ()? B: Yes, I have. / No, I haven’t. A: Are you carrying a ()? B: Yes, I am. / No, I’m not. "
+268,308,초3,천재(김),2022,9,Can You Swim?,Can you ()?로 할 수 있는 것 묻고 답하기 ,"A: Can you jump? B: Yes, I can. / No, I can’t. ",,"A: Are you able to ()? B: Yes, I am. / No, I’m not. A: Do you know how to ()? B: Yes, I do. / No, I don’t. "
+269,308,초3,천재(김),2022,10,She’s My Mom,Who is ()?로 누구인지 묻고 답하기 ,A: Who is she? B: She’s my sister. ,,"A: Who’s that boy? B: He’s my (). A: Do you know who () is? B: Yes, he/she is (). "
+270,308,초3,천재(김),2022,11,It’s Snowing,How’s the weather?로 날씨를 묻고 답하기 ,A: How’s the weather? B: It’s cloudy. ,,"A: What’s the weather like today? B: It’s (). A: Is it () outside? B: Yes, it is. / No, it isn’t. "
+271,408,초4,천재(김),2022,1,How Are You?,How are you?로 안부를 묻고 답하는 표현 익히기 ,A: How are you? B: I’m great. / Not bad. / Not so good. ,,A: How’s it going? B: It’s going well. / Not too bad. A: How do you feel today? B: I feel (). 
+272,408,초4,천재(김),2022,2,This Is My Friend,This is ()로 소개하고 이에 답하기 ,A: This is my friend. B: Nice to meet you. ,,"A: This is my teacher. B: Nice to meet you, too. A: Meet my (). B: Glad to meet you! "
+273,408,초4,천재(김),2022,3,Don’t Push,Don’t ()로 금지 표현 익히기 ,A: Don’t push. ,,A: Don’t run. A: Don’t shout. 
+274,408,초4,천재(김),2022,4,I’m Happy,Are you ()?로 감정·상태를 묻고 답하기 ,"A: Are you hungry? B: Yes, I am. / No, I’m not. ",,"A: Are you tired? B: Yes, I am. / No, I’m not. A: Are you excited? B: Yes, I am. / No, I’m not. "
+275,408,초4,천재(김),2022,5,What Time Is It?,What time is it?로 시각을 묻고 답하는 표현 익히기 ,A: What time is it? B: It’s seven thirty. ,,A: What time is it now? B: It’s (). A: Do you know what time it is? B: It’s (). 
+276,408,초4,천재(김),2022,6,Is This Your Cap?,Is this ()?로 물건의 주인인지 묻고 답하기 ,"A: Is this your cap? B: Yes, it is. / No, it isn’t. ",,"A: Is this your book? B: Yes, it is. / No, it isn’t. A: Is that your pen? B: Yes, it is. / No, it isn’t. "
+277,408,초4,천재(김),2022,7,What Day Is It Today?,What day is it today?로 요일을 묻고 답하는 표현 익히기 ,A: What day is it today? B: It’s Monday. ,,A: What day is it tomorrow? B: It’s (). A: What day was yesterday? B: It was (). 
+278,408,초4,천재(김),2022,8,Let’s Play Badminton,Let’s ()로 운동을 제안하고 이에 답하기 ,"A: Let’s go swimming. B: Sounds good. / Sorry, I can’t. ",,A: Why don’t we try ()? B: That sounds fun! / Maybe another time. A: How about playing ()? B: That’s a great idea! / I’m not sure. 
+279,408,초4,천재(김),2022,9,How Much Is It?,How much is ()?로 가격을 묻고 답하는 표현 익히기 ,A: How much is this jacket? B: It’s seven hundred won. ,,A: How much does this () cost? B: It’s (). A: Could you tell me the price of ()? B: It’s (). 
+280,408,초4,천재(김),2022,10,It’s in the Box,Where is ()?로 물건의 위치를 묻고 답하기 ,A: Where is my book? B: It’s in the drawer. ,,A: Do you know where () is? B: It’s under (). A: Can you help me find ()? B: It’s behind (). 
+281,408,초4,천재(김),2022,11,What Are You Doing?,What are you doing?로 지금 하고 있는 동작 묻고 답하기 ,A: What are you doing? B: I’m painting. ,,A: What are you busy with? B: I’m busy with (). A: What are you trying to make? B: I’m trying to (). 
+282,301,초3,천재(함),2015,1,Hello!,만나고 헤어질 때 사용할 수 있는 인사 표현 알아보기. ,Hi! / Hello! / Goodbye! ,,Good evening! See you soon! 
+283,301,초3,천재(함),2015,2,"Oh, It's a Ball!",What’s ()? 를 통해 물건이 무엇인지 묻고 답하는 방법 배우기. ,A: What’s this? B: It’s a kite. ,,A: What’s that? B: It’s a (). A: Do you know what () is? B: It’s a (). 
+284,301,초3,천재(함),2015,3,"Sit Down, Please",명령문을 통해 지시하는 방법 배우기. ,"A: Be quiet, please. B: Okay. ",,"A: Line up, please. B: Sure. A: Raise your hand, please. B: All right. "
+285,301,초3,천재(함),2015,4,How Many Apples?,How many ()? 를 통해 개수를 묻고 답하는 방법 배우기. ,A: How many oranges? B: Three oranges. ,,"A: How many () do you have? B: I have (). A: Are there any ()? B: Yes, there are. / No, there aren’t. "
+286,301,초3,천재(함),2015,5,I Have a Pencil,Do you have ()? 를 통해 물건을 가지고 있는지 묻고 답하는 방법 배우기. ,"A: Do you have a ruler? B: Yes, I do. / No, I don’t. ",,"A: Do you own a ()? B: Yes, I do. / No, I don’t. A: Have you got a ()? B: Yes, I have. / No, I haven’t. "
+287,301,초3,천재(함),2015,6,What Color Is It?,What color is ()? 를 통해 색깔을 묻고 답하는 방법 배우기. ,A: What color is your backpack? B: It’s red. ,,"A: What’s the color of ()? B: It’s (). A: Is it ()? B: Yes, it is. / No, it isn’t. "
+288,301,초3,천재(함),2015,7,I Like Chicken,Do you like ()? 를 통해 좋아하거나 싫어하는 음식을 묻고 답하는 방법 배우기. ,"A: Do you like bananas? B: Yes, I do. / No, I don’t. ",,"A: Do you enjoy eating ()? B: Yes, I do. / No, I don’t. A: How do you feel about ()? B: I like it. / I don’t like it. "
+289,301,초3,천재(함),2015,8,It's Very Tall!,It’s () 를 통해 사물이나 동물을 묘사하는 방법 배우기. ,It’s tall. ,,It’s very (). It looks (). 
+290,301,초3,천재(함),2015,9,I Can Swim,Can you ()? 를 통해 능력 여부를 묻고 답하는 방법 배우기. ,"A: Can you swim? B: Yes, I can. / No, I can’t. ",,"A: Are you able to ()? B: Yes, I am. / No, I’m not. A: Do you know how to ()? B: Yes, I do. / No, I don’t. "
+291,301,초3,천재(함),2015,10,She's My Mom,Who’s ()? 를 통해 사람을 묻고 답하는 방법 배우기. ,A: Who’s he? B: He’s my uncle. ,,A: Who’s she? B: She’s my (). A: Who are those people? B: They are my (). 
+292,301,초3,천재(함),2015,11,Look! It's Snowing,How’s the weather? 를 통해 날씨를 묻고 답하는 방법 배우기. ,A: How’s the weather today? B: It’s rainy. ,,"A: What’s the weather like? B: It’s (). A: Is it () outside? B: Yes, it is. / No, it isn’t. "
+293,401,초4,천재(함),2015,1,My Name Is Eric,자기소개하는 표현을 통해 자신을 소개하는 방법 배우기. ,My name is Daniel. ,,I’m (). People call me (). 
+294,401,초4,천재(함),2015,2,Let's Play Soccer,Let’s () 를 통해 제안하고 반응하는 방법 배우기. ,"A: Let’s go swimming. B: Sounds great. / Sorry, I can’t. ",,A: How about playing ()? B: Sure! / Maybe next time. A: Why don’t we try ()? B: That’s a good idea! / I’m not sure. 
+295,401,초4,천재(함),2015,3,I'm Happy,Are you ()? 를 통해 감정이나 상태를 묻고 답하는 방법 배우기. ,"A: Are you tired? B: Yes, I am. / No, I’m not. ",,"A: Are you feeling ()? B: Yes, I am. / No, I’m not. A: Do you feel ()? B: Yes, I do. / No, I don’t. "
+296,401,초4,천재(함),2015,4,Don't Run!,Don’t () 를 통해 금지하는 표현을 배우기. ,Don’t touch that. ,,Please don’t (). No (). 
+297,401,초4,천재(함),2015,5,Where Is My Cap?,Where is ()? 를 통해 사물의 위치를 묻고 답하는 방법 배우기. ,A: Where is my phone? B: It’s under the chair. ,,A: Where is ()? B: It’s next to the (). A: Do you know where () is? B: It’s near the (). 
+298,401,초4,천재(함),2015,6,What Time Is It?,What time is it? 를 통해 시각을 묻고 답하는 방법 배우기. ,A: What time is it now? B: It’s ten fifteen. ,,A: Can you tell me the time? B: It’s (). A: Do you know what time it is? B: It’s (). 
+299,401,초4,천재(함),2015,7,Is This Your Watch?,Is this your ()? 를 통해 물건의 주인을 묻고 답하는 방법 배우기. ,"A: Is this your pen? B: Yes, it is. / No, it isn’t. ",,"A: Is this your ()? B: Yes, it is. / No, it isn’t. A: Does this belong to you? B: Yes, it does. / No, it doesn’t. "
+300,401,초4,천재(함),2015,8,I'm a Pilot,What do you do? 를 통해 직업을 묻고 답하는 방법 배우기. ,A: What do you do? B: I’m a scientist. ,,A: What’s your job? B: I’m a (). A: What do you work as? B: I’m a (). 
+301,401,초4,천재(함),2015,9,What Are You Doing?,What are you doing? 를 통해 상대방이 현재 하고 있는 동작을 묻고 답하는 방법 배우기. ,A: What are you doing? B: I’m drawing. ,,A: What are you up to? B: I’m (). A: What’s keeping you busy? B: I’m (). 
+302,401,초4,천재(함),2015,10,How Much Is It?,How much is ()? 를 통해 가격을 묻고 답하는 방법 배우기. ,A: How much is this book? B: It’s 800 won. ,,A: How much does this cost? B: It’s (). A: What’s the price of ()? B: It’s (). 
+303,401,초4,천재(함),2015,11,I Get Up Early,Do you () every day? 를 통해 생활 습관을 묻고 답하는 방법 배우기. ,"A: Do you exercise every day? B: Yes, I do. / No, I don’t. ",,"A: Do you always ()? B: Yes, I do. / No, I don’t. A: How often do you ()? B: Every day. / Sometimes. "
+304,506,초5,천재(함),2015,1,Where Are You From?,Where are you from?로 출신 국가를 묻고 답하는 표현 익히기 ,A: Where are you from? B: I’m from Canada. ,,A: What country are you from? B: I’m from (). A: Where do you come from? B: I come from (). 
+305,506,초5,천재(함),2015,2,What Do You Do on Weekends?,What do you do on ()?로 여가 활동을 묻고 답하는 표현 익히기 ,A: What do you do on Sundays? B: I go to a music class. ,,A: What do you usually do on ()? B: I always (). A: How do you spend your ()? B: I usually (). 
+306,506,초5,천재(함),2015,3,May I Sit Here?,May I ()?로 허락을 요청하고 이에 답하는 표현 익히기 ,"A: May I use your pen? B: Yes, you may. / No, you may not. ",,"A: Could I borrow ()? B: Sure! / Sorry, not right now. A: Is it okay if I ()? B: Of course! / I’d prefer not. "
+307,506,초5,천재(함),2015,4,Whose Sock Is This?,Whose () is this?로 물건의 주인이 누구인지 묻고 답하는 표현 익히기 ,A: Whose glove is this? B: It’s Mina’s. ,,"A: Who owns this ()? B: That belongs to (). A: Does this () belong to you? B: No, it’s (). "
+308,506,초5,천재(함),2015,5,I’d Like Fried Rice,May I take your order?로 음식 주문하기 ,A: May I take your order? B: I’d like a cheeseburger. ,,"A: What would you like to eat? B: I’ll have (). A: Can I get you anything? B: Yes, I’d like (). "
+309,506,초5,천재(함),2015,6,What Will You Do This Summer?,What will you do ()?로 미래에 할 일을 묻고 답하는 표현 익히기 ,A: What will you do next weekend? B: I’ll go hiking. ,,"A: What are you planning to do ()? B: I’m going to (). A: Do you have any plans for ()? B: Yes, I’m planning to (). "
+310,506,초5,천재(함),2015,7,I Visited My Uncle in Jeju-do,How was ()?로 과거에 한 일 묻고 답하는 표현 익히기 ,A: How was your weekend? B: It was fantastic. ,,A: How did your () go? B: It was (). A: What was () like? B: It was really (). 
+311,506,초5,천재(함),2015,8,How Much Are the Shoes?,How much are ()?로 물건의 가격을 묻고 답하는 표현 익히기 ,A: How much are these sneakers? B: They are twenty dollars. ,,A: How much do these () cost? B: They cost (). A: What’s the price of these ()? B: They are (). 
+312,506,초5,천재(함),2015,9,My Favorite Subject Is Science,What’s your favorite ()?로 좋아하는 것 묻고 답하는 표현 익히기 ,A: What’s your favorite sport? B: My favorite sport is tennis. ,,A: What do you like the most? B: I really enjoy (). A: What’s your favorite type of ()? B: I love (). 
+313,506,초5,천재(함),2015,10,What a Nice House!,There is ()로 장소를 묘사하는 표현 익히기 ,A: There is a bookshelf in my room. ,,A: There are () near the (). A: You can find () inside (). 
+314,506,초5,천재(함),2015,11,I Want to Be a Movie Director,What do you want to be?로 장래 희망을 묻고 답하는 표현 익히기 ,A: What do you want to be? B: I want to be a scientist. ,,A: What’s your dream job? B: I hope to be a (). A: What do you want to do when you grow up? B: I’d love to be a (). 
+315,606,초6,천재(함),2015,1,What Grade Are You In?,be in the ()th grade를 활용해 학년 묻고 답하기. ,A: What grade are you in? B: I'm in the third grade. ,,A: Which class are you in? B: I'm in () class. A: What school level are you at? B: I'm in () grade. 
+316,606,초6,천재(함),2015,2,I Have a Cold,"""What's wrong? 를 사용하여 상대방의 아픈 상태를 묻고 답하기."" ",A: What's the matter? B: I have a headache. ,,"A: How are you feeling today? B: I feel (,). A: Where does it hurt? B: My () hurts. "
+317,606,초6,천재(함),2015,3,When Is the Club Festival?,의문사 'When'을 활용해 날짜 묻고 답하기. ,A: When is the birthday party? B: It's on August 5th. ,,A: What date is the event? B: It's on (). A: When will the celebration occur? B: It'll happen on (). 
+318,606,초6,천재(함),2015,4,Where Is the Post Office?,방향 안내 표현을 활용해 길 묻고 답하기. ,A: Where is the library? B: Walk three blocks straight and you'll find it on your left. ,,"A: Can you tell me the way to ()? B: Sure, go straight and pass (). A: How can I arrive at ()? B: Just take the road straight ahead, and it's near (). "
+319,606,초6,천재(함),2015,5,I’m Going to See a Movie,be going to 를 활용해 미래 계획에 대해 묻고 답하기. ,A: What are you going to do this weekend? B: I’m going to visit my grandparents. ,,A: What are you planning to do ()? B: I’m planning to (). A: What do you intend to do ()? B: I intend to (). 
+320,606,초6,천재(함),2015,6,He Has Short Curly Hair,look like를 활용해 외모 묻고 답하기. ,A: What does she look like? B: She has blue eyes and short curly hair. ,,A: How does he look? B: He has () and (). A: Can you describe her appearance? B: She has () and (). 
+321,606,초6,천재(함),2015,7,How Often Do You Eat Breakfast?,[How often]을 활용해 상대방에게 빈도수를 묻고 답하기. ,A: How often do you watch cartoons? B: Twice a week. ,,A: How frequently do you read books? B: () a month. A: How regularly do you go outside? B: () every evening. 
+322,606,초6,천재(함),2015,8,I’m Taller Than You,비교급 표현 'A is more ~ than B'를 통해 두 대상을 비교하는 표현 연습하기. ,A: I’m taller than you! ,,A: I’m happier than (). A: I’m more excited than (). 
+323,606,초6,천재(함),2015,9,What Do You Think?,동의 여부를 묻고 답할 때 사용되는 표현을 활용하여 자신의 의견을 나타내기. ,A: What do you think? B: I think so. ,,"A: Do you agree with ()? B: Yes, I do. A: Would you say that ()? B: No, I wouldn't. "
+324,606,초6,천재(함),2015,10,Who Wrote the Book?,Who를 활용해 누가 한 일인지 묻고 답하기. ,A: Who repaired the car? B: The mechanic did. ,,A: Who painted the picture? B: () did. A: Who cooked the meal? B: () did. 
+325,606,초6,천재(함),2015,11,We Should Save the Earth,should를 활용해 의무와 권장 사항 표현하기. ,We should take care of animals. ,,We must protect (). It is necessary to help (). 
+326,310,초3,YBM(김),2022,1,Hello! I’m Dito,자신을 소개하고 이에 답하는 표현 익히기. ,A: I am Eric. ,,A: My name is (). A: I’m ()! 
+327,310,초3,YBM(김),2022,2,"Sit Down, Please",감사 표현 및 이에 대한 응답하기. ,Thank you. ,,Thanks a lot. Thank you kindly. 
+328,310,초3,YBM(김),2022,3,What’s This?,주목을 요청하기 위한 표현 사용하기. ,Look over here! ,,See this! Pay attention! 
+329,310,초3,YBM(김),2022,4,I Like Pizza,like를 활용해 좋아하거나 싫어하는 음식 말하기. ,"A: Do you like ice cream? B: Yes, I love it. ",,"A: Do you enjoy ()? B: Yes, I enjoy it. A: Do you dislike ()? B: No, I really like it. "
+330,310,초3,YBM(김),2022,5,How Many Tigers?,형용사를 활용해 사물이나 대상의 크기 나타내기. ,A: It's big. ,,A: It's large. A: It's huge. 
+331,310,초3,YBM(김),2022,6,Can You Swim?,능력과 가능성을 나타내는 조동사 can과 can't를 활용해 할 수 있는 일과 불가능한 일 말하기. ,I can play the piano. ,,I can () well. I cannot (). 
+332,310,초3,YBM(김),2022,7,What Color Is It?,부정 표현을 활용해 본인의 모르고 있음을 나타내기. ,I'm not sure. ,,I have no idea. I can't say. 
+333,310,초3,YBM(김),2022,8,Do You Have a Ruler?,건네는 상황에서 사용하는 표현 익히기. ,Here you go. ,,There you are. Here it is. 
+334,310,초3,YBM(김),2022,9,How Old Are You?,축하의 말을 통해 다른 사람의 생일 축하하기. ,Wishing you a very happy birthday! ,,Happy belated birthday! Have a fantastic birthday! 
+335,310,초3,YBM(김),2022,10,He’s My Dad,기본적인 표현을 활용해 잘한 일을 칭찬하기. ,Great job! ,,Nice work! Excellent effort! 
+336,310,초3,YBM(김),2022,11,How’s the Weather?,Let’s ()를 활용해 제안하는 말 하기. ,Let's eat some snacks. ,,Let's play a game. Let's read a book. 
+337,311,초3,YBM(최),2022,1,"Hello, ABC!",자기 자신을 소개할 때 활용할 수 있는 간단한 표현 연습하기. ,"Hello, I'm Jina. What's your name? ",,"Hi, I'm (). My name is (). "
+338,311,초3,YBM(최),2022,2,What’s This?,간단한 형용사를 활용해 사물 묘사하기. ,It is large. ,,It is small. It is new. 
+339,311,초3,YBM(최),2022,3,"Sit Down, Please",Don’t ()를 활용해 금지하기. ,"Please don't jump, okay? ",,"Please don't touch that, alright? Don't make noise,please. "
+340,311,초3,YBM(최),2022,4,How Many Cows?,상대방의 주의를 끌기 위해 간단한 표현 활용하기. ,Look! ,,"Hey, check this out! Wow! Come on and see this! "
+341,311,초3,YBM(최),2022,5,Do You Like Apples?,like를 활용해 좋아하거나 싫어하는 것 표현하기. ,I enjoy apples. ,,I love (). I don't like (). 
+342,311,초3,YBM(최),2022,6,I Can Jump,응원의 표현을 활용해 격려하기. ,Believe in yourself. ,,"Keep going, you can achieve (). Don't give up, you're capable of (). "
+343,311,초3,YBM(최),2022,7,I Have a Pencil,have를 사용해 물건을 가지고 있는지 표현하기. ,"A: Do you have a bag? B: Yes, I have a bag. ",,"A: Do you own a ()? B: Yes, I have a (). A: Have you got a ()? B: No, I don’t have a (). "
+344,311,초3,YBM(최),2022,8,I’m Happy,How old are you?'를 활용해 상대방의 나이를 묻고 답하기. ,A: How old are you? B: I'm six years old. ,,A: What's your age? B: I'm () years old. A: Can you tell me your age? B: I'm () years old. 
+345,311,초3,YBM(최),2022,9,What Color Is It?,상대방의 의견이나 말에 동의하기. ,Absolutely correct. ,,Exactly. That's accurate. 
+346,311,초3,YBM(최),2022,10,How’s the Weather?,'Let's ()'를 활용해 활동을 제안하고 답하기. ,A: Let's play together. B: Sure. ,,A: Let's go for a walk. B: Okay. A: Let's sing a song. B: Great idea. 
+347,302,초3,YBM(김),2015,1,"Hello, I’m Tibo",간단한 자기소개 및 이에 대한 답례 표현 익히기. ,"Hi, I'm Alex. — Pleased to meet you. ",,"Hi, my name is (). — It's nice to meet you. Hello, I am (). — How do you do? "
+348,302,초3,YBM(김),2015,2,What’s This?,사물의 크기를 나타내는 표현으로 It's ()를 활용해 크기 묘사하기. ,It’s large. ,,It’s massive. It’s enormous. 
+349,302,초3,YBM(김),2015,3,"Sit Down, Please",간단한 표현을 활용해 칭찬이나 긍정적인 반응하기. ,Fantastic! ,,Amazing! Wonderful! 
+350,302,초3,YBM(김),2015,4,Do You Like Pizza?,like를 활용해 좋아하거나 싫어하는 음식 표현하기. ,I enjoy fruits. ,,I like (). I don’t enjoy (). 
+351,302,초3,YBM(김),2015,5,How Are You?,하루의 시간대에 맞는 인사하기. ,Good morning! ,,Hello! Hi there! 
+352,302,초3,YBM(김),2015,6,Can You Swim?,can/can't 표현을 통해 능력 여부를 나타내기. ,"A: Can you cook? B: Yes, I can. ",,"A: Are you able to ()? B: Absolutely, I can do that. A: Do you know how to ()? B: Indeed, I know how. "
+353,302,초3,YBM(김),2015,7,How Many Lions?,사용자의 주의를 끌 때 사용할 표현 활용하기. ,Look over there! ,,Look at that! Take a look! 
+354,302,초3,YBM(김),2015,8,What Color Is It?,감사의 표현을 활용하고 답하기. ,Thank you. ,,Thanks! You're welcome! 
+355,302,초3,YBM(김),2015,9,Let’s Jump,상대방의 즐거움을 바라는 인사를 활용해 기원하기. ,Enjoy your day! ,,Wishing you fun! Make it a great time! 
+356,302,초3,YBM(김),2015,10,Do You Have Any Crayons?,상대방에게 물건을 건네면서 Here you are 표현 활용하기. ,Here you go. ,,Take this. This is for you. 
+357,302,초3,YBM(김),2015,11,How Old Are You?,특정 상황에 맞는 인사를 통해 생일 축하하기. ,"Happy birthday, Alice! ",,Congratulations on your birthday! Many happy returns of the day! 
+358,302,초3,YBM(김),2015,12,"Don’t Run, Please",위험 상황에서 경고하는 표현으로 활용하기. ,Watch out! A car is coming. ,,Look out! Be careful! 
+359,302,초3,YBM(김),2015,13,How’s the Weather?,헤어질 때 사용하는 인사표현을 활용해 작별 인사하기. ,Bye now. ,,Good bye! Take care! 
+360,303,초3,YBM(최),2015,1,"Hi, I’m Sena",이름을 묻고 답할 때 사용하는 표현 익히기. ,What is your name? My name is Liam. ,,What is the name of ()? It is (). Can you tell me your name? I am (). 
+361,303,초3,YBM(최),2015,2,What’s This?,특정 상황에서 주의를 요청하거나 집중을 끌기 위해 특정 표현을 사용하기. ,Look over here! ,,Check this out! See here! 
+362,303,초3,YBM(최),2015,3,"Open the Box, Please","감탄사를 사용하여 감정을 간단히 표현하기. 예를 들어, Great! 등 다양한 표현을 활용하여 기쁨이나 놀라움을 나타낼 수 있습니다. ",Amazing! ,,Fantastic! Incredible! 
+363,303,초3,YBM(최),2015,4,Do You Like Apples?,like를 활용해 좋아하는 것 표현하기. ,I like ice cream. ,,I enjoy (). I really like (). 
+364,303,초3,YBM(최),2015,5,How Many Dogs?,크기를 나타내는 형용사를 활용해 대상의 크기 표현하기. ,It’s huge. ,,It’s small. It’s large. 
+365,303,초3,YBM(최),2015,6,Do You Have a Ruler?,do/does (not) have ()를 사용하여 소유 여부 표현하기. ,I have a ruler. ,,I don't have a () Do you have a ()? 
+366,303,초3,YBM(최),2015,7,Can You Swim?,can을 활용해 자신의 능력 표현하기. ,I can jump. ,,I can () I am able to () 
+367,303,초3,YBM(최),2015,8,"Don’t Run, Please",상대방에게 주의를 줄 때 활용되는 표현 익히기. ,Be cautious when walking on the stairs. ,,Pay attention when near the edge. Stay alert around dangerous areas. 
+368,303,초3,YBM(최),2015,9,Who Is She?,형용사를 사용하여 사람의 외모를 묘사하기. ,He’s tall. ,,She’s short. He’s slender. 
+369,303,초3,YBM(최),2015,10,What Color Is It?,Look at ()를 활용해 주의를 끄는 말 하기. ,Look at this! ,,Watch this! Check this out! 
+370,303,초3,YBM(최),2015,11,How Old Are You?,특별한 날을 축하하는 인사를 활용해 생일 축하하기. ,Happy Birthday! ,,Many happy returns! Have a wonderful birthday! 
+371,303,초3,YBM(최),2015,12,How’s the Weather?,Let's를 활용해 함께 행동을 제안하기. ,Shall we have fun? ,,Why don't we ()? Would you like to ()? 
+372,410,초4,YBM(김),2022,1,How Are You?,This is ()을 활용해 다른 사람을 소개하기. ,This is Sarah. ,,"This is my teacher, (). This is our neighbor, (). "
+373,410,초4,YBM(김),2022,2,Let’s Play Baseball,be busy를 활용해 거절의 이유 말하기. ,I'm busy. ,,I'm occupied. I can't right now. 
+374,410,초4,YBM(김),2022,3,Where Is My Bag?,위로하는 표현을 활용하여 상대방을 안심시키기. ,Don’t worry. ,,It’s going to be okay. Everything will be fine. 
+375,410,초4,YBM(김),2022,4,Are You Happy?,다양한 상황에서 적절한 경고 표현을 활용해 전하는 방법 익히기. ,Be careful! ,,Look out! Pay attention! 
+376,410,초4,YBM(김),2022,5,"Don’t Touch, Please",사과를 표현하고 이를 수용하는 기초적인 문장 활용하기. ,I'm sorry. ,,Apologies. Sorry about that. 
+377,410,초4,YBM(김),2022,6,Is This Your Watch?,It is describing objects using the basic adjective form. ,My jacket is cozy. ,,My notebook is small. My backpack is light. 
+378,410,초4,YBM(김),2022,7,What Time Is It?,It's time for ()를 통해 무엇을 할 시간인지 말하기. ,It's time for a break. ,,It's time for ()! It's time to ()! 
+379,410,초4,YBM(김),2022,8,What Are You Doing?,be ()ing를 활용해 다른 사람이 지금 하고 있는 일을 묻고 답하기. ,A: What is he doing? B: He’s writing a letter. ,,A: What is she up to? B: She’s ()ing. A: What activity is he involved in? B: He’s ()ing. 
+380,410,초4,YBM(김),2022,9,What Day Is It?,상대방에게 좋은 하루를 보내라는 바람을 전달하기. ,Have a pleasant evening! ,,Have an enjoyable afternoon! Have a successful day! 
+381,410,초4,YBM(김),2022,10,I’m a Farmer,직업을 묻고 답할 수 있는 질문과 대답 활용하기. ,A: What does she do? B: She's a teacher. ,,A: What is her job? B: She is a (). A: What kind of work does she do? B: She works as a (). 
+382,410,초4,YBM(김),2022,11,How Much Is It?,Can I ~? 표현을 활용해 도움을 제안하기. ,May I assist you? ,,Do you need help? How can I assist you? 
+383,411,초4,YBM(최),2022,1,How Are You?,하루의 시간대에 맞는 인사하는 표현 활용하기. ,Good morning! ,,Good afternoon! Good evening! 
+384,411,초4,YBM(최),2022,2,Who Is She?,be 동사를 활용해 인물의 특징을 묘사하기. ,She is kind. ,,He is friendly. They are funny. 
+385,411,초4,YBM(최),2022,3,What Time Is It?,It's time for ()를 활용해 무엇을 할 시간인지 말하기. ,It’s time for breakfast. ,,It’s time to eat. It’s time for () to start. 
+386,411,초4,YBM(최),2022,4,Let’s Play Soccer,상대방의 상태를 묻는 표현 사용하기. ,Are you alright? ,,Are you feeling fine? Are you doing okay? 
+387,411,초4,YBM(최),2022,5,Where Is My Bag?,상대방의 말을 다시 듣고자 할 때 간단한 표현으로 전달하기. ,"Could you repeat that, please? ",,Would you mind saying that again? Could you rephrase what you just mentioned? 
+388,411,초4,YBM(최),2022,6,What Are You Doing?,'Can you ()? ' 문형을 활용하여 도움 요청하고 이에 답하기. ,A: Could you assist me? ,,"A: May I request your help? A: Would you help me, please? "
+389,411,초4,YBM(최),2022,7,Is This Your Jacket?,소유격 대명사를 활용해 자기 의복의 특징 말하기. ,Mine is yellow. ,,Mine is blue. Mine is green. 
+390,411,초4,YBM(최),2022,8,Do You Want Some Chicken?,I want () 표현을 통해 원하는 음식이나 물건을 말하기. ,I would like some pizza. ,,I prefer some (). I wish for some (). 
+391,411,초4,YBM(최),2022,9,What Day Is It Today?,현재 활동 설명을 통해 자신의 일정을 표현하기. ,I have art class today. ,,I have piano lesson today. I have drama rehearsal today. 
+392,411,초4,YBM(최),2022,10,How Much Is It?,Can I help you?와 같은 표현을 통해 도움을 제안하고 이에 대한 긍정적 응답 하기. ,"A: May I assist you? B: Sure, thanks! ",,"A: How can I help you? B: Yes, please. A: Do you need assistance? B: Okay, thank you. "
+393,402,초4,YBM(김),2015,1,What’s Your Name?,간단한 문장을 통해 다른 사람을 소개하기. ,This is Minnie. ,,This is (). That's (). 
+394,402,초4,YBM(김),2015,2,Are You Happy?,간단한 표현을 사용하여 사과하고 이해하기. ,A: I'm sorry. ,,A: I apologize. A: Pardon me. 
+395,402,초4,YBM(김),2015,3,Who Is He?,키를 나타내는 표현를 활용해 인물 표현하기. ,He’s tall. ,,He is (adjective). She is (adjective). 
+396,402,초4,YBM(김),2015,4,Let’s Play Baseball,상대방의 요청이나 제안을 거절하는 이유를 간단하게 설명하기. ,I'm focused at the moment. ,,I'm preoccupied with (). I have other tasks to attend to. 
+397,402,초4,YBM(김),2015,5,Is This Your Rocket?,소유격 대명사 구문을 활용하여 자신의 물건인지 아닌지 확인하기. ,"Is this yours? Yes, it's mine. ",,"Is that yours? No, it's not mine. Are these yours? Yes, they're mine. "
+398,402,초4,YBM(김),2015,6,What Time Is It?,It's time for ()를 활용해 무엇을 할 시간인지 나타내기. ,It's time for dinner. ,,It’s time for lunch. It’s time for () 
+399,402,초4,YBM(김),2015,7,It’s Under the Table,I'm not sure를 활용해 자신의 모름을 표현하기. ,I have no idea. ,,I’m not sure. I can’t say for certain. 
+400,402,초4,YBM(김),2015,8,Do You Want Some Ice Cream?,간단한 표현을 활용해 음식을 권유하기. ,Enjoy the snacks. ,,Help yourself to some (). Feel free to enjoy (). 
+401,402,초4,YBM(김),2015,9,Can I Come In?,간단한 표현을 활용해 상대방에게 권유하기. ,You may proceed. ,,Feel free to go. Proceed if you'd like. 
+402,402,초4,YBM(김),2015,10,What Are You Doing?,감정을 표현하기 위해 간단한 문구를 활용하기. ,That's awesome! ,,That's amazing! That's wonderful! 
+403,402,초4,YBM(김),2015,11,"Put On Your Jacket, Please",길이 관련 형용사를 활용해 사물의 특징 묘사하기. ,It's short. ,,It's wide. It's narrow. 
+404,402,초4,YBM(김),2015,12,How Much Is It?,Can I help you?라는 표현을 통해 상대방에게 도움을 제안하고 이에 답하기. ,"A: Can I assist you? B: Certainly, thank you. ",,"A: May I help you? B: Sure, please. A: Do you need assistance? B: Yes, please. "
+405,402,초4,YBM(김),2015,13,What Day Is It?,확인을 요청하는 표현을 활용해 상대방의 의견 또는 결정 확인하기. ,Are you confident? ,,Do you believe in ()? Is it true that ()? 
+406,403,초4,YBM(최),2015,1,How Are You?,상대의 안부를 묻고 답하기를 통해 예의 바른 대화 시작하기. ,"A: How are you? B: I'm doing well, thanks. ",,A: How is it going? B: I'm feeling (). A: What's up? B: Everything is (). 
+407,403,초4,YBM(최),2015,2,This Is Kate,상대방과 처음 만났을 때 예의 있게 인사하고 이에 답하는 표현 활용하기. ,,,"Hello! - It's great to meet you! How do you do? - Pleased to meet you, too. "
+408,403,초4,YBM(최),2015,3,Where Is My Watch?,다양한 표현을 활용해 상대방에게 반복 요청하기. ,"Can you repeat that, please? ",,Could you say that again? Pardon? 
+409,403,초4,YBM(최),2015,4,Are You Okay?,감정을 나타내는 표현을 활용해 슬픔 표현하기. ,I feel down. ,,I am feeling blue. I feel upset. 
+410,403,초4,YBM(최),2015,5,What Time Is It?,It's time for ()를 활용해 시각에 따른 일과를 나타내기. ,It's time for school. ,,It's time for lunch. It's time for bed. 
+411,403,초4,YBM(최),2015,6,Let’s Play Badminton,"상대방의 의견이나 취향에 동의할 때 Me, too.를 활용해 간단히 표현하기. ","Me, too. ",,So do I. I feel the same way. 
+412,403,초4,YBM(최),2015,7,What Are You Doing?,be ()ing를 활용해 다른 사람이 지금 하고 있는 행동 묻고 답하기. ,A: What is your friend doing? B: She's watching television. ,,A: What is he doing? B: He's ()ing. A: What is she up to? B: She's currently ()ing. 
+413,403,초4,YBM(최),2015,8,What Do You Want?,Would you like~?를 활용해 음식을 권하고 수락하는 대화하기. ,"A: Would you like some juice? B: Yes, sure. ",,"A: Do you want some cake? B: Sure. A: Would you care for some tea? B: Yes, please. "
+414,403,초4,YBM(최),2015,9,What Day Is It Today?,감정 표현에 사용되는 기쁨 표현하기. ,That's awesome! ,,That's fantastic! That's wonderful! 
+415,403,초4,YBM(최),2015,10,Is This Your Cap?,소유격 표현을 활용해 자기 물건의 특징 말하기. ,Mine is green. ,,The one I have is (). My item appears (). 
+416,403,초4,YBM(최),2015,11,Touch Your Feet,Can you ()? 표현을 활용해 도움 요청하기. ,Can you assist me? ,,Could you help me with ()? Would you mind helping me with ()? 
+417,403,초4,YBM(최),2015,12,Do You Like Fishing?,It's ()를 활용해 감정이나 느낌 표현하기. ,It’s enjoyable. ,,It’s fascinating. It’s amusing. 
+418,503,초5,YBM(김),2015,1,How’s It Going?,상대방이 말한 주제에 대해 동일한 질문을 되묻기. ,How about you? ,,What about you? And yourself? 
+419,503,초5,YBM(김),2015,2,I’m in the Kitchen,정중한 표현을 사용하여 도움을 요청하고 이에 적절히 답하기. ,,,"Could you assist me, please? — Certainly. Would you mind helping me out? — Absolutely. "
+420,503,초5,YBM(김),2015,3,Whose Balloon Is This?,물건의 소유권에 대한 정보를 설명하는 문장 구성 활용하기. ,"No, it's Sarah's pen. ",,"No, it's Alex's () No, it's Mike's () "
+421,503,초5,YBM(김),2015,4,Let’s Go Camping,전화 시작시 사용되는 인사말 표현을 활용하기. ,"Hello, this is Mia speaking. ",,"Hi, this is Alex. Hello, you've reached (). "
+422,503,초5,YBM(김),2015,5,I Want an Airplane,This is for you라는 표현을 통해 선물을 줄 때의 마음을 전달하기. ,Here is something for you! ,,This is a gift for (). I have something for (). 
+423,503,초5,YBM(김),2015,6,What Does He Do?,have no idea를 활용해 모르고 있는 상태 표현하기. ,I don't know. ,,I have no clue. I am not sure. 
+424,503,초5,YBM(김),2015,7,What Time Do You Get Up?,칭찬 표현을 이용해 상대방의 잘한 일 인정하기. ,Good job! ,,Nice work! Great effort! 
+425,503,초5,YBM(김),2015,8,Where Are You From?,헤어질 때 사용하는 인사 표현을 통해 상대방에게 긍정적인 하루를 기원하기. ,Have a pleasant day. ,,Take care! See you soon! 
+426,503,초5,YBM(김),2015,9,I Went to the Museum,have a great time 표현을 통해 과거의 일에 대한 긍정적인 소감 나타내기. ,I enjoyed the event. ,,I had fun yesterday. I felt happy then. 
+427,503,초5,YBM(김),2015,10,What Does He Look Like?,be wearing을 활용해 사람의 옷차림 묘사하기. ,She's wearing a blue dress. ,,I am dressed in a () outfit. They are putting on their () clothes. 
+428,503,초5,YBM(김),2015,11,He’s Listening to Music,He looks ()를 활용해 다른 사람의 기분이나 상태 나타내기. ,He seems cheerful. ,,She appears content. They look delighted. 
+429,503,초5,YBM(김),2015,12,They’re Three Dollars,May I를 활용해 허가 여부 묻고 답하기. ,A: May I borrow this book? B: Sure. ,,A: Can I use the computer? B: Certainly. A: Might I open the window? B: Of course. 
+430,503,초5,YBM(김),2015,13,Where Is the Gift Shop?,감사를 전하고 이에 답하는 표현 활용하기. ,A: Thank you so much! B: You're welcome. ,,A: Thanks a lot! B: No big deal. A: I appreciate it! B: Anytime. 
+431,503,초5,YBM(김),2015,14,What Do You Do in Your Free Time?,칭찬 표현을 활용해 상대방을 격려하거나 축하하기. ,Great for you! ,,Well done! Way to go! 
+432,504,초5,YBM(최),2015,1,I’m from Mexico,How do you spell ()?를 통해 이름의 철자를 묻고 답하기. ,A: How do you spell your first name? B: J-O-H-N. ,,A: Can you spell your full name for me? B: ()-()-()-(). A: Could you tell me the spelling of your name? B: ()-()-()-(). 
+433,504,초5,YBM(최),2015,2,What Are These?,이해했음을 나타내기 위한 표현으로 'I see' 등 간단한 표현 활용하기. ,"Oh, I get it. ",,I understand. Got it. 
+434,504,초5,YBM(최),2015,3,Can I Take a Picture?,답례 표현을 활용해 감사하는 말에 답하기. ,You're welcome. ,,No problem. Anytime. 
+435,504,초5,YBM(최),2015,4,Whose Shoes Are These?,주격을 활용해 사물의 외형을 묘사하기. ,Those chairs are quite large. ,,These bags are very () Those books are quite () 
+436,504,초5,YBM(최),2015,5,My Favorite Subject Is Music,like를 사용하여 개인의 선호하는 활동 표현하기. ,A: What activity do you enjoy? B: I like sketching pictures. ,,"A: What's your favorite thing to do? B: I like ()ing (). A: Do you like drawing? B: Yes, I enjoy ()ing (). "
+437,504,초5,YBM(최),2015,6,I Get Up at Five,상황이나 대상에 대해 판단하거나 의견 표현하기. ,That's very early. ,,That's quite early. That's somewhat early. 
+438,504,초5,YBM(최),2015,7,I Will Join a Book Club,긍정적인 관점에서 상대방의 의견에 대해 반응하기. ,That seems wonderful. ,,That looks amazing. That appears fantastic. 
+439,504,초5,YBM(최),2015,8,I Went to the Beach,was를 활용해 과거에 한 일에 관한 느낌을 묻고 답하기. ,A: How was the trip? B: It was awesome. ,,A: How was the event? B: It was (). A: How did it go? B: It was (). 
+440,504,초5,YBM(최),2015,9,Where Is the Ticket Office?,위치 설명 표현을 활용해 장소의 위치를 나타내기. ,It's on the left side. ,,It's next to (). It's opposite to (). 
+441,504,초5,YBM(최),2015,10,How Much Are These Gloves?,도움 제안 및 이를 수락하는 표현 학습하기. ,"A: Can I help you? B: Yes, I would appreciate it. ",,"A: Shall I assist you? B: Yes, thank you. A: Can I offer my help? B: Sure, thank you. "
+442,504,초5,YBM(최),2015,11,What’s in the Bedroom?,There is 를 활용하여 특정 장소에 무엇이 있는지 묻고 답하기. ,A: What's in the garden? B: There is a swing in the garden. ,,A: What's in the playroom? B: There is a () in the playroom. A: What's in the bedroom? B: There is a () in the bedroom. 
+443,504,초5,YBM(최),2015,12,I Want to Climb Hallasan,표현을 이용해 상대방의 의견에 동의하기. ,That's a great suggestion. ,,That's an excellent idea! That's a wonderful thought! 
+444,504,초5,YBM(최),2015,13,What Season Do You Like?,because를 활용해 이유 말하기 설명하기. ,I like summer because I can enjoy swimming. ,,I prefer () because (). I enjoy () because it allows (). 
+445,603,초6,YBM(김),2015,1,What Grade Are You In?,'How do you spell …?'를 활용해 철자 요청하고 이에 답하기. ,A: How do you spell the word? B: It's spelled C-O-M-F-O-R-T. ,,A: Could you spell this name? B: It's spelled (). A: What is the spelling of that? B: It's (). 
+446,603,초6,YBM(김),2015,2,What Would You Like?,간단한 형용사를 활용하여 맛 표현하기. ,It is spicy. ,,It tastes sweet. It has a tangy flavor. 
+447,603,초6,YBM(김),2015,3,My Favorite Subject Is Science,like를 활용해 좋아하는 활동 또는 싫어하는 활동 말하기. ,"A: Do you like playing games? B: Yes, I like that. ",,"A: Do you enjoy doing ()? B: Yes, I enjoy that. A: Are you interested in practicing ()? B: Yes, I am interested in that. "
+448,603,초6,YBM(김),2015,4,How About Turning Off the Light?,의견이나 제안에 대한 긍정적 반응을 간단한 표현으로 답하기. ,Sounds great. ,,That works well. I think it's a good idea. 
+449,603,초6,YBM(김),2015,5,Go Straight and Turn Left,다른 사람의 주의를 끌 때 사용하는 표현 배우기. ,Excuse me! ,,Pardon me! Sorry! 
+450,603,초6,YBM(김),2015,6,Your Car Is Faster Than Mine,"""I don't think so.""를 활용해 이의 제기하기. ",I don't believe that's correct. ,,I'm not sure about that. I disagree with that viewpoint. 
+451,603,초6,YBM(김),2015,7,What Will You Do This Summer?,제안에 대한 긍정적인 응답 표현하기. ,Sure thing! ,,"That sounds great! Okay, let's do it! "
+452,603,초6,YBM(김),2015,8,How Was Your Trip?,Did you ()? 조동사 did를 활용해 과거에 일어난 일을 묻고 응답하기. ,"A: Did you visit a museum? B: Yes, I did. ",,"A: Did you () yesterday? B: Yes, I did. A: Did () happen last weekend? B: No, it didn't. "
+453,603,초6,YBM(김),2015,9,I Exercise Four Times a Week,'You can do it!' 표현을 활용해 상대방을 격려하며 자신감을 북돋아 주는 방법 알기. ,"Keep going, you can achieve this! ",,"Believe in yourself, you can accomplish (). Have confidence, and () will happen. "
+454,603,초6,YBM(김),2015,10,What Season Do You Like?,작별 인사를 표현하는 간단한 표현을 활용해 헤어질 때 인사말 하기. ,See you later. ,,Goodbye. Have a nice day. 
+455,603,초6,YBM(김),2015,11,What Do You Want to Be?,상대방을 위로하거나 격려하는 표현을 활용하기. ,Cheer up! ,,Stay positive! Don't give up! 
+456,603,초6,YBM(김),2015,12,I Have a Headache,유감이나 동정을 표현하는 'That’s too bad' 문구를 활용해 감정을 나타내기. ,,,"I'm sorry to hear that. Oh no, that's unfortunate. "
+457,603,초6,YBM(김),2015,13,When Is the School Festival?,상대방이 이해하지 못한 내용을 반복하여 말하기를 요청하기. ,I'm sorry? ,,"Could you repeat that, please? Pardon? "
+458,603,초6,YBM(김),2015,14,Congratulations!,축하 인사를 표현하기 ,Congratulations on your achievement! ,,Cheers on completing your ()! Well done on your ()! 
+459,604,초6,YBM(최),2015,1,I’m in the Sixth Grade,be동사를 활용해 교실의 위치를 묻고 답하기. ,A: Where is our library? B: It's on the second floor. ,,A: Which floor is the cafeteria located on? B: It's on the third floor. A: Where can I find the gymnasium? B: It's on the ground floor. 
+460,604,초6,YBM(최),2015,2,I Want to Be a Pilot,be good at ()를 활용해 잘하는 것을 표현하기. ,You're excellent at drawing. ,,You're skilled at ()ing. You're great at ()ing. 
+461,604,초6,YBM(최),2015,3,Let’s Go Swimming,전화 대화 시작 및 의사 소통 방법 배우기. ,"A: Hello? B: Hello, this is Alex. May I speak to Ryan? C: Speaking. ",,"A: Hi? B: Hello, I am (). Can I talk to ()? C: () here. A: Hello? B: Hi, this is (). May I speak with ()? C: This is (). "
+462,604,초6,YBM(최),2015,4,When Is Your Birthday?,표현 I can't wait를 활용해 기대되는 상황에 대해 이야기하기. ,I am looking forward to it. ,,I can't wait to ()! I'm so excited for (). 
+463,604,초6,YBM(최),2015,5,I’m Going to Plant Trees,명령문 형태와 동사를 활용하여 상대방에게 좋은 시간을 보내기를 기원하기. ,Have a great day! ,,Have a wonderful evening! Have an enjoyable weekend 
+464,604,초6,YBM(최),2015,6,I Have a Headache,You should ()를 활용해 조언하는 말 하기. ,You should visit a hospital. ,,You should get some rest. You should take () to feel better. 
+465,604,초6,YBM(최),2015,7,What Would You Like to Have?,맛을 나타내는 형용사를 활용해 음식의 특성 표현하기. ,It's sweet. ,,It's spicy. It's bitter. 
+466,604,초6,YBM(최),2015,8,He Has Short Straight Hair,옷차림을 표현할 때 'be wearing'를 활용하여 어떤 옷을 입고 있는지 묘사하기. ,He’s wearing a blue jacket. ,,She’s wearing a red hat. They’re wearing green pants. 
+467,604,초6,YBM(최),2015,9,I’m Stronger Than You,감탄사를 활용하여 놀람 표현 연습하기. ,How small! ,,What a surprise! How impressive! 
+468,604,초6,YBM(최),2015,10,I Know About It,단순 표현을 사용하여 알고 있음과 모르고 있음을 표현하기. ,I don't know the answer. ,,I have no clue. I'm not sure about that. 
+469,604,초6,YBM(최),2015,11,How Can I Get to the Museum?,between ... and ... 을 활용해 건물의 위치를 설명하기. ,It's located between the park and the school. ,,It's near the () and the (). It's next to the (). 
+470,604,초6,YBM(최),2015,12,What Do You Think?,의견을 묻고 본인의 동의 여부를 답하기. ,,,A: What are your thoughts?\nB: I share the same viewpoint. A: Do you feel the same?\nB: I don’t think so. 
+471,604,초6,YBM(최),2015,13,Why Are You Happy?,표현을 활용해 위로 또는 격려하는 말 전하기. ,Everything will be fine. ,,You can do it! Stay positive! 
+472,312,초3,동아(윤),2022,1,"Hello, ABC!",be 동사를 활용해 자신을 소개하기. ,A: My name is Jack. ,,A: I’m (). A: My name is (). 
+473,312,초3,동아(윤),2022,2,What’s This?,기쁨이나 놀라움을 표현하기 위해 감탄문 사용하기. ,That's amazing! ,,That's wonderful! It feels incredible! 
+474,312,초3,동아(윤),2022,3,"Sit Down, Please",'사과하기' 표현을 활용해 대화 상황에서 사과하고 이에 답하기. ,A: I'm sorry. B: It's alright. ,,A: I apologize. B: No problem. A: My apologies. B: That's fine. 
+475,312,초3,동아(윤),2022,4,How Many Carrots?,감사 표현과 이에 응답하는 표현 익히기. ,Thank you. ,,Thanks. Many thanks to you. 
+476,312,초3,동아(윤),2022,5,I Like Salad,"like, don't like 를 통해 좋아하거나 싫어하는 음식 말하기. ",A: I like pizza./I don’t like broccoli. ,,A: I enjoy ()./I dislike (). A: I’m fond of ()./I’m not a fan of (). 
+477,312,초3,동아(윤),2022,6,What Color Is It?,Look at ()를 활용해 사물을 가리키는 말 하기. ,Look at the butterfly. ,,Observe the () carefully. Look at the () attentively. 
+478,312,초3,동아(윤),2022,7,I Have a Pencil,have를 활용해 소유 여부 말하기. ,I have an eraser. / I don’t have an eraser. ,,I have a () item. / I don’t have a () one. I own a (). / I don’t own a (). 
+479,312,초3,동아(윤),2022,8,Can You Swim?,can 및 can’t를 활용해 할 수 있는 것과 할 수 없는 것 말하기. ,"A: Can you swim? B: Yes, I can. ",,"A: Are you able to ()? B: Yes, I am. A: Do you know how to ()? B: Yes, I do. "
+480,312,초3,동아(윤),2022,9,It’s Big!,Is it ()?를 통해 특정 동물을 확인하고 이에 대해 응답하기. ,"A: Is it a lion? B: Yes, it is. ",,"A: Is it a bird? B: No, it isn't. A: Is it an elephant? B: Yes, it is. "
+481,312,초3,동아(윤),2022,10,Who Is He?,He’s/She’s ()을 활용해 외모를 묘사하는 말 하기. ,He is tall. ,,She is short. They are slim. 
+482,312,초3,동아(윤),2022,11,How’s the Weather?,Let's ()을 활용해 제안하고 이에 답하기. ,A: Let's visit the park. ,,A: Let's try (). A: Shall we ()? 
+483,412,초4,동아(윤),2022,1,My Name Is Sally,하루의 시간대에 맞는 인사하기 . ,Good morning! ,,Good afternoon! Good evening! 
+484,412,초4,동아(윤),2022,2,This Is My Friend,How are you?를 활용해 상대방의 안부 묻고 답하기. ,A: How are you? B: I'm doing well. ,,A: How's it going? B: I'm feeling good. A: How have you been? B: I'm alright. 
+485,412,초4,동아(윤),2022,3,Are You Happy?,간단한 표현을 활용해 상대방의 말에 동의하기. ,Me too. ,,So do I. Same here. 
+486,412,초4,동아(윤),2022,4,Let’s Play Soccer,위로하는 표현을 사용하여 상대방에게 공감과 격려 전달하기. ,That's too unfortunate. ,,It seems quite unlucky. That's so unfortunate. 
+487,412,초4,동아(윤),2022,5,Don’t Run!,지시하는 표현 및 이에 응답하기를 통해 기본적인 상호작용하기. ,A: Place the book on the shelf. ,,A: Put the () on the (). A: Arrange the () in the (). 
+488,412,초4,동아(윤),2022,6,What Time Is It?,It’s time for ()를 활용해 시각에 따른 일과 말하기. ,It's time for lunch. ,,It's time for bed. It's time for play. 
+489,412,초4,동아(윤),2022,7,Where Is My Shoe?,I don’t know를 활용해 모르고 있음을 나타내는 말 하기. ,I'm not sure. ,,I have no idea. I am uncertain. 
+490,412,초4,동아(윤),2022,8,It’s Sunday!,have ()를 활용해 방과 후 활동 말하기. ,I have a painting class. ,,I have a () lesson. I attend a () class. 
+491,412,초4,동아(윤),2022,9,Is This Your Cap?,색깔 등의 형용사를 활용해 물건 묘사하기. ,A: My book is blue. ,,A: The chair is (). A: That bag is (). 
+492,412,초4,동아(윤),2022,11,How Much Is It?,want ()을 활용해 원하는 물건 말하기. ,I prefer this hat. ,,I like this (). I choose that (). 
+493,304,초3,동아(박),2015,1,"Hello, I'm Jimin",be ()를 활용해 자기소개하기. ,"Hi, I'm Kim. ",,"Hello, my name is (). Hi there, I’m (). "
+494,304,초3,동아(박),2015,2,What's This?,감사의 표현을 통해 고마움을 전달하기. ,Thanks a lot! ,,Many thanks! Thank you very much! 
+495,304,초3,동아(박),2015,3,"Sit Down, Please",'I'm sorry.'와 'That's okay.'를 활용해 사과하고 답하기. ,A: I'm sorry. B: That's alright. ,,A: Excuse me. B: It's okay. A: I apologize. B: No problem. 
+496,304,초3,동아(박),2015,4,Is It a Bear?,It's-을 활용해 사물의 크기 묘사하기. ,It's enormous. ,,It's large. It's huge. 
+497,304,초3,동아(박),2015,5,I Like Pizza,I like/don't like ()를 통해 개인의 선호도를 표현하기. ,A: I like cake. ,,A: I enjoy (). A: I'm fond of (). 
+498,304,초3,동아(박),2015,6,How Many Carrots?,고마움에 대한 답변으로 사용되는 표현 익히기. ,No problem! ,,It’s no big deal. Don’t mention it. 
+499,304,초3,동아(박),2015,7,I Can Swim,can / can't를 활용해 할 수 있는 것과 할 수 없는 것 표현하기. ,A: I can dance. ,,A: I am able to (). A: I know how to (). 
+500,304,초3,동아(박),2015,8,Do You Have a Bike?,have ()를 활용해 가지고 있는 물건과 가지고 있지 않은 물건 표현하기. ,I have a bag. ,,I do not have (). Do you have a ()? 
+501,304,초3,동아(박),2015,9,I'm Happy,특정 상황에서 사용되는 축하 인사말 활용하기. ,Happy birthday! ,,Congratulations on your birthday! Wishing you a wonderful birthday! 
+502,304,초3,동아(박),2015,10,She's My Mom,형용사를 활용해 외모 나타내기. ,She is tall. ,,He is handsome. She is beautiful. 
+503,304,초3,동아(박),2015,11,What Color Is It?,'Look at ()'을 활용하여 대상이나 사물을 가리키는 말하기. ,Observe the tree. ,,Pay attention to the () Have a look at the () 
+504,304,초3,동아(박),2015,12,How's the Weather?,Let's ()을 활용해 제안하기. ,Let's play outside. ,,Shall we go outdoors? Why don’t we play outside? 
+505,404,초4,동아(박),2015,1,My Name Is Cindy,What's your name? 표현을 활용해 이름 묻고 답하기. ,A: What's your name? B: My name is Alex. ,,A: What is your name? B: My name is (). A: May I know your name? B: My name is (). 
+506,404,초4,동아(박),2015,2,How Are You?,This is ()을 활용해 인물 소개하기. ,"This is my buddy, Hana. ",,"This is my pal, (). Here is (). "
+507,404,초4,동아(박),2015,3,"Don’t Push, Please",조심을 요청하는 표현을 활용해 안전을 위한 주의 주기. ,Watch out! ,,Take care. Pay attention. 
+508,404,초4,동아(박),2015,4,What Time Is It?,It’s time for ()를 통해 무엇을 할 시간인지 나타내기. ,It's time for lunch. ,,It's time for dinner. It's time for a break. 
+509,404,초4,동아(박),2015,5,I’m Cooking,be ()ing를 활용해 상대방이 지금 무엇을 하고 있는지 묻고 답하기. ,A: What are you doing? B: I'm painting. ,,A: What are you making? B: I'm ()ing. A: What’s keeping you busy? B: I'm ()ing. 
+510,404,초4,동아(박),2015,6,It’s on the Desk,상대방에게 내용을 반복 요청하기. ,Sorry? ,,"Could you repeat that? I'm sorry, I didn't catch that. "
+511,404,초4,동아(박),2015,7,Let’s Play Soccer,간단한 표현을 통해 상대방에게 위로의 말을 건네기. ,That's unfortunate. ,,"I'm sorry to hear that. Oh, that's tough. "
+512,404,초4,동아(박),2015,8,"Yes, It’s Mine",My () is ().를 활용해 물건 묘사하기. ,My backpack is red. ,,My notebook is (). My bag is (). 
+513,404,초4,동아(박),2015,9,I Want a T-shirt,감정을 표현하는 How + 형용사를 활용해 감탄하기. ,How wonderful! ,,How beautiful! How amazing! 
+514,404,초4,동아(박),2015,10,Can You Help Me?,Do you want some ()?를 활용해 음식 권하고 답하기. ,"A: Do you want some juice? B: Yes, please. / No, thanks. ",,"A: Would you like a sandwich? B: Yes, please. / No, thank you. A: How about some cake? B: Sure, please. / No, I’m fine. "
+515,404,초4,동아(박),2015,11,It’s Sunday,have ()를 활용해 방과 후 활동 말하기. ,I have a drawing lesson. ,,I have a music session. I have a dancing practice. 
+516,404,초4,동아(박),2015,12,I Clean the Park,What about ()?를 활용해 상대방 정보 묻기. ,A: What about you? ,,A: How about you? A: And yourself? 
+517,501,초5,동아(박),2015,1,I’m from Canada,spell ()을 사용해 이름의 철자를 묻고 답하기. ,A: How do you spell your name? B: S-A-R-A-H. ,,A: Can you spell your last name? B: ()-()-()-(). A: Could you tell me the spelling of your first name? B: it's ()-()-()-(). 
+518,501,초5,동아(박),2015,2,My Favorite Subject Is Math,like to ()를 활용해 좋아하는 활동 표현하기. ,I enjoy solving word puzzles. ,,I like to explore () activities. I enjoy participating in (). 
+519,501,초5,동아(박),2015,3,Can I Borrow Your Scissors?,응답 표현을 활용해 감사의 말에 답하기. ,"Sure, no worries! ",,You're welcome! It's my pleasure! 
+520,501,초5,동아(박),2015,4,Whose Cap Is This?,확인 요청 및 응답을 연습하기. ,"A: Are you certain? B: Yes, I am. / No, I'm not. ",,"A: Are you sure about this? B: Yes, I am. / No, I'm not. A: Is this definite? B: Yes, it is. / No, it isn't. "
+521,501,초5,동아(박),2015,5,Let’s Go Camping,Where's ()를 활용해 사람이 어디에 있는지 묻고 답하기. ,A: Where's Mom? B: She's in the kitchen. ,,A: Where is ()? B: They're in (). A: Can you find ()? B: They're in the (). 
+522,501,초5,동아(박),2015,6,I Want to Go to the Beach,want to ()를 활용해 자신이 하고 싶거나 하고 싶지 않은 활동 표현하기. ,I want to play with toys. ,,I want to () with my friends. I don’t want to () today. 
+523,501,초5,동아(박),2015,7,How Was Your Vacation?,"""be와 과거 표현을 활용해 지나간 일 묻고 답하기."" ",A: What did you do last weekend? B: I painted a picture at the park. ,,A: What did you do yesterday? B: I () with my family. A: How did you spend your time last Sunday? B: I () and enjoyed myself. 
+524,501,초5,동아(박),2015,8,I Get Up at 6,How about ()?를 활용해 특정 시각을 약속으로 제안하기. ,A: How about meeting at 3 o'clock? B: Sounds good! ,,"A: Would you like to meet at () o'clock? B: That works! A: Shall we plan to gather at ()? B: Sure, that's fine! "
+525,501,초5,동아(박),2015,9,How Much Is It?,도움 요청 및 상태 나타내기 표현을 활용하여 상대방의 필요를 파악하고 답변하기. ,"A: May I help you? B: Yes, please. I’m browsing for a book. ",,"A: Can I assist you with ()? B: Yes, thank you! A: How can I help you with ()? B: That would be great; thank you! "
+526,501,초5,동아(박),2015,10,Where‘s the Library?,One more time을 활용해 상대방에게 반복 요청하기. ,Could you say that one more time? ,,Can you repeat that for me ()? Would you mind going over that again ()? 
+527,501,초5,동아(박),2015,11,She Has Long Curly Hair,의상을 묘사할 때 착용 표현 표현하기. ,She’s wearing a red scarf and blue shoes. ,,She is wearing a () and (). They are wearing a () and (). 
+528,501,초5,동아(박),2015,12,He‘s a Singer,He performs () well 등을 활용해 직업의 특성을 묘사하기. ,A: She paints beautiful pictures. B: She is a talented artist. ,,A: He works at () and writes books. B: He is an () author. A: They design and build (). B: They are skilled (). 
+529,601,초6,동아(박),2015,1,I'm in the Sixth Grade,Can you ()?를 활용해 함께 하자고 제안하고 답하기. ,A: Can you join us for the picnic? B: All right. ,,"A: Will you join us for ()? B: Sure. A: Do you want to be part of ()? B: Sorry, I can't. "
+530,601,초6,동아(박),2015,2,Why Are You Excited?,"""Don't worry.""를 활용해 상대방을 위로하거나 안심시키기. ",Don't be upset. ,,Everything will be okay. It will get better soon. 
+531,601,초6,동아(박),2015,3,I Have a Stomachache,직접적인 권유 표현을 통해 상대방에게 조언 제공하기. ,A: Please take this medicine and get sufficient rest. ,,A: You should () to feel better. A: It's helpful to () to recover quickly. 
+532,601,초6,동아(박),2015,4,How Often Do You Wash Your Hands?,should를 활용해 상대방에게 권장하거나 충고 표현하기. ,A: You should exercise every day. ,,A: You should try to (). A: It's a good idea to (). 
+533,601,초6,동아(박),2015,5,When Is Your Birthday?,초대를 요청하고 응답할 때 사용하는 표현 익히기. ,A: Can you join my art exhibition? B: Sure. ,,"A: Could you come to ()? B: Sorry, I can't. A: Would you like to visit ()? B: That sounds great. "
+534,601,초6,동아(박),2015,6,I’ll Go on a Trip,칭찬 표현을 통해 좋은 점을 강조하기. ,That's a wonderful idea! ,,That's a great suggestion! That's a nice thought! 
+535,601,초6,동아(박),2015,7,It's Next to the Post Office,다양한 위치 표현을 사용하여 사물이나 장소 위치를 설명하기. ,A: It's beside the school. B: Let's go there! ,,A: It's near (). B: Let's visit it. A: It's across from (). B: Let's check it out. 
+536,601,초6,동아(박),2015,8,I'd Like Noodles,음식의 맛을 표현하기 ,This is sweet. ,,This tastes (). It’s really (). 
+537,601,초6,동아(박),2015,9,I’m Stronger Than Junho,상대방의 의견에 반대하기 ,I don’t think so. ,,I’m not sure about (). I disagree with (). 
+538,601,초6,동아(박),2015,10,Do You Know Anything About Romeo and Juliet?,모르고 있음을 표현하기 ,I have no idea. ,,I don’t know (). I’m not sure about (). 
+539,601,초6,동아(박),2015,11,We Can Plant Trees,잊지 말라고 조언하기 ,Don’t forget to turn off the TV. ,,Remember to (). Make sure to (). 
+540,601,초6,동아(박),2015,12,I Want to Be a Painter,격려하기 ,You can do it. ,,Believe in yourself! Keep going! 
+541,307,초3,천재(함),2022,2,"Hi, I’m Momo",자신을 소개할 때 사용할 수 있는 표현 배우기 ,I’m Anna. ,,My name is (). I am (). 
+542,307,초3,천재(함),2022,3,What’s This?,칭찬할 때 사용할 수 있는 표현 배우기 ,Nice work! ,,Great job! Well done! 
+543,307,초3,천재(함),2022,4,"Stand Up, Please",감사할 때 사용할 수 있는 표현 배우기 ,A: Thank you. B: No problem. ,,A: Thanks a lot. B: You’re welcome. A: I appreciate it. B: Anytime. 
+544,307,초3,천재(함),2022,5,How Many Cows?,상대방의 말에 동의하는 표현 배우기 ,That’s correct. ,,You’re right. Exactly! 
+545,307,초3,천재(함),2022,6,Do You Have a Pencil?,자신이 가지고 있는 것과 없는 것을 말하는 표현 배우기 ,I (don’t) have a ruler. ,,I own a (). I don’t have a (). 
+546,307,초3,천재(함),2022,7,What Color Is It?,사과하고 답하는 표현 배우기 ,A: I’m sorry. B: No worries. ,,A: Sorry about that. B: That’s okay. A: My apologies. B: Don’t worry about it. 
+547,307,초3,천재(함),2022,8,I Like Apples,좋아하는 것과 싫어하는 것을 표현하는 표현 배우기 ,I like oranges. / I don’t like oranges. ,,I enjoy eating (). I dislike (). 
+548,307,초3,천재(함),2022,9,"Wow, It’s Big!",동물이나 식물의 종류를 확인하는 표현 배우기 ,"A: Is it a cat? B: Yes, it is./No, it isn’t. ",,"A: Is this a ()? B: Yes, it is./No, it isn’t. A: Is that a ()? B: Yes, it is./No, it isn’t. "
+549,307,초3,천재(함),2022,10,Can You Jump?,자신이 할 수 있는 것과 없는 것을 말하는 표현 배우기 ,I can swim./I can’t swim. ,,I’m able to (). I don’t know how to (). 
+550,307,초3,천재(함),2022,11,He’s My Dad,사람을 묘사하는 표현 배우기 ,He’s strong. ,,He’s very (). She looks (). 
+551,307,초3,천재(함),2022,12,How’s the Weather?,행동을 지시하는 표현 배우기 ,Put on your hat. ,,Take off your (). Close the (). 
+552,407,초4,천재(함),2022,1,My Name Is Amy,소개에 답하기 ,"A: Nice to meet you. B: Nice to see you, too. ",,"A: Glad to meet you. B: Glad to meet you, too. A: Happy to meet you. B: Happy to meet you, too. "
+553,407,초4,천재(함),2022,2,I’m Happy,I’m ()로 감정이나 상태를 표현하는 방법 익히기 ,A: I’m thirsty. ,,A: I feel (). A: I’m really (). 
+554,407,초4,천재(함),2022,3,Don’t Sit Here,경고 표현을 사용해 주의를 주는 방법 익히기 ,A: Be careful. ,,A: Watch out! A: Stay alert! 
+555,407,초4,천재(함),2022,4,Let’s Play Basketball,유감을 표현하는 다양한 방법 익히기 ,A: That’s too bad. ,,A: I’m sorry to hear that. A: That’s unfortunate. 
+556,407,초4,천재(함),2022,5,I Want Chicken,음식을 권하는 다양한 표현 익히기 ,A: Help yourself. ,,A: Go ahead and take some. A: Enjoy! 
+557,407,초4,천재(함),2022,6,Where’s My Cap?,모르고 있음을 표현하는 방법 익히기 ,A: I don’t know. ,,A: I’m not sure. A: I have no idea. 
+558,407,초4,천재(함),2022,7,It’s Wednesday,일과를 묘사하는 표현 익히기 ,A: I have a computer class. ,,A: I have a () class. A: My next class is (). 
+559,407,초4,천재(함),2022,8,How Much Is It?,물건을 구매하는 표현 익히기 ,A: I’ll take it. ,,A: I’d like to buy (). A: I want to get (). 
+560,407,초4,천재(함),2022,9,Is This Your Bag?,My () is ()로 물건의 색깔을 표현하는 방법 익히기 ,A: My cap is gray. ,,A: My shoes are (). A: My backpack is (). 
+561,407,초4,천재(함),2022,10,What Time Is It?,It’s time for ()로 해야 할 일을 말하는 방법 익히기 ,A: It’s time for breakfast. ,,A: It’s time for (). A: Now it’s time for (). 
+562,407,초4,천재(함),2022,11,I’m Drawing a Picture,Can I help you?로 도움을 제안하는 표현 익히기 ,A: Can I help you? B: Sure. ,,"A: Do you need any help? B: Yes, please. A: May I assist you? B: That would be great. "
+563,407,초4,천재(함),2022,12,What Do You Do?,What does he/she do?로 다른 사람의 직업을 묻고 답하는 방법 배우기 ,A: What does he do? B: He’s a model. ,,A: What does she do? B: She’s a (). A: What’s his/her occupation? B: He/She is a (). 
+564,309,초3,천재(이),2022,2,What’s This?,상대방의 주의를 끌 때 사용할 수 있는 표현 알아보기. ,Look! ,,"Check this out! Hey, look over here! "
+565,309,초3,천재(이),2022,3,"Sit Down, Please",칭찬할 때 사용할 수 있는 표현 알아보기. ,Great! ,,Awesome! Well done! 
+566,309,초3,천재(이),2022,4,Do You Like Tomatoes?,I (don’t) like ()을 통해 좋아하는 것과 싫어하는 것을 표현하는 방법 배우기. ,I like apples. / I don’t like apples. ,,I enjoy eating (). I dislike (). 
+567,309,초3,천재(이),2022,5,How Many Pigs?,크기를 나타내는 표현을 통해 사물이나 동물의 특징을 설명하는 방법 배우기. ,They’re huge. ,,They’re very (). They look (). 
+568,309,초3,천재(이),2022,6,Can You Jump?,할 수 있는 것과 할 수 없는 것을 나타내는 표현을 통해 자신의 능력을 표현하는 방법 배우기. ,I can sing. / I can’t sing. ,,I’m able to (). I don’t know how to (). 
+569,309,초3,천재(이),2022,7,Do You Have a Pencil?,가지고 있는 물건과 없는 물건을 나타내는 표현을 통해 소지품을 말하는 방법 배우기. ,I have a notebook. / I don’t have a notebook. ,,I own a (). I don’t have a (). 
+570,309,초3,천재(이),2022,8,Are You Happy?,감정이나 상태를 나타내는 표현을 통해 자신의 기분을 표현하는 방법 배우기. ,I’m nervous. ,,I feel (). I’m really (). 
+571,309,초3,천재(이),2022,9,What Color Is It?,상대방에게 감사를 표현하고 이에 답하는 표현 알아보기. ,A: Thanks a lot! B: You’re welcome. ,,A: Thanks so much. B: No problem. A: I appreciate it. B: Anytime. 
+572,309,초3,천재(이),2022,10,She’s My Mom,사람을 묘사하는 표현을 통해 외형이나 특징을 설명하는 방법 배우기. ,She’s friendly. ,,He’s very (). She looks (). 
+573,309,초3,천재(이),2022,11,How’s the Weather?,제안하는 표현을 통해 함께 할 활동을 권하는 방법 배우기. ,"A: Let’s go outside. B: Sounds fun. / Sorry, I can’t. ",,A: Let’s try (). B: Okay! / Maybe next time. A: How about we ()? B: That’s a great idea! / I’m not sure. 
+574,409,초4,천재(이),2022,1,What’s Your Name?,What’s your name? 를 통해 이름을 묻고 답하는 방법 배우기. ,A: What’s your name? B: My name is Bruno. ,,A: What’s your name? B: I’m (). A: May I know your name? B: I’m (). 
+575,409,초4,천재(이),2022,2,"Don’t Push, Please!",주의를 줄 때 사용할 수 있는 표현 알아보기. ,Be careful on the road! ,,Watch out! Stay alert! 
+576,409,초4,천재(이),2022,3,Do You Want Some Pizza?,What do you want? 를 통해 원하는 것을 묻고 답하는 방법 배우기. ,A: What do you want? B: I want some juice. ,,A: What would you like? B: I’d like (). A: What are you looking for? B: I want (). 
+577,409,초4,천재(이),2022,4,It’s on the Desk,반복 요청하는 표현을 통해 상대방에게 다시 말해달라고 요청하는 방법 배우기. ,Sorry? ,,Pardon? Could you say that again? 
+578,409,초4,천재(이),2022,5,Is This Your Watch?,물건을 묘사하는 표현을 통해 물건의 특징을 설명하는 방법 배우기. ,My jacket is blue. ,,My bag is (). My shoes are (). 
+579,409,초4,천재(이),2022,6,What Time Is It?,It’s time for () 를 통해 무엇을 할 시간인지 나타내는 방법 배우기. ,It’s time for dinner. ,,It’s time for (). It’s time to (). 
+580,409,초4,천재(이),2022,7,I’m a Doctor,What does he/she do? 를 통해 다른 사람의 직업을 묻고 답하는 방법 배우기. ,A: What does she do? B: She’s a scientist. ,,A: What does he do? B: He’s a (). A: What is his/her job? B: He’s/She’s a (). 
+581,409,초4,천재(이),2022,8,How Much Is It?,Can I help you? 를 통해 도움을 제안하고 이에 답하는 방법 배우기. ,"A: Can I help you? B: Yes, please. ",,"A: Do you need any help? B: Yes, please. A: May I assist you? B: Sure, thanks. "
+582,409,초4,천재(이),2022,9,What Day Is It Today?,Are you sure? 를 통해 확인을 요청하고 이에 답하는 방법 배우기. ,"A: Are you sure? B: Yes, I am. / No, I’m not. ",,"A: Are you certain? B: Yes, I am. / No, I’m not. A: Do you really think so? B: Yes, I do. / No, I don’t. "
+583,409,초4,천재(이),2022,10,How Old Is He?,주의를 끌 때 사용할 수 있는 표현 알아보기. ,Excuse me. ,,Pardon me. Sorry to interrupt. 
+584,409,초4,천재(이),2022,11,What Are You Doing?,What is he/she doing? 를 통해 다른 사람이 지금 하고 있는 동작을 묻고 답하는 방법 배우기. ,A: What is he doing? B: He’s writing a letter. ,,A: What is she doing? B: She’s (). A: Do you know what he’s doing? B: He’s (). 
+585,308,초3,천재(김),2022,1,"Hello, ABC!",헤어질 때 인사하는 표현 배우기 ,A: Bye. ,,A: See you! A: Goodbye! 
+586,308,초3,천재(김),2022,2,What’s This?,주의를 끌 때 사용하는 표현 익히기 ,A: Look! ,,A: Check this out! A: Look over there! 
+587,308,초3,천재(김),2022,3,"Sit Down, Please",사과하고 이에 답하는 표현 익히기 ,A: I’m sorry. B: That’s okay. ,,A: Sorry about that. B: No problem. A: I didn’t mean to. B: It’s fine. 
+588,308,초3,천재(김),2022,4,How Many Melons?,칭찬하는 표현 익히기 ,A: Good! ,,A: Great job! A: Well done! 
+589,308,초3,천재(김),2022,5,I Like Pizza,I like/I don’t like ()로 좋아하거나 싫어하는 음식 말하기 ,A: I like spaghetti. A: I don’t like carrots. ,,A: I enjoy (). A: I dislike (). 
+590,308,초3,천재(김),2022,6,What Color Is It?,감사 표현하고 답하는 방법 익히기 ,A: Thank you. B: You’re welcome. ,,A: Thanks a lot. B: No problem. A: Many thanks. B: Anytime. 
+591,308,초3,천재(김),2022,7,Is It a Dog?,동물을 묘사하는 표현 익히기 ,A: It’s small. ,,A: It’s fluffy. A: It’s fast. 
+592,308,초3,천재(김),2022,8,Do You Have a Pencil?,I have/I don’t have ()로 물건을 가지고 있거나 가지고 있지 않은 것 말하기 ,A: I have a notebook. A: I don’t have a pencil. ,,A: I own (). A: I need a (). 
+593,308,초3,천재(김),2022,9,Can You Swim?,I can/I can’t ()로 할 수 있는 것과 할 수 없는 것 말하기 ,A: I can dance. A: I can’t climb. ,,A: I’m good at (). A: I find () difficult. 
+594,308,초3,천재(김),2022,10,She’s My Mom,He’s/She’s ()로 사람의 외모나 특징을 표현하기 ,A: He’s strong. ,,A: She’s tall. A: He has curly hair. 
+595,308,초3,천재(김),2022,11,It’s Snowing,Let’s ()로 제안하는 표현 익히기 ,A: Let’s go to the park. ,,A: Why don’t we ()? A: How about ()? 
+596,408,초4,천재(김),2022,1,How Are You?,하루의 시간대에 맞는 인사말 배우기 ,A: Good morning! ,,A: Good afternoon! A: Good evening! 
+597,408,초4,천재(김),2022,2,This Is My Friend,What’s your name?로 이름을 묻고 답하는 표현 익히기 ,A: What’s your name? B: My name is Hani. ,,A: What’s your name? B: I’m (). A: May I know your name? B: Sure! I’m (). 
+598,408,초4,천재(김),2022,3,Don’t Push,지시하는 표현 익히기 ,A: Line up. ,,A: Be quiet. A: Pay attention. 
+599,408,초4,천재(김),2022,4,I’m Happy,I’m ()로 감정·상태를 표현하는 방법 익히기 ,A: I’m happy. ,,A: I’m sleepy. A: I’m nervous. 
+600,408,초4,천재(김),2022,5,What Time Is It?,It’s time for ()로 시각에 어울리는 일과 말하기 ,A: It’s time for breakfast. ,,A: It’s time for lunch. A: It’s time for bed. 
+601,408,초4,천재(김),2022,6,Is This Your Cap?,My () is ()로 물건을 묘사하는 표현 익히기 ,A: My cap is blue. ,,A: My bag is red. A: My jacket is green. 
+602,408,초4,천재(김),2022,7,What Day Is It Today?,I have a () class로 요일별 활동 말하기 ,A: I have a dance class. ,,A: I have a math class. A: I have a music class. 
+603,408,초4,천재(김),2022,8,Let’s Play Badminton,헤어질 때 인사하는 표현 익히기 ,A: See you. ,,A: See you later. A: Take care. 
+604,408,초4,천재(김),2022,9,How Much Is It?,I want ()로 원하는 것을 말하는 표현 익히기 ,A: I want this jacket. ,,A: I need (). A: I’d love to have (). 
+605,408,초4,천재(김),2022,10,It’s in the Box,I don’t know로 모르고 있음을 표현하기 ,A: I don’t know. ,,A: I’m not sure about (). A: I have no clue about (). 
+606,408,초4,천재(김),2022,11,What Are You Doing?,Can you help me?로 도움 요청하고 이에 답하기 ,"A: Can you help me? B: Sure, I can. / Sorry, I can’t. ",,"A: Could you assist me with ()? B: Of course! / Sorry, I’m busy. A: Would you be able to support me with ()? B: Sure! / Maybe later. "
+607,301,초3,천재(함),2015,1,Hello!,자기소개하는 표현을 통해 자신을 소개하는 방법 배우기. ,I’m Minho. ,,My name is (). I go by (). 
+608,301,초3,천재(함),2015,3,"Sit Down, Please",명령문에 답하기 ,Okay. [SUB_EXPRESSION] Sure. Alright. ,,
+609,301,초3,천재(함),2015,5,I Have a Pencil,I have () 를 통해 물건을 묘사하는 방법 배우기. ,I have a sharpener. ,,I own a (). I carry a (). 
+610,301,초3,천재(함),2015,8,It's Very Tall!,Is it ()? 를 통해 사물을 확인하는 방법 배우기. ,"A: Is it a dog? B: No, it isn’t. ",,"A: Is this a ()? B: Yes, it is. / No, it isn’t. A: Could that be a ()? B: Maybe. / No, I don’t think so. "
+611,301,초3,천재(함),2015,10,She's My Mom,사람의 외모를 묘사하는 방법 배우기. ,She’s kind. ,,He’s very (). She looks (). 
+612,301,초3,천재(함),2015,11,Look! It's Snowing,Let’s () 를 통해 제안하고 반응하는 방법 배우기. ,"A: Let’s go hiking. B: Sounds fun. / Sorry, I can’t. ",,A: Let’s try (). B: Okay! / Maybe next time. A: Why don’t we ()? B: That’s a great idea! / I’m not sure. 
+613,401,초4,천재(함),2015,1,My Name Is Eric,This is () 를 통해 다른 사람을 소개하는 방법 배우기. ,This is my brother. ,,Meet my (). Let me introduce (). 
+614,401,초4,천재(함),2015,2,Let's Play Soccer,제안에 답하기 ,"Sounds great. / Sorry, I can’t. [SUB_EXPRESSION] That’s a good idea. / Maybe next time. Sure! / I’m not sure. ",,
+615,401,초4,천재(함),2015,3,I'm Happy,I’m () 를 통해 감정이나 상태를 표현하는 방법 배우기. ,I’m excited. ,,I feel (). I’m really (). 
+616,401,초4,천재(함),2015,4,Don't Run!,명령문을 사용하여 ()를 지시하기. ,Place the bag on the desk. ,,Drop the () in the box. Hang the () on the wall. 
+617,401,초4,천재(함),2015,6,What Time Is It?,It’s time for () 를 통해 무엇을 할 시간인지 나타내는 방법 배우기. ,It’s time for dinner. ,,It’s time for (). It’s time to (). 
+618,401,초4,천재(함),2015,7,Is This Your Watch?,My () is () 를 통해 물건을 묘사하는 방법 배우기. ,My bag is black. ,,My jacket is (). My shoes are (). 
+619,401,초4,천재(함),2015,8,I'm a Pilot,What does he/she do? 를 통해 다른 사람의 직업을 묻고 답하는 방법 배우기. ,A: What does she do? B: She’s a pilot. ,,A: What does he do? B: He’s a (). A: What is his/her job? B: He’s/She’s a (). 
+620,401,초4,천재(함),2015,9,What Are You Doing?,What’s he/she doing? 를 통해 다른 사람이 현재 하고 있는 동작을 묻고 답하는 방법 배우기. ,A: What’s he doing? B: He’s reading. ,,A: What is she doing? B: She’s (). A: Do you know what he’s doing? B: He’s (). 
+621,401,초4,천재(함),2015,11,I Get Up Early,I () every day. 를 통해 생활 습관을 나타내는 방법 배우기. ,I take a walk every day. ,,I drink water every morning. I read books at night. 
+622,506,초5,천재(함),2015,1,Where Are You From?,하루의 시간대에 맞는 인사말 배우기 ,A: Good evening! ,,A: Good morning! A: Have a great afternoon! 
+623,506,초5,천재(함),2015,2,What Do You Do on Weekends?,제안에 답하는 표현 익히기 ,"A: Sorry, but I go to the gym on Fridays. ",,"A: I’d love to, but I have (). A: I can’t. I need to (). "
+624,506,초5,천재(함),2015,3,May I Sit Here?,Go ahead로 권유하는 표현 익히기 ,A: Go ahead. ,,A: Feel free. A: Help yourself. 
+625,506,초5,천재(함),2015,4,Whose Sock Is This?,"No, it’s ()으로 수정하는 표현 익히기 ","A: No, it’s Hana’s notebook. ",,"A: Actually, it’s (). A: No, this one is (). "
+626,506,초5,천재(함),2015,5,I’d Like Fried Rice,What’s ()?로 음식 설명을 요청하고 이에 답하는 표현 익히기 ,A: What’s Kimchi? B: It’s a spicy Korean dish. ,,A: Can you tell me what () is? B: It’s a type of (). A: What is () made of? B: It’s made of (). 
+627,506,초5,천재(함),2015,6,What Will You Do This Summer?,Have a good time으로 기원하고 이에 답하는 표현 익히기 ,A: Have a great trip. B: Thanks! You too. ,,A: Enjoy your day! B: Thank you! A: Have fun at ()! B: I will! 
+628,506,초5,천재(함),2015,8,How Much Are the Shoes?,What size do you want?로 물건의 치수를 묻고 답하는 표현 익히기 ,A: What size do you want? B: I want a medium. ,,"A: What size fits you? B: I wear a (). A: Do you need a bigger ()? B: No, () is perfect. "
+629,506,초5,천재(함),2015,9,My Favorite Subject Is Science,I like to ()로 좋아하는 것 표현하기 ,A: I like to bake. ,,A: I enjoy (). A: I love to (). 
+630,506,초5,천재(함),2015,10,What a Nice House!,What a ()!로 감탄하는 표현 익히기 ,A: What a beautiful garden! ,,A: How () this () is! A: How () they are! 
+631,506,초5,천재(함),2015,11,I Want to Be a Movie Director,I want to ()로 하고 싶은 일을 표현하는 방법 익히기 ,A: I want to help people. ,,A: I’d like to (). A: My goal is to (). 
+632,606,초6,천재(함),2015,1,What Grade Are You In?,"""How do you spell ~?를 활용해 이름의 철자 묻고 답하기"" ",A: How do you spell your name? B: M-A-R-Y. ,,"A: Can you spell this word? B: Yes, it's (). A: What's the spelling of ()? B: It's (). "
+633,606,초6,천재(함),2015,2,I Have a Cold,'and'를 활용하여 관련된 두 문장을 연결하여 한 가지 행동을 지시하기. ,Take this book and read it before bed. ,,Take this () and give it to (). Take this () and place it on the (). 
+634,606,초6,천재(함),2015,3,When Is the Club Festival?,상대방을 초대하고 이에 답변하는 표현 활용하기. ,A: Can you join us for the picnic? B: Of course. ,,"A: Would you like to come to ()? B: I'd love to. A: Are you free for ()? B: Sure, why not? "
+635,606,초6,천재(함),2015,4,Where Is the Post Office?,전치사를 활용해 위치 나타내기. ,A: It's next to the park. ,,A: It's beside () buildings. A: It's near the () area. 
+636,606,초6,천재(함),2015,5,I’m Going to See a Movie,전화 대화 시작 시 사용되는 간단한 표현을 통해 의사 소통하기. ,A: Hello? B: This is Mike speaking. ,,"A: Is this ()? B: Yes, this is (). A: May I speak to ()? B: Speaking. "
+637,606,초6,천재(함),2015,6,He Has Short Curly Hair,be wearing (~)을 활용해 옷차림을 묘사하기. ,A: What is John wearing? B: He is wearing a yellow shirt. ,,A: What color is Mary's pants? B: She is wearing blue ones. A: Who is wearing a green hat? B: () is wearing a green hat. 
+638,606,초6,천재(함),2015,7,How Often Do You Eat Breakfast?,격려와 칭찬의 표현을 통해 상대방을 응원하기. ,Good for you! ,,"That's amazing for (). You did great, (). "
+639,606,초6,천재(함),2015,8,I’m Taller Than You,부정을 나타내는 표현으로 상대방의 의견에 동의하지 않음을 전하기. ,A: That's not correct. ,,A: That's not ()! A: I don't think (). 
+640,606,초6,천재(함),2015,9,What Do You Think?,I think ()를 활용해 자신의 의견이나 생각 나타내기. ,A: I think it’s challenging. B: Really? Why do you think so? ,,"A: In my opinion, () is tricky. B: What makes you feel that way? A: I believe () can be tough. B: How did you come to that conclusion? "
+641,606,초6,천재(함),2015,10,Who Wrote the Book?,과거 시제로 상대방이 한 말을 확인하고 확인 요청하기. ,A: Did you say 'Shakespeare'? ,,A: Did you mention ()? A: Did you talk about ()? 
+642,606,초6,천재(함),2015,11,We Should Save the Earth,How about ()를 활용한 권유하기. ,A: How about having lunch together? B: Sure! ,,A: Let's ()? B: Sounds like a plan. A: Would you like to ()? B: I'd love to. 
+643,310,초3,YBM(김),2022,1,Hello! I’m Dito,이름을 묻고 답하는 표현 사용하기. ,A: What's your name? B: My name is Lily. ,,A: What is your name? B: My name is (). A: What are you called? B: I am (). 
+644,311,초3,YBM(최),2022,1,"Hello, ABC!",일상 대화에서 감사 표현하기. ,Thank you for helping me. ,,Thanks for your assistance. I appreciate your support. 
+645,302,초3,YBM(김),2015,1,"Hello, I’m Tibo",헤어질 때 사용하는 간단한 인사 표현 배우기. ,Goodbye! ,,See you! Take care! 
+646,303,초3,YBM(최),2015,4,Do You Like Apples?,I don’t like ~를 활용해 좋아하지 않는 것 표현하기. ,I don't like carrots. ,,I dislike (). I’m not fond of (). 
+647,303,초3,YBM(최),2015,6,Do You Have a Ruler?,'Thank you.'와 'You’re welcome.'간단한 표현을 활용해 감사하기와 감사의 답변 이해하기. ,Thank you. ,,You're welcome. No problem. 
+648,303,초3,YBM(최),2015,7,Can You Swim?,can’t를 활용해 자신의 능력을 부인하기. ,A: I can't play the guitar. ,,A: I am unable to (). A: I do not have the ability to (). 
+649,303,초3,YBM(최),2015,8,"Don’t Run, Please",사과 표현과 이에 대한 긍정적인 반응하는 방식을 배우기. ,A: I'm sorry. B: It's all right. ,,A: Sorry about that. B: That's fine. A: I apologize. B: No problem. 
+650,403,초4,YBM(최),2015,4,Are You Okay?,현재 상태를 확인하고 응답하는 표현에 대해 배우기. ,"A: Are you feeling well? B: Yes, I am. / No, I'm not. ",,"A: Are you all right? B: Yes, I am. / No, I'm not. A: Do you feel okay? B: Yes, I am. / No, I'm not. "
+651,312,초3,동아(윤),2022,1,"Hello, ABC!",감사의 표현을 활용해 감사하고 이에 답하기. ,A: Thanks a lot! ,,A: Thank you very much! A: Many thanks! 
+652,304,초3,동아(박),2015,1,"Hello, I'm Jimin",상대방의 소개에 대해 적절히 응답하는 표현 익히기. ,"A: Nice to meet you! B: Nice to meet you, too. ",,"A: It's a pleasure to meet you! B: Likewise, nice to meet you. A: I'm glad we met! B: Same here, nice to meet you. "
+653,304,초3,동아(박),2015,9,I'm Happy,감정 표현을 위해 상태 형용사를 활용하기. ,I'm tired. ,,I'm happy. I'm excited. 
+654,404,초4,동아(박),2015,1,My Name Is Cindy,나이를 묻고 답하는 표현을 사용하기. ,A: How old are you? B: I'm seven years old. ,,A: What's your age? B: I am () years old. A: How many years have you? B: I am () years old. 
+655,404,초4,동아(박),2015,3,"Don’t Push, Please",명령문을 활용하여 지시하거나 요청하기. ,Please sit down. ,,Be patient. Let's pay attention. 
+656,307,초3,천재(함),2022,2,"Hi, I’m Momo",상대방의 안부를 묻고 답할 수 있는 표현 배우기 ,A: How are you? B: I’m good. ,,A: How’s it going? B: It’s going great. A: How do you feel? B: I feel wonderful. 
+657,407,초4,천재(함),2022,1,My Name Is Amy,때에 알맞은 인사말 하기 ,Good morning! ,,Good afternoon! Good evening! 
+658,309,초3,천재(이),2022,6,Can You Jump?,격려하는 표현을 통해 상대방에게 힘을 주는 방법 배우기. ,You’ve got this! ,,Keep going! Don’t give up! 
+659,309,초3,천재(이),2022,7,Do You Have a Pencil?,물건을 건네줄 때 사용할 수 있는 표현 알아보기. ,Here you go. ,,Here’s your (). Take this. 
+660,309,초3,천재(이),2022,8,Are You Happy?,상대방에게 사과하고 이에 답하는 표현 알아보기. ,A: I’m really sorry. B: That’s okay. ,,A: Sorry about that. B: No worries. A: My apologies. B: Don’t worry about it. 
+661,409,초4,천재(이),2022,1,What’s Your Name?,다른 사람을 소개하는 표현을 통해 누군가를 소개하는 방법 배우기. ,"This is my friend, Siwu. ",,"Meet my friend, (). Let me introduce (). "
+662,308,초3,천재(김),2022,1,"Hello, ABC!",자기소개하는 방법 익히기 ,A: I’m Bella. ,,A: My name is (). A: I’m (). Nice to meet you! 
+663,301,초3,천재(함),2015,1,Hello!,Thank you. 를 통해 감사하고 이에 답하는 방법 배우기. ,A: Thanks a lot. B: No problem. ,,A: Many thanks. B: You’re welcome. A: I appreciate it. B: Anytime. 
+664,301,초3,천재(함),2015,8,It's Very Tall!,잘못된 정보를 수정하기 ,"No, it isn’t. [SUB_EXPRESSION] That’s not right. No, that’s incorrect. ",,
+665,401,초4,천재(함),2015,1,My Name Is Eric,Nice to meet you. 를 통해 소개에 답하는 방법 배우기. ,Nice to see you. ,,Glad to meet you. It’s a pleasure to meet you. 
+666,310,초3,YBM(김),2022,1,Hello! I’m Dito,'Goodbye'를 이용하여 헤어질 때 인사하기. ,See you later. ,,Goodbye for now. Take care. 
+667,311,초3,YBM(최),2022,1,"Hello, ABC!",헤어질 때 적절한 인사표현을 활용해 작별 인사하기. ,Goodbye. ,,See you later. Take care. 
+668,303,초3,YBM(최),2015,7,Can You Swim?,간단한 격려의 표현을 통해 자신감을 북돋아주는 문장 이해하기. ,I believe in you. ,,Keep going! You're doing great! 
+669,301,초3,천재(함),2015,1,Hello!,I’m sorry. 를 통해 사과하고 이에 답하는 방법 배우기. ,A: I’m really sorry. B: That’s all right. ,,A: Sorry about that. B: No worries. A: My apologies. B: It’s okay. 
