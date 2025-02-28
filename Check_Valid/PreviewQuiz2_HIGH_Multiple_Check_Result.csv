@@ -1,0 +1,91 @@
+﻿id,result_json,fill_in_blank_quiz,korean_translation,option_1,option_2,option_3,answer,answer_index,id
+1008,"{
+  ""fill_in_blank_quiz"": ""They choose ___ nurtures nature."",
+  ""korean_translation"": ""그들은 자연을 기르는 것을 선택한다."",
+  ""option_1"": ""that"",
+  ""option_2"": ""what"",
+  ""option_3"": ""which"",
+  ""answer"": ""what"",
+  ""answer_index"": 2,
+  ""id"": 1008
+}",They choose ___ nurtures nature.,그들은 자연을 기르는 것을 선택한다.,that,what,which,what,2,1008
+1020,"{
+  ""fill_in_blank_quiz"": ""My teacher ___ me to read more books."",
+  ""korean_translation"": ""나의 선생님은 내가 더 많은 책을 읽도록 격려했다."",
+  ""option_1"": ""encouraged"",
+  ""option_2"": ""asked"",
+  ""option_3"": ""permitted"",
+  ""answer"": ""encouraged"",
+  ""answer_index"": 1,
+  ""id"": 1020
+}",My teacher ___ me to read more books.,나의 선생님은 내가 더 많은 책을 읽도록 격려했다.,encouraged,asked,permitted,encouraged,1,1020
+1021,"{
+  ""fill_in_blank_quiz"": ""I received a letter from a friend, ___ visited Seoul last summer."",
+  ""korean_translation"": ""나는 지난 여름 서울을 방문한 친구로부터 편지를 받았어."",
+  ""option_1"": ""which"",
+  ""option_2"": ""who"",
+  ""option_3"": ""whom"",
+  ""answer"": ""who"",
+  ""answer_index"": 2,
+  ""id"": 1021
+}","I received a letter from a friend, ___ visited Seoul last summer.",나는 지난 여름 서울을 방문한 친구로부터 편지를 받았어.,which,who,whom,who,2,1021
+1023,"{
+  ""fill_in_blank_quiz"": ""___ I prepare my thoughts, I cannot express my feelings clearly."",
+  ""korean_translation"": ""아무리 내 생각을 정리해도, 내 감정을 명확하게 표현할 수 없다."",
+  ""option_1"": ""No matter how"",
+  ""option_2"": ""However well"",
+  ""option_3"": ""Even if"",
+  ""answer"": ""However well"",
+  ""answer_index"": 2,
+  ""id"": 1023
+}","___ I prepare my thoughts, I cannot express my feelings clearly.","아무리 내 생각을 정리해도, 내 감정을 명확하게 표현할 수 없다.",No matter how,However well,Even if,However well,2,1023
+1031,"{
+  ""fill_in_blank_quiz"": ""___ fascinating animals is the dolphin."",
+  ""korean_translation"": ""돌고래는 가장 매혹적인 동물 중 하나이다."",
+  ""option_1"": ""Some of the most"",
+  ""option_2"": ""One of the most"",
+  ""option_3"": ""The most"",
+  ""answer"": ""One of the most"",
+  ""answer_index"": 2,
+  ""id"": 1031
+}",___ fascinating animals is the dolphin.,돌고래는 가장 매혹적인 동물 중 하나이다.,Some of the most,One of the most,The most,One of the most,2,1031
+1058,"{
+  ""fill_in_blank_quiz"": ""___ this is the best choice."",
+  ""korean_translation"": ""나는 이것이 최선의 선택이라고 확신해."",
+  ""option_1"": ""I doubt that"",
+  ""option_2"": ""I'm sure that"",
+  ""option_3"": ""I hope that"",
+  ""answer"": ""I'm sure that"",
+  ""answer_index"": 2,
+  ""id"": 1058
+}",___ this is the best choice.,나는 이것이 최선의 선택이라고 확신해.,I doubt that,I'm sure that,I hope that,I'm sure that,2,1058
+1076,"{
+  ""fill_in_blank_quiz"": ""___ through the park, she listened to her favorite music."",
+  ""korean_translation"": ""공원을 거닐다가, 그녀는 좋아하는 음악을 들었어."",
+  ""option_1"": ""Walking"",
+  ""option_2"": ""Running"",
+  ""option_3"": ""Sitting"",
+  ""answer"": ""Walking"",
+  ""answer_index"": 1,
+  ""id"": 1076
+}","___ through the park, she listened to her favorite music.","공원을 거닐다가, 그녀는 좋아하는 음악을 들었어.",Walking,Running,Sitting,Walking,1,1076
+1083,"{
+  ""fill_in_blank_quiz"": ""She gave me a book, ___ turned out to be very interesting."",
+  ""korean_translation"": ""그녀는 내게 책을 주었고, 그것이 매우 흥미로운 것으로 판명되었다."",
+  ""option_1"": ""who"",
+  ""option_2"": ""which"",
+  ""option_3"": ""when"",
+  ""answer"": ""which"",
+  ""answer_index"": 2,
+  ""id"": 1083
+}","She gave me a book, ___ turned out to be very interesting.","그녀는 내게 책을 주었고, 그것이 매우 흥미로운 것으로 판명되었다.",who,which,when,which,2,1083
+1098,"{
+  ""fill_in_blank_quiz"": ""Can you ___ them separately?"",
+  ""korean_translation"": ""그것들을 따로 포장해 줄 수 있니?"",
+  ""option_1"": ""break"",
+  ""option_2"": ""wrap"",
+  ""option_3"": ""share"",
+  ""answer"": ""wrap"",
+  ""answer_index"": 2,
+  ""id"": 1098
+}",Can you ___ them separately?,그것들을 따로 포장해 줄 수 있니?,break,wrap,share,wrap,2,1098
