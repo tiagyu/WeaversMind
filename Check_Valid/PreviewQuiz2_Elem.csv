@@ -1,0 +1,90 @@
+﻿id,description,key_expression,sub_expression
+10021,만날 때 인사 표현 익히기,Hello there!,Hi! Greetings!
+10023,헤어질 때 bye나 잘가로 인사하기,Goodbye!,See you! Take care!
+10027,간단한 표현으로 반응하기,Fantastic!,Amazing! Wonderful!
+10029,동사 like로 좋아/싫음 표현하기,I enjoy fruits.,I like ~. I don’t enjoy ~.
+10035,사용자 주의 끌 표현 익히기,Look over there!,Look at that! Take a look!
+10045,warn과 같은 경고 표현 익히고 활용하기,Watch out! A car is coming.,Look out! Be careful!
+10047,헤어질 때 인사표현 익히기,Bye now.,Good bye! Take care!
+10048,hi/bye와 같은 인사 표현 익히기,Hi there!,Hello! Bye!
+10073,의문문 구조를 통해 나이 묻고 답하기,A: How old are you? B: I'm seven years old.,A: How many years have you? B: I am ~ years old. A: What's your age? B: I'm ~ years old.
+10090,영어 Can으로 질문하기,"A: Can you draw? B: Yes, I can.","A: Are you able to ~? B: Yes, I am. A: Do you know how to ~? B: No, I don't."
+10104,자기소개 표현 익히기,I’m Anna.,My name is ~. I am ~.
+10126,인사말 사용법 익히기,A: Hi. B: Hello.,A: Hey! B: Hi there! A: Hello! B: Nice to see you!
+10128,영어로 자기소개 연습하기,A: I’m Bella.,A: My name is ~. A: I’m ~. Nice to meet you!
+10134,good job과 well done 익히기,A: Good!,A: Great job! A: Well done!
+10141,Do you have ~?로 물건 보유 여부 확인하기,"A: Do you have a book? B: Yes, I do. / No, I don’t.","A: Have you got a ~? B: Yes, I have. / No, I haven’t. A: Are you carrying a ~? B: Yes, I am. / No, I’m not."
+10150,excuse me를 쓰며 주의 끌기,Look!,"Check this out! Hey, look over here!"
+10152,칭찬할 때 사용할 표현 익히기,Great!,Awesome! Well done!
+10156,크기 표현 익히기,They’re huge.,They’re very ~. They look ~.
+10160,Do you have ~? 활용하기,"A: Do you have an eraser? B: Yes, I do. / No, I don’t.","A: Do you have ~? B: Yes, I do. / No, I don’t. A: Have you got ~? B: Yes, I have. / No, I haven’t."
+10161,가지고/없는 물건 표현 익히기,I have a notebook. / I don’t have a notebook.,I own a ~. I don’t have a ~.
+10171,제안 표현으로 활동 권하기,"A: Let’s go outside. B: Sounds fun. / Sorry, I can’t.",A: Let’s try ~. B: Okay! / Maybe next time. A: How about we ~? B: That’s a great idea! / I’m not sure.
+10172,Hello/Hi! 표현 익히기,Hi there!,"Hello! 
+Hey!"
+10175,Goodbye로 헤어질 때 인사하기,See you later.,Goodbye for now. Take care.
+10181,like 활용해 음식 좋아/싫어 표현하기,"A: Do you like ice cream? B: Yes, I love it.","A: Do you enjoy ~? B: Yes, I enjoy it. A: Do you dislike ~? B: No, I really like it."
+10186,의문문과 답변으로 사물의 색깔 질문 답하기,A: What color is the car? B: It's blue.,A: What shade is it? B: It's ~. A: Which hue does it have? B: It's ~.
+10187,부정 표현으로 모름 강조하기,I'm not sure.,I have no idea. I can't say.
+10211,have로 소유 여부 표현하기,"A: Do you have a bag? B: Yes, I have a bag.","A: Do you own a ~? B: Yes, I have a ~. A: Have you got a ~? B: No, I don’t have a ~."
+10218,인사말 표현을 사용하기,"A: Hello there! B: Hi, good to see you!","A: Good afternoon, ~. B: Afternoon, ~. A: Take care, ~. B: Catch you later, ~."
+10222,감탄문으로 기쁨이나 놀라움 표현하기,That's amazing!,That's wonderful! It feels incredible!
+10225,How many ~를 활용해 채소와 과일 개수 묻기,A: How many apples? B: Five apples.,A: How many oranges? B: ~ oranges. A: How many bananas? B: ~ bananas.
+10228,"동사 like, don't like로 음식 선호 말하기",A: I like pizza./I don’t like broccoli.,A: I enjoy ~./I dislike ~. A: I’m fond of ~./I’m not a fan of ~.
+10231,Do you have ~?로 물건 가지고 묻고 답하기,"A: Do you have a marker? B: Yes, I do.","A: Do you own a ~? B: Yes, I do. A: Have you got a ~? B: No, I don’t."
+10235,be + 형용사로 동물 크기 묘사,It's large.,It's huge. It's enormous.
+10268,Hello/Hi 표현을 활용해 만날 때 인사하고 자기소개하기,A: Hi! My name is Jayson.,"A: Hi there! My name is Mina. B: Nice to meet you! A: It’s great to see you. I’m Jiwon. B: Nice to meet you, too."
+10272,Thank you ~를 활용해 감사와 답하기,A: Thanks! B: You’re welcome. ,A: I really appreciate it. B: Don’t mention it. A: Thanks a lot! B: Anytime.
+10280,It’s ~를 활용해 크기 표현하기,A: It’s heavy.  ,A: It’s small. A: It’s very tall.
+10292,This is ~를 통해 소개하기,This is my brother.,Meet my ~. Let me introduce ~.
+10301,What time is it? 를 이용해 시간 묻고 답하기,A: What time is it now? B: It’s ten fifteen.,A: Can you tell me the time? B: It’s ~. A: Do you know what time it is? B: It’s ~.
+10307,What are you doing? 활용하기,A: What are you doing? B: I’m drawing.,A: What are you up to? B: I’m ~. A: What’s keeping you busy? B: I’m ~.
+10328,질문 표현으로 허락 묻고 답하기,A: Can I stay here? B: Sure.,"A: May I sit down here? B: Of course. A: Would it be okay if I take this? B: Sorry, you can't."
+10329,간단한 표현 사용해 권유하기,You may proceed.,Feel free to go. Proceed if you'd like.
+10354,Would you like~?를 활용하기,"A: Would you like some juice? B: Yes, sure.","A: Do you want some cake? B: Sure. A: Would you care for some tea? B: Yes, please."
+10357,be 동사 사용하기,"A: Is this your bag? B: Yes, it is.","A: Is this your (item)? B: Yes, it is. A: Is (item) yours? B: No, it isn’t."
+10389,이름 묻고 대답하는 방법,A: What’s your name? B: My name is Tom.,A: What’s your name? B: I’m ~. A: May I know your name? B: I’m ~.
+10411,Can I help you?로 도움 제안하기,A: Can I help you? B: Sure.,"A: Do you need any help? B: Yes, please. A: May I assist you? B: That would be great."
+10422,What time is it?로 시각 표현 익히기,A: What time is it? B: It’s seven thirty.,A: What time is it now? B: It’s ~. A: Do you know what time it is? B: It’s ~.
+10440,주의 줄 때 쓸 표현 익히기,Be careful on the road!,Watch out! Stay alert!
+10442,영문 문장 What do you want? 활용하기,A: What do you want? B: I want some juice.,A: What would you like? B: I’d like ~. A: What are you looking for? B: I want ~.
+10452,Can I help you? 를 활용해 도움 제안 답하기,"A: Can I help you? B: Yes, please.","A: Do you need any help? B: Yes, please. A: May I assist you? B: Sure, thanks."
+10456,예를 들어 저기요와 같은 표현 익히기,Excuse me.,Pardon me. Sorry to interrupt.
+10460,This is ~을 활용해 소개하기,This is Sarah.,"This is my teacher, ~. This is our neighbor, ~."
+10471,What time을 활용해 현재 시각 묻고 답하기,A: What time is it? B: It's nine o'clock.,A: Do you know the time? B: It's ~. A: Can you tell me the time? B: It's ~.
+10484,be 동사로 인물 특징 표현하기,She is kind.,He is friendly. They are funny.
+10488,상대방 상태 묻기 표현 익히기,Are you alright?,Are you feeling fine? Are you doing okay?
+10490,간단한 표현으로 상대 말 재청,"Could you repeat that, please?",Would you mind saying that again? Could you rephrase what you just mentioned?
+10499,how much 를 활용하기,A: How much is that item? B: It's 250 yen.,A: What is the price of this item? B: It's ~ won. A: How much does that cost? B: It's ~ dollars.
+10510,지시 표현 및 응답 익히기,A: Place the book on the shelf.,A: Put the ~ on the ~. A: Arrange the ~ in the ~.
+10526,감정과 상태 표현 익히고 활용하기,"Are you okay? Yes, I am. / No, I’m not.","A: Do you feel ~? B: Yes, I feel ~. A: Are you ~? B: No, I’m not."
+10539,현재 진행형으로 물어보기,What are you doing? I’m painting a picture.,"A: What is ~ doing? B: ~ is playing ~. A: Is ~ reading ~? B: No, ~ is watching TV."
+10543,가격 묻는 법 익히기,How much is it? It’s five hundred won.,A: How much is ~? B: It’s ~ won. A: I want this ~. B: It’s too expensive.
+10547,How are you ~? 활용하기,A: How are you feeling? B: I’m good.,A: How’s everything? B: I’m feeling great. A: How have you been? B: I’ve been good.
+10575,Can I ~?를 활용하기,Can I use your notebook?,May I take ~? Is it okay if I borrow ~?
+10578,"예, 아니오 응답 익히기","A: Are you certain? B: Yes, I am. / No, I'm not.","A: Are you sure about this? B: Yes, I am. / No, I'm not. A: Is this definite? B: Yes, it is. / No, it isn't."
+10579,Let's ~ 활용해 제안하고 동의 답하기,A: Let's visit the zoo. B: Sure.,A: Why don't we explore ~? B: That sounds fun. A: How about going to ~? B: I'd love to.
+10586,How about ~? 활용해 시각 제안하기,A: How about meeting at 3 o'clock? B: Sounds good!,"A: Would you like to meet at ~ o'clock? B: That works! A: Shall we plan to gather at ~? B: Sure, that's fine!"
+10587,How much (~)?를 활용해 가격 묻기,A: How much is this toy? B: It’s 500 won.,A: How much are these cookies? B: They’re ~ won. A: What is the price of this book? B: It’s ~ won.
+10588,도움 요청과 상태 표현으로 필요 확인하기,"A: May I help you? B: Yes, please. I’m browsing for a book.","A: Can I assist you with ~? B: Yes, thank you! A: How can I help you with ~? B: That would be great; thank you!"
+10589,어디 있는지 물어보고 답하기,A: Where's the nearest park? B: Go straight and you'll find it on your left.,A: Could you tell me the way to the ~? B: It's ~ from here. A: How can I reach the ~? B: It's located ~ nearby.
+10606,have no idea를 활용해 표현하기,I don't know.,I have no clue. I am not sure.
+10610,헤어질 때 인사 표현으로 긍정 하루 기원하기,Have a pleasant day.,Take care! See you soon!
+10617,How much와 같은 표현 익히기,A: How much is this shirt? B: It's eight dollars.,A: What's the price of this watch? B: It's ~ dollars. A: How many dollars is this item? B: It's ~.
+10634,상황이나 대상에 대해 의견 말하기,That's very early.,That's quite early. That's somewhat early.
+10655,Whose ~ is this? 표현 익히기,A: Whose glove is this? B: It’s Mina’s.,"A: Who owns this ~? B: That belongs to ~. A: Does this ~ belong to you? B: No, it’s ~."
+10678,When is ~?을 활용해 날짜 묻고 답하기,A: When is the concert? B: It's on July 15th.,A: When is ~? B: It's on ~. A: What date is ~ happening? B: It's on ~.
+10680,will ~를 사용해 미래 계획 묻고 답하기,A: What will you do this evening? B: I will watch a movie.,"A: What are you planning to do this weekend? B: I plan to ~ this weekend. A: Do you have any plans tomorrow? B: Yes, I will ~ tomorrow."
+10684,음식 주문 표현 익히기,"A: May I take your order? B: Yes, please. I'd like pizza.","A: What would you like to eat? B: I’d like ~. A: Can I get you anything? B: Yes, please. I want ~."
+10712,좋아하는 표현 익히고 활용하기,A: What season do you enjoy? B: I prefer spring as the flowers bloom beautifully.,A: Which season do you like most? B: I enjoy spring because the flowers bloom. A: What's your favorite season? B: I love spring due to the blooming flowers.
+10719,예문: 'Can you repeat that?',I'm sorry?,"Could you repeat that, please? Pardon?"
+10720,be going to 로 계획 묻고 답하기,A: What are you planning to do this afternoon? B: I'm planning to visit the park.,A: What are you going to do later? B: I’m going to ~. A: What is your plan for today? B: My plan is to ~.
+10727,전화로 의사 소통 방법 배우기,"A: Hello? B: Hello, this is Alex. May I speak to Ryan? C: Speaking.","A: Hi? B: Hello, I am ~. Can I talk to ~? C: ~ here. A: Hello? B: Hi, this is ~. May I speak with ~? C: This is ~."
+10734,Would like를 활용해 주문 주고받기,A: What would you like to eat? B: I’d like to eat pasta.,A: What do you want to have? B: I want to have ~. A: May I take your order? B: I'd like ~.
+10739,감탄사로 놀람 표현 연습하기,How small!,What a surprise! How impressive!
+10754,방향 안내 표현 익히고 활용하기,A: Where is the library? B: Walk three blocks straight and you'll find it on your left.,"A: Can you tell me the way to ~? B: Sure, go straight and pass ~. A: How can I arrive at ~? B: Just take the road straight ahead, and it's near ~."
+10756,be going to를 활용해 미래 계획 묻고 답하기,A: What are you going to do this weekend? B: I’m going to visit my grandparents.,A: What are you planning to do ~? B: I’m planning to ~. A: What do you intend to do ~? B: I intend to ~.
+10757,전화 시작 표현 익히기,A: Hello? B: This is Mike speaking.,"A: Is this ~? B: Yes, this is ~. A: May I speak to ~? B: Speaking."
+10760,[How often]을 활용해 묻고 답하기,A: How often do you watch cartoons? B: Twice a week.,A: How frequently do you read books? B: ~ a month. A: How regularly do you go outside? B: ~ every evening.
+10761,격려와 칭찬 표현 익히기,Good for you!,"That's amazing for ~. You did great, ~."
+10768,조동사 should로 의무와 권장 사항 표현하기,We should take care of animals.,We must protect ~. It is necessary to help ~.
