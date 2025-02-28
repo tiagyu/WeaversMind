@@ -1,0 +1,1001 @@
+﻿id,result_json,fill_in_blank_quiz,korean_translation,option_1,option_2,option_3,answer,answer_index,id
+10001,"{
+  ""fill_in_blank_quiz"": ""___! Nice to meet you."",
+  ""korean_translation"": ""안녕하세요! 반갑습니다."",
+  ""option_1"": ""Hello!"",
+  ""option_2"": ""Good evening!"",
+  ""option_3"": ""Goodbye!"",
+  ""answer"": ""Hello!"",
+  ""answer_index"": 1,
+  ""id"": 10001
+}",___! Nice to meet you.,안녕하세요! 반갑습니다.,Hello!,Good evening!,Goodbye!,Hello!,1,10001
+10005,"{
+  ""fill_in_blank_quiz"": ""___ this?"",
+  ""korean_translation"": ""이것은 무엇인가요?"",
+  ""option_1"": ""What's"",
+  ""option_2"": ""How's"",
+  ""option_3"": ""Where's"",
+  ""answer"": ""What's"",
+  ""answer_index"": 1,
+  ""id"": 10005
+}",___ this?,이것은 무엇인가요?,What's,How's,Where's,What's,1,10005
+10009,"{
+  ""fill_in_blank_quiz"": ""___ a ruler?"",
+  ""korean_translation"": ""너는 자를 가지고 있니?"",
+  ""option_1"": ""Do you own"",
+  ""option_2"": ""Do you have"",
+  ""option_3"": ""Have you got"",
+  ""answer"": ""Do you have"",
+  ""answer_index"": 2,
+  ""id"": 10009
+}",___ a ruler?,너는 자를 가지고 있니?,Do you own,Do you have,Have you got,Do you have,2,10009
+10019,"{
+  ""fill_in_blank_quiz"": ""___ the weather today?"",
+  ""korean_translation"": ""오늘 날씨 어때?"",
+  ""option_1"": ""What's"",
+  ""option_2"": ""Where's"",
+  ""option_3"": ""How's"",
+  ""answer"": ""How's"",
+  ""answer_index"": 3,
+  ""id"": 10019
+}",___ the weather today?,오늘 날씨 어때?,What's,Where's,How's,How's,3,10019
+10029,"{
+  ""fill_in_blank_quiz"": ""I ___ fruits."",
+  ""korean_translation"": ""나는 과일을 즐겨 먹는다."",
+  ""option_1"": ""enjoy"",
+  ""option_2"": ""dislike"",
+  ""option_3"": ""avoid"",
+  ""answer"": ""enjoy"",
+  ""answer_index"": 1,
+  ""id"": 10029
+}",I ___ fruits.,나는 과일을 즐겨 먹는다.,enjoy,dislike,avoid,enjoy,1,10029
+10030,"{
+  ""fill_in_blank_quiz"": ""How ___ you?"",
+  ""korean_translation"": ""어떻게 지내세요?"",
+  ""option_1"": ""are"",
+  ""option_2"": ""is"",
+  ""option_3"": ""do"",
+  ""answer"": ""are"",
+  ""answer_index"": 1,
+  ""id"": 10030
+}",How ___ you?,어떻게 지내세요?,are,is,do,are,1,10030
+10039,"{
+  ""fill_in_blank_quiz"": ""___ your day!"",
+  ""korean_translation"": ""네 하루를 즐기세요."",
+  ""option_1"": ""Enjoy"",
+  ""option_2"": ""Celebrate"",
+  ""option_3"": ""Have"",
+  ""answer"": ""Enjoy"",
+  ""answer_index"": 1,
+  ""id"": 10039
+}",___ your day!,네 하루를 즐기세요.,Enjoy,Celebrate,Have,Enjoy,1,10039
+10045,"{
+  ""fill_in_blank_quiz"": ""___ out! A car is coming."",
+  ""korean_translation"": ""조심해! 차가 오고 있어."",
+  ""option_1"": ""Be careful!"",
+  ""option_2"": ""Watch out!"",
+  ""option_3"": ""Look out!"",
+  ""answer"": ""Watch out!"",
+  ""answer_index"": 2,
+  ""id"": 10045
+}",___ out! A car is coming.,조심해! 차가 오고 있어.,Be careful!,Watch out!,Look out!,Watch out!,2,10045
+10048,"{
+  ""fill_in_blank_quiz"": ""___ there!"",
+  ""korean_translation"": ""안녕하세요!"",
+  ""option_1"": ""Hello"",
+  ""option_2"": ""Hi"",
+  ""option_3"": ""Bye"",
+  ""answer"": ""Hi"",
+  ""answer_index"": 2,
+  ""id"": 10048
+}",___ there!,안녕하세요!,Hello,Hi,Bye,Hi,2,10048
+10053,"{
+  ""fill_in_blank_quiz"": ""He exclaimed, '___'"",
+  ""korean_translation"": ""그는 '대단해!'라고 외쳤어."",
+  ""option_1"": ""Awful!"",
+  ""option_2"": ""Amazing!"",
+  ""option_3"": ""Ordinary!"",
+  ""answer"": ""Amazing!"",
+  ""answer_index"": 2,
+  ""id"": 10053
+}","He exclaimed, '___'",그는 '대단해!'라고 외쳤어.,Awful!,Amazing!,Ordinary!,Amazing!,2,10053
+10059,"{
+  ""fill_in_blank_quiz"": ""Do you have a ___?"",
+  ""korean_translation"": ""너는 노트북을 가지고 있니?"",
+  ""option_1"": ""pencil"",
+  ""option_2"": ""notebook"",
+  ""option_3"": ""eraser"",
+  ""answer"": ""notebook"",
+  ""answer_index"": 2,
+  ""id"": 10059
+}",Do you have a ___?,너는 노트북을 가지고 있니?,pencil,notebook,eraser,notebook,2,10059
+10067,"{
+  ""fill_in_blank_quiz"": ""___ when walking on the stairs."",
+  ""korean_translation"": ""계단을 걸을 때 조심하세요."",
+  ""option_1"": ""Please run"",
+  ""option_2"": ""Be cautious"",
+  ""option_3"": ""Keep quiet"",
+  ""answer"": ""Be cautious"",
+  ""answer_index"": 2,
+  ""id"": 10067
+}",___ when walking on the stairs.,계단을 걸을 때 조심하세요.,Please run,Be cautious,Keep quiet,Be cautious,2,10067
+10077,"{
+  ""fill_in_blank_quiz"": ""_____ there!"",
+  ""korean_translation"": ""안녕하세요!"",
+  ""option_1"": ""Hello"",
+  ""option_2"": ""Hey"",
+  ""option_3"": ""Hi!"",
+  ""answer"": ""Hello"",
+  ""answer_index"": 1,
+  ""id"": 10077
+}",_____ there!,안녕하세요!,Hello,Hey,Hi!,Hello,1,10077
+10078,"{
+  ""fill_in_blank_quiz"": ""Hi, I'm ___."",
+  ""korean_translation"": ""안녕, 나는 김이야."",
+  ""option_1"": ""Kim"",
+  ""option_2"": ""Tony"",
+  ""option_3"": ""Sam"",
+  ""answer"": ""Kim"",
+  ""answer_index"": 1,
+  ""id"": 10078
+}","Hi, I'm ___.","안녕, 나는 김이야.",Kim,Tony,Sam,Kim,1,10078
+10083,"{
+  ""fill_in_blank_quiz"": ""I'm ___."",
+  ""korean_translation"": ""미안해."",
+  ""option_1"": ""sorry"",
+  ""option_2"": ""happy"",
+  ""option_3"": ""confused"",
+  ""answer"": ""sorry"",
+  ""answer_index"": 1,
+  ""id"": 10083
+}",I'm ___.,미안해.,sorry,happy,confused,sorry,1,10083
+10103,"{
+  ""fill_in_blank_quiz"": ""___!"",
+  ""korean_translation"": ""만날 때 사용하는 인사말은 친근한 인사를 나타냅니다."",
+  ""option_1"": ""Goodbye!"",
+  ""option_2"": ""Hi!"",
+  ""option_3"": ""Hello!"",
+  ""answer"": ""Hello!"",
+  ""answer_index"": 3,
+  ""id"": 10103
+}",___!,만날 때 사용하는 인사말은 친근한 인사를 나타냅니다.,Goodbye!,Hi!,Hello!,Hello!,3,10103
+10107,"{
+  ""fill_in_blank_quiz"": ""___ work!"",
+  ""korean_translation"": ""잘 했어!"",
+  ""option_1"": ""Good"",
+  ""option_2"": ""Nice"",
+  ""option_3"": ""Fine"",
+  ""answer"": ""Nice"",
+  ""answer_index"": 2,
+  ""id"": 10107
+}",___ work!,잘 했어!,Good,Nice,Fine,Nice,2,10107
+10126,"{
+  ""fill_in_blank_quiz"": ""A: ___."",
+  ""korean_translation"": ""안녕이라고 인사할 때 사용하는 표현입니다."",
+  ""option_1"": ""Hi"",
+  ""option_2"": ""Hey"",
+  ""option_3"": ""Hello"",
+  ""answer"": ""Hi"",
+  ""answer_index"": 1,
+  ""id"": 10126
+}",A: ___.,안녕이라고 인사할 때 사용하는 표현입니다.,Hi,Hey,Hello,Hi,1,10126
+10127,"{
+  ""fill_in_blank_quiz"": ""___"",
+  ""korean_translation"": ""안녕."",
+  ""option_1"": ""Bye."",
+  ""option_2"": ""See you!"",
+  ""option_3"": ""Goodbye!"",
+  ""answer"": ""Bye."",
+  ""answer_index"": 1,
+  ""id"": 10127
+}",___,안녕.,Bye.,See you!,Goodbye!,Bye.,1,10127
+10134,"{
+  ""fill_in_blank_quiz"": ""___!"",
+  ""korean_translation"": ""좋아!"",
+  ""option_1"": ""Good"",
+  ""option_2"": ""Great"",
+  ""option_3"": ""Well"",
+  ""answer"": ""Good"",
+  ""answer_index"": 1,
+  ""id"": 10134
+}",___!,좋아!,Good,Great,Well,Good,1,10134
+10138,"{
+  ""fill_in_blank_quiz"": ""A: ___."",
+  ""korean_translation"": ""감사의 뜻을 전할 때 사용하는 표현입니다."",
+  ""option_1"": ""Thank you"",
+  ""option_2"": ""Hello"",
+  ""option_3"": ""Goodbye"",
+  ""answer"": ""Thank you"",
+  ""answer_index"": 1,
+  ""id"": 10138
+}",A: ___.,감사의 뜻을 전할 때 사용하는 표현입니다.,Thank you,Hello,Goodbye,Thank you,1,10138
+10140,"{
+  ""fill_in_blank_quiz"": ""___ small."",
+  ""korean_translation"": ""작아요."",
+  ""option_1"": ""They are"",
+  ""option_2"": ""He's"",
+  ""option_3"": ""It's"",
+  ""answer"": ""It's"",
+  ""answer_index"": 3,
+  ""id"": 10140
+}",___ small.,작아요.,They are,He's,It's,It's,3,10140
+10141,"{
+  ""fill_in_blank_quiz"": ""Do you have a ___?"",
+  ""korean_translation"": ""너는 책을 가지고 있니?"",
+  ""option_1"": ""pen"",
+  ""option_2"": ""book"",
+  ""option_3"": ""phone"",
+  ""answer"": ""book"",
+  ""answer_index"": 2,
+  ""id"": 10141
+}",Do you have a ___?,너는 책을 가지고 있니?,pen,book,phone,book,2,10141
+10156,"{
+  ""fill_in_blank_quiz"": ""They’re ___."",
+  ""korean_translation"": ""그들은 거대하다."",
+  ""option_1"": ""tiny"",
+  ""option_2"": ""huge"",
+  ""option_3"": ""small"",
+  ""answer"": ""huge"",
+  ""answer_index"": 2,
+  ""id"": 10156
+}",They’re ___.,그들은 거대하다.,tiny,huge,small,huge,2,10156
+10160,"{
+  ""fill_in_blank_quiz"": ""___ an eraser?"",
+  ""korean_translation"": ""너는 지우개가 있니?"",
+  ""option_1"": ""Have you got"",
+  ""option_2"": ""Do you have"",
+  ""option_3"": ""Did you have"",
+  ""answer"": ""Do you have"",
+  ""answer_index"": 2,
+  ""id"": 10160
+}",___ an eraser?,너는 지우개가 있니?,Have you got,Do you have,Did you have,Do you have,2,10160
+10167,"{
+  ""fill_in_blank_quiz"": ""___ a lot!"",
+  ""korean_translation"": ""정말 고마워!"",
+  ""option_1"": ""Thanks"",
+  ""option_2"": ""Sorry"",
+  ""option_3"": ""Help"",
+  ""answer"": ""Thanks"",
+  ""answer_index"": 1,
+  ""id"": 10167
+}",___ a lot!,정말 고마워!,Thanks,Sorry,Help,Thanks,1,10167
+10172,"{
+  ""fill_in_blank_quiz"": ""___ there!"",
+  ""korean_translation"": ""안녕, 거기!"",
+  ""option_1"": ""Hey there!"",
+  ""option_2"": ""Hello there!"",
+  ""option_3"": ""Hi there!"",
+  ""answer"": ""Hi there!"",
+  ""answer_index"": 3,
+  ""id"": 10172
+}",___ there!,"안녕, 거기!",Hey there!,Hello there!,Hi there!,Hi there!,3,10172
+10181,"{
+  ""fill_in_blank_quiz"": ""Do you ___ ice cream?"",
+  ""korean_translation"": ""너는 아이스크림을 좋아하니?"",
+  ""option_1"": ""love"",
+  ""option_2"": ""like"",
+  ""option_3"": ""enjoy"",
+  ""answer"": ""like"",
+  ""answer_index"": 2,
+  ""id"": 10181
+}",Do you ___ ice cream?,너는 아이스크림을 좋아하니?,love,like,enjoy,like,2,10181
+10187,"{
+  ""fill_in_blank_quiz"": ""___ not sure."",
+  ""korean_translation"": ""나는 확실하지 않아."",
+  ""option_1"": ""I'm very sure."",
+  ""option_2"": ""I'm not sure."",
+  ""option_3"": ""I'm sure."",
+  ""answer"": ""I'm not sure."",
+  ""answer_index"": 2,
+  ""id"": 10187
+}",___ not sure.,나는 확실하지 않아.,I'm very sure.,I'm not sure.,I'm sure.,I'm not sure.,2,10187
+10193,"{
+  ""fill_in_blank_quiz"": ""___ job!"",
+  ""korean_translation"": ""잘한 일 칭찬할 때 'Great job!'이라고 말합니다."",
+  ""option_1"": ""Fantastic"",
+  ""option_2"": ""Great"",
+  ""option_3"": ""Perfect"",
+  ""answer"": ""Great"",
+  ""answer_index"": 2,
+  ""id"": 10193
+}",___ job!,잘한 일 칭찬할 때 'Great job!'이라고 말합니다.,Fantastic,Great,Perfect,Great,2,10193
+10194,"{
+  ""fill_in_blank_quiz"": ""It's ___."",
+  ""korean_translation"": ""비가 와요."",
+  ""option_1"": ""rainy"",
+  ""option_2"": ""sunny"",
+  ""option_3"": ""snowy"",
+  ""answer"": ""rainy"",
+  ""answer_index"": 1,
+  ""id"": 10194
+}",It's ___.,비가 와요.,rainy,sunny,snowy,rainy,1,10194
+10197,"{
+  ""fill_in_blank_quiz"": ""Hello, I'm ___. What's your name?"",
+  ""korean_translation"": ""안녕, 나는 지나야. 너의 이름은 뭐니?"",
+  ""option_1"": ""Lina"",
+  ""option_2"": ""Jina"",
+  ""option_3"": ""Mina"",
+  ""answer"": ""Jina"",
+  ""answer_index"": 2,
+  ""id"": 10197
+}","Hello, I'm ___. What's your name?","안녕, 나는 지나야. 너의 이름은 뭐니?",Lina,Jina,Mina,Jina,2,10197
+10199,"{
+  ""fill_in_blank_quiz"": ""___."",
+  ""korean_translation"": ""안녕."",
+  ""option_1"": ""Hello."",
+  ""option_2"": ""Goodbye."",
+  ""option_3"": ""See you."",
+  ""answer"": ""Goodbye."",
+  ""answer_index"": 2,
+  ""id"": 10199
+}",___.,안녕.,Hello.,Goodbye.,See you.,Goodbye.,2,10199
+10218,"{
+  ""fill_in_blank_quiz"": ""___ there!"",
+  ""korean_translation"": ""거기 안녕하세요!"",
+  ""option_1"": ""Hello"",
+  ""option_2"": ""Hi"",
+  ""option_3"": ""Hey"",
+  ""answer"": ""Hello"",
+  ""answer_index"": 1,
+  ""id"": 10218
+}",___ there!,거기 안녕하세요!,Hello,Hi,Hey,Hello,1,10218
+10222,"{
+  ""fill_in_blank_quiz"": ""That's ______!"",
+  ""korean_translation"": ""정말 놀랍다는 감탄을 표현할 때 사용합니다."",
+  ""option_1"": ""boring"",
+  ""option_2"": ""amazing"",
+  ""option_3"": ""bad"",
+  ""answer"": ""amazing"",
+  ""answer_index"": 2,
+  ""id"": 10222
+}",That's ______!,정말 놀랍다는 감탄을 표현할 때 사용합니다.,boring,amazing,bad,amazing,2,10222
+10231,"{
+  ""fill_in_blank_quiz"": ""Do you have a ___?"",
+  ""korean_translation"": ""너는 마커를 가지고 있니?"",
+  ""option_1"": ""pen"",
+  ""option_2"": ""eraser"",
+  ""option_3"": ""marker"",
+  ""answer"": ""marker"",
+  ""answer_index"": 3,
+  ""id"": 10231
+}",Do you have a ___?,너는 마커를 가지고 있니?,pen,eraser,marker,marker,3,10231
+10232,"{
+  ""fill_in_blank_quiz"": ""I ___ an eraser."",
+  ""korean_translation"": ""나는 지우개를 가지고 있다."",
+  ""option_1"": ""has"",
+  ""option_2"": ""have"",
+  ""option_3"": ""got"",
+  ""answer"": ""have"",
+  ""answer_index"": 2,
+  ""id"": 10232
+}",I ___ an eraser.,나는 지우개를 가지고 있다.,has,have,got,have,2,10232
+10241,"{
+  ""fill_in_blank_quiz"": ""A: ___"",
+  ""korean_translation"": ""만남 인사말을 표현하여 인사할 때 사용하는 말입니다."",
+  ""option_1"": ""See you."",
+  ""option_2"": ""Hey."",
+  ""option_3"": ""Hi."",
+  ""answer"": ""Hey."",
+  ""answer_index"": 2,
+  ""id"": 10241
+}",A: ___,만남 인사말을 표현하여 인사할 때 사용하는 말입니다.,See you.,Hey.,Hi.,Hey.,2,10241
+10247,"{
+  ""fill_in_blank_quiz"": ""A: ___"",
+  ""korean_translation"": ""칭찬할 때 대단하다고 말할 때 사용하는 표현이에요."",
+  ""option_1"": ""Maybe!"",
+  ""option_2"": ""Awesome!"",
+  ""option_3"": ""Terrible!"",
+  ""answer"": ""Awesome!"",
+  ""answer_index"": 2,
+  ""id"": 10247
+}",A: ___,칭찬할 때 대단하다고 말할 때 사용하는 표현이에요.,Maybe!,Awesome!,Terrible!,Awesome!,2,10247
+10263,"{
+  ""fill_in_blank_quiz"": ""A: ___!"",
+  ""korean_translation"": ""조심해!"",
+  ""option_1"": ""Be careful!"",
+  ""option_2"": ""Look out!"",
+  ""option_3"": ""Watch out!"",
+  ""answer"": ""Watch out!"",
+  ""answer_index"": 3,
+  ""id"": 10263
+}",A: ___!,조심해!,Be careful!,Look out!,Watch out!,Watch out!,3,10263
+10266,"{
+  ""fill_in_blank_quiz"": ""It’s ____."",
+  ""korean_translation"": ""날씨는 맑아요."",
+  ""option_1"": ""windy"",
+  ""option_2"": ""sunny"",
+  ""option_3"": ""rainy"",
+  ""answer"": ""sunny"",
+  ""answer_index"": 2,
+  ""id"": 10266
+}",It’s ____.,날씨는 맑아요.,windy,sunny,rainy,sunny,2,10266
+10268,"{
+  ""fill_in_blank_quiz"": ""Hi! My name is ___."",
+  ""korean_translation"": ""안녕! 내 이름은 Jayson이야."",
+  ""option_1"": ""Jayson"",
+  ""option_2"": ""Mina"",
+  ""option_3"": ""Jiwon"",
+  ""answer"": ""Jayson"",
+  ""answer_index"": 1,
+  ""id"": 10268
+}",Hi! My name is ___.,안녕! 내 이름은 Jayson이야.,Jayson,Mina,Jiwon,Jayson,1,10268
+10269,"{
+  ""fill_in_blank_quiz"": ""___ to see you!"",
+  ""korean_translation"": ""만나서 반가워!"",
+  ""option_1"": ""Happy"",
+  ""option_2"": ""Nice"",
+  ""option_3"": ""Great"",
+  ""answer"": ""Nice"",
+  ""answer_index"": 2,
+  ""id"": 10269
+}",___ to see you!,만나서 반가워!,Happy,Nice,Great,Nice,2,10269
+10271,"{
+  ""fill_in_blank_quiz"": ""___ come here."",
+  ""korean_translation"": ""제발 이리 와."",
+  ""option_1"": ""Please"",
+  ""option_2"": ""Come on"",
+  ""option_3"": ""Let's"",
+  ""answer"": ""Please"",
+  ""answer_index"": 1,
+  ""id"": 10271
+}",___ come here.,제발 이리 와.,Please,Come on,Let's,Please,1,10271
+10280,"{
+  ""fill_in_blank_quiz"": ""It’s ___."",
+  ""korean_translation"": ""이것은 무겁다."",
+  ""option_1"": ""small"",
+  ""option_2"": ""heavy"",
+  ""option_3"": ""tall"",
+  ""answer"": ""heavy"",
+  ""answer_index"": 2,
+  ""id"": 10280
+}",It’s ___.,이것은 무겁다.,small,heavy,tall,heavy,2,10280
+10286,"{
+  ""fill_in_blank_quiz"": ""I ___ run fast."",
+  ""korean_translation"": ""나는 빨리 달릴 수 있어."",
+  ""option_1"": ""can't"",
+  ""option_2"": ""can"",
+  ""option_3"": ""could"",
+  ""answer"": ""can"",
+  ""answer_index"": 2,
+  ""id"": 10286
+}",I ___ run fast.,나는 빨리 달릴 수 있어.,can't,can,could,can,2,10286
+10288,"{
+  ""fill_in_blank_quiz"": ""That’s ___."",
+  ""korean_translation"": ""맞습니다."",
+  ""option_1"": ""correct"",
+  ""option_2"": ""exact"",
+  ""option_3"": ""right"",
+  ""answer"": ""correct"",
+  ""answer_index"": 1,
+  ""id"": 10288
+}",That’s ___.,맞습니다.,correct,exact,right,correct,1,10288
+10292,"{
+  ""fill_in_blank_quiz"": ""This is my ___."",
+  ""korean_translation"": ""이 사람은 내 형제입니다."",
+  ""option_1"": ""friend"",
+  ""option_2"": ""brother"",
+  ""option_3"": ""sister"",
+  ""answer"": ""brother"",
+  ""answer_index"": 2,
+  ""id"": 10292
+}",This is my ___.,이 사람은 내 형제입니다.,friend,brother,sister,brother,2,10292
+10341,"{
+  ""fill_in_blank_quiz"": ""___! It’s great to meet you!"",
+  ""korean_translation"": ""안녕하세요! 만나서 반갑습니다."",
+  ""option_1"": ""Hello"",
+  ""option_2"": ""Hi"",
+  ""option_3"": ""Hey"",
+  ""answer"": ""Hello"",
+  ""answer_index"": 1,
+  ""id"": 10341
+}",___! It’s great to meet you!,안녕하세요! 만나서 반갑습니다.,Hello,Hi,Hey,Hello,1,10341
+10360,"{
+  ""fill_in_blank_quiz"": ""___ assist me?"",
+  ""korean_translation"": ""너가 나를 도와 줄 수 있니?"",
+  ""option_1"": ""Can you"",
+  ""option_2"": ""Will you"",
+  ""option_3"": ""Could you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 1,
+  ""id"": 10360
+}",___ assist me?,너가 나를 도와 줄 수 있니?,Can you,Will you,Could you,Can you,1,10360
+10361,"{
+  ""fill_in_blank_quiz"": ""Do you ___ swimming?"",
+  ""korean_translation"": ""너는 수영을 즐기니?"",
+  ""option_1"": ""enjoy"",
+  ""option_2"": ""like"",
+  ""option_3"": ""appreciate"",
+  ""answer"": ""enjoy"",
+  ""answer_index"": 1,
+  ""id"": 10361
+}",Do you ___ swimming?,너는 수영을 즐기니?,enjoy,like,appreciate,enjoy,1,10361
+10369,"{
+  ""fill_in_blank_quiz"": ""___!"",
+  ""korean_translation"": ""조심해!"",
+  ""option_1"": ""Step aside!"",
+  ""option_2"": ""Watch out!"",
+  ""option_3"": ""Look over!"",
+  ""answer"": ""Watch out!"",
+  ""answer_index"": 2,
+  ""id"": 10369
+}",___!,조심해!,Step aside!,Watch out!,Look over!,Watch out!,2,10369
+10390,"{
+  ""fill_in_blank_quiz"": ""A: ___ to meet you."",
+  ""korean_translation"": ""만나서 반갑습니다."",
+  ""option_1"": ""Happy"",
+  ""option_2"": ""Nice"",
+  ""option_3"": ""Glad"",
+  ""answer"": ""Nice"",
+  ""answer_index"": 2,
+  ""id"": 10390
+}",A: ___ to meet you.,만나서 반갑습니다.,Happy,Nice,Glad,Nice,2,10390
+10399,"{
+  ""fill_in_blank_quiz"": ""___ yourself."",
+  ""korean_translation"": ""마음껏 드세요."",
+  ""option_1"": ""Enjoy"",
+  ""option_2"": ""Help yourself"",
+  ""option_3"": ""Go ahead"",
+  ""answer"": ""Help yourself"",
+  ""answer_index"": 2,
+  ""id"": 10399
+}",___ yourself.,마음껏 드세요.,Enjoy,Help yourself,Go ahead,Help yourself,2,10399
+10411,"{
+  ""fill_in_blank_quiz"": ""___ help you?"",
+  ""korean_translation"": ""제가 도와드릴까요?"",
+  ""option_1"": ""Can I"",
+  ""option_2"": ""May I"",
+  ""option_3"": ""Shall I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 1,
+  ""id"": 10411
+}",___ help you?,제가 도와드릴까요?,Can I,May I,Shall I,Can I,1,10411
+10424,"{
+  ""fill_in_blank_quiz"": ""___ this your cap?"",
+  ""korean_translation"": ""이것이 너의 모자입니까?"",
+  ""option_1"": ""Are"",
+  ""option_2"": ""Is"",
+  ""option_3"": ""Does"",
+  ""answer"": ""Is"",
+  ""answer_index"": 2,
+  ""id"": 10424
+}",___ this your cap?,이것이 너의 모자입니까?,Are,Is,Does,Is,2,10424
+10435,"{
+  ""fill_in_blank_quiz"": ""___ help me?"",
+  ""korean_translation"": ""나를 도와줄 수 있니?"",
+  ""option_1"": ""Will you"",
+  ""option_2"": ""Can you"",
+  ""option_3"": ""Do you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 2,
+  ""id"": 10435
+}",___ help me?,나를 도와줄 수 있니?,Will you,Can you,Do you,Can you,2,10435
+10452,"{
+  ""fill_in_blank_quiz"": ""___ help you?"",
+  ""korean_translation"": ""제가 도와드릴까요?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Can I"",
+  ""option_3"": ""Do I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 2,
+  ""id"": 10452
+}",___ help you?,제가 도와드릴까요?,May I,Can I,Do I,Can I,2,10452
+10454,"{
+  ""fill_in_blank_quiz"": ""___ you sure?"",
+  ""korean_translation"": ""정말 확실해?"",
+  ""option_1"": ""Do you really think so"",
+  ""option_2"": ""Are you sure"",
+  ""option_3"": ""Are you certain"",
+  ""answer"": ""Are you sure"",
+  ""answer_index"": 2,
+  ""id"": 10454
+}",___ you sure?,정말 확실해?,Do you really think so,Are you sure,Are you certain,Are you sure,2,10454
+10462,"{
+  ""fill_in_blank_quiz"": ""_____ busy."",
+  ""korean_translation"": ""나는 바빠."",
+  ""option_1"": ""I'm free."",
+  ""option_2"": ""I'm busy."",
+  ""option_3"": ""I'm tired."",
+  ""answer"": ""I'm busy."",
+  ""answer_index"": 2,
+  ""id"": 10462
+}",_____ busy.,나는 바빠.,I'm free.,I'm busy.,I'm tired.,I'm busy.,2,10462
+10476,"{
+  ""fill_in_blank_quiz"": ""Have a pleasant ___!"",
+  ""korean_translation"": ""즐거운 저녁 되세요!"",
+  ""option_1"": ""afternoon"",
+  ""option_2"": ""evening"",
+  ""option_3"": ""morning"",
+  ""answer"": ""evening"",
+  ""answer_index"": 2,
+  ""id"": 10476
+}",Have a pleasant ___!,즐거운 저녁 되세요!,afternoon,evening,morning,evening,2,10476
+10491,"{
+  ""fill_in_blank_quiz"": ""I'm ___ a craft."",
+  ""korean_translation"": ""나는 지금 공예품을 만들고 있어."",
+  ""option_1"": ""making"",
+  ""option_2"": ""doing"",
+  ""option_3"": ""building"",
+  ""answer"": ""making"",
+  ""answer_index"": 1,
+  ""id"": 10491
+}",I'm ___ a craft.,나는 지금 공예품을 만들고 있어.,making,doing,building,making,1,10491
+10504,"{
+  ""fill_in_blank_quiz"": ""A: ___?"",
+  ""korean_translation"": ""어떻게 지내세요?"",
+  ""option_1"": ""How's it going?"",
+  ""option_2"": ""How are you?"",
+  ""option_3"": ""How have you been?"",
+  ""answer"": ""How are you?"",
+  ""answer_index"": 2,
+  ""id"": 10504
+}",A: ___?,어떻게 지내세요?,How's it going?,How are you?,How have you been?,How are you?,2,10504
+10510,"{
+  ""fill_in_blank_quiz"": ""A: ___ the book on the shelf."",
+  ""korean_translation"": ""책을 선반 위에 놓으세요."",
+  ""option_1"": ""Place"",
+  ""option_2"": ""Put"",
+  ""option_3"": ""Arrange"",
+  ""answer"": ""Place"",
+  ""answer_index"": 1,
+  ""id"": 10510
+}",A: ___ the book on the shelf.,책을 선반 위에 놓으세요.,Place,Put,Arrange,Place,1,10510
+10525,"{
+  ""fill_in_blank_quiz"": ""___ to meet you."",
+  ""korean_translation"": ""만나서 반갑습니다."",
+  ""option_1"": ""Happy"",
+  ""option_2"": ""Nice"",
+  ""option_3"": ""Glad"",
+  ""answer"": ""Nice"",
+  ""answer_index"": 2,
+  ""id"": 10525
+}",___ to meet you.,만나서 반갑습니다.,Happy,Nice,Glad,Nice,2,10525
+10552,"{
+  ""fill_in_blank_quiz"": ""___ very smart."",
+  ""korean_translation"": ""그녀는 매우 똑똑하다."",
+  ""option_1"": ""He's"",
+  ""option_2"": ""She’s"",
+  ""option_3"": ""They're"",
+  ""answer"": ""She’s"",
+  ""answer_index"": 2,
+  ""id"": 10552
+}",___ very smart.,그녀는 매우 똑똑하다.,He's,She’s,They're,She’s,2,10552
+10555,"{
+  ""fill_in_blank_quiz"": ""___ ride bikes."",
+  ""korean_translation"": ""자전거를 타자."",
+  ""option_1"": ""Will"",
+  ""option_2"": ""Let's"",
+  ""option_3"": ""Can"",
+  ""answer"": ""Let's"",
+  ""answer_index"": 2,
+  ""id"": 10555
+}",___ ride bikes.,자전거를 타자.,Will,Let's,Can,Let's,2,10555
+10575,"{
+  ""fill_in_blank_quiz"": ""___ use your notebook?"",
+  ""korean_translation"": ""너의 공책을 사용해도 될까?"",
+  ""option_1"": ""Could I"",
+  ""option_2"": ""Can I"",
+  ""option_3"": ""May I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 2,
+  ""id"": 10575
+}",___ use your notebook?,너의 공책을 사용해도 될까?,Could I,Can I,May I,Can I,2,10575
+10576,"{
+  ""fill_in_blank_quiz"": ""___, no worries!"",
+  ""korean_translation"": ""확실해, 걱정 마!"",
+  ""option_1"": ""Sure"",
+  ""option_2"": ""Maybe"",
+  ""option_3"": ""Obviously"",
+  ""answer"": ""Sure"",
+  ""answer_index"": 1,
+  ""id"": 10576
+}","___, no worries!","확실해, 걱정 마!",Sure,Maybe,Obviously,Sure,1,10576
+10585,"{
+  ""fill_in_blank_quiz"": ""I ___ at 7."",
+  ""korean_translation"": ""나는 7시에 일어난다."",
+  ""option_1"": ""am waking"",
+  ""option_2"": ""wake up"",
+  ""option_3"": ""woke up"",
+  ""answer"": ""wake up"",
+  ""answer_index"": 2,
+  ""id"": 10585
+}",I ___ at 7.,나는 7시에 일어난다.,am waking,wake up,woke up,wake up,2,10585
+10588,"{
+  ""fill_in_blank_quiz"": ""___ help you?"",
+  ""korean_translation"": ""내가 도와드릴까요?"",
+  ""option_1"": ""Should I"",
+  ""option_2"": ""May I"",
+  ""option_3"": ""Do I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 2,
+  ""id"": 10588
+}",___ help you?,내가 도와드릴까요?,Should I,May I,Do I,May I,2,10588
+10594,"{
+  ""fill_in_blank_quiz"": ""She is a ___ artist."",
+  ""korean_translation"": ""그녀는 재능 있는 예술가이다."",
+  ""option_1"": ""creative"",
+  ""option_2"": ""talented"",
+  ""option_3"": ""busy"",
+  ""answer"": ""talented"",
+  ""answer_index"": 2,
+  ""id"": 10594
+}",She is a ___ artist.,그녀는 재능 있는 예술가이다.,creative,talented,busy,talented,2,10594
+10607,"{
+  ""fill_in_blank_quiz"": ""I ___ at 6:30."",
+  ""korean_translation"": ""나는 6시 30분에 일어난다."",
+  ""option_1"": ""eat breakfast"",
+  ""option_2"": ""wake up"",
+  ""option_3"": ""go to sleep"",
+  ""answer"": ""wake up"",
+  ""answer_index"": 2,
+  ""id"": 10607
+}",I ___ at 6:30.,나는 6시 30분에 일어난다.,eat breakfast,wake up,go to sleep,wake up,2,10607
+10618,"{
+  ""fill_in_blank_quiz"": ""___ borrow this book?"",
+  ""korean_translation"": ""이 책을 빌려도 될까요?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Can I"",
+  ""option_3"": ""Might I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 1,
+  ""id"": 10618
+}",___ borrow this book?,이 책을 빌려도 될까요?,May I,Can I,Might I,May I,1,10618
+10620,"{
+  ""fill_in_blank_quiz"": ""Thank you so ___!"",
+  ""korean_translation"": ""정말 고마워!"",
+  ""option_1"": ""much"",
+  ""option_2"": ""many"",
+  ""option_3"": ""really"",
+  ""answer"": ""much"",
+  ""answer_index"": 1,
+  ""id"": 10620
+}",Thank you so ___!,정말 고마워!,much,many,really,much,1,10620
+10622,"{
+  ""fill_in_blank_quiz"": ""___ for you!"",
+  ""korean_translation"": ""너에게 정말 잘 됐어!"",
+  ""option_1"": ""Awesome"",
+  ""option_2"": ""Great"",
+  ""option_3"": ""Wonderful"",
+  ""answer"": ""Great"",
+  ""answer_index"": 2,
+  ""id"": 10622
+}",___ for you!,너에게 정말 잘 됐어!,Awesome,Great,Wonderful,Great,2,10622
+10626,"{
+  ""fill_in_blank_quiz"": ""Oh, I ___ it."",
+  ""korean_translation"": ""오, 이해했어."",
+  ""option_1"": ""got"",
+  ""option_2"": ""get"",
+  ""option_3"": ""have"",
+  ""answer"": ""get"",
+  ""answer_index"": 2,
+  ""id"": 10626
+}","Oh, I ___ it.","오, 이해했어.",got,get,have,get,2,10626
+10627,"{
+  ""fill_in_blank_quiz"": ""Yes, you ___."",
+  ""korean_translation"": ""그래, 너는 할 수 있어."",
+  ""option_1"": ""can"",
+  ""option_2"": ""may"",
+  ""option_3"": ""could"",
+  ""answer"": ""can"",
+  ""answer_index"": 1,
+  ""id"": 10627
+}","Yes, you ___.","그래, 너는 할 수 있어.",can,may,could,can,1,10627
+10633,"{
+  ""fill_in_blank_quiz"": ""What time do you _____ up? I wake up at 7."",
+  ""korean_translation"": ""몇 시에 일어나? 나는 7시에 일어나."",
+  ""option_1"": ""woke"",
+  ""option_2"": ""waking"",
+  ""option_3"": ""wake"",
+  ""answer"": ""wake"",
+  ""answer_index"": 3,
+  ""id"": 10633
+}",What time do you _____ up? I wake up at 7.,몇 시에 일어나? 나는 7시에 일어나.,woke,waking,wake,wake,3,10633
+10634,"{
+  ""fill_in_blank_quiz"": ""___ very early."",
+  ""korean_translation"": ""그건 매우 이르다."",
+  ""option_1"": ""That's"",
+  ""option_2"": ""That's not"",
+  ""option_3"": ""That was"",
+  ""answer"": ""That's"",
+  ""answer_index"": 1,
+  ""id"": 10634
+}",___ very early.,그건 매우 이르다.,That's,That's not,That was,That's,1,10634
+10642,"{
+  ""fill_in_blank_quiz"": ""___ help you?"",
+  ""korean_translation"": ""내가 도와드릴까요?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Can I"",
+  ""option_3"": ""Would I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 2,
+  ""id"": 10642
+}",___ help you?,내가 도와드릴까요?,May I,Can I,Would I,Can I,2,10642
+10660,"{
+  ""fill_in_blank_quiz"": ""Have a ___ trip."",
+  ""korean_translation"": ""멋진 여행 되세요."",
+  ""option_1"": ""good"",
+  ""option_2"": ""great"",
+  ""option_3"": ""nice"",
+  ""answer"": ""great"",
+  ""answer_index"": 2,
+  ""id"": 10660
+}",Have a ___ trip.,멋진 여행 되세요.,good,great,nice,great,2,10660
+10673,"{
+  ""fill_in_blank_quiz"": ""___ be upset."",
+  ""korean_translation"": ""화내지 마세요."",
+  ""option_1"": ""don't"",
+  ""option_2"": ""can't"",
+  ""option_3"": ""won't"",
+  ""answer"": ""don't"",
+  ""answer_index"": 1,
+  ""id"": 10673
+}",___ be upset.,화내지 마세요.,don't,can't,won't,don't,1,10673
+10674,"{
+  ""fill_in_blank_quiz"": ""What's troubling you?"",
+  ""korean_translation"": ""너에게 무슨 문제가 있니?"",
+  ""option_1"": ""How's"",
+  ""option_2"": ""What's"",
+  ""option_3"": ""What are"",
+  ""answer"": ""What's"",
+  ""answer_index"": 2,
+  ""id"": 10674
+}",What's troubling you?,너에게 무슨 문제가 있니?,How's,What's,What are,What's,2,10674
+10677,"{
+  ""fill_in_blank_quiz"": ""You ___ exercise every day."",
+  ""korean_translation"": ""너는 매일 운동해야 해."",
+  ""option_1"": ""must"",
+  ""option_2"": ""should"",
+  ""option_3"": ""could"",
+  ""answer"": ""should"",
+  ""answer_index"": 2,
+  ""id"": 10677
+}",You ___ exercise every day.,너는 매일 운동해야 해.,must,should,could,should,2,10677
+10679,"{
+  ""fill_in_blank_quiz"": ""Can you ___ my art exhibition?"",
+  ""korean_translation"": ""내 미술 전시에 참석할 수 있니?"",
+  ""option_1"": ""visit"",
+  ""option_2"": ""join"",
+  ""option_3"": ""attend"",
+  ""answer"": ""join"",
+  ""answer_index"": 2,
+  ""id"": 10679
+}",Can you ___ my art exhibition?,내 미술 전시에 참석할 수 있니?,visit,join,attend,join,2,10679
+10684,"{
+  ""fill_in_blank_quiz"": ""___ take your order?"",
+  ""korean_translation"": ""주문 받으러 가도 될까요?"",
+  ""option_1"": ""Can I"",
+  ""option_2"": ""May I"",
+  ""option_3"": ""Could I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 2,
+  ""id"": 10684
+}",___ take your order?,주문 받으러 가도 될까요?,Can I,May I,Could I,May I,2,10684
+10689,"{
+  ""fill_in_blank_quiz"": ""I ___ no idea."",
+  ""korean_translation"": ""나는 전혀 감이 없다는 표현을 사용해 모름을 나타낸다."",
+  ""option_1"": ""had"",
+  ""option_2"": ""have"",
+  ""option_3"": ""has"",
+  ""answer"": ""have"",
+  ""answer_index"": 2,
+  ""id"": 10689
+}",I ___ no idea.,나는 전혀 감이 없다는 표현을 사용해 모름을 나타낸다.,had,have,has,have,2,10689
+10691,"{
+  ""fill_in_blank_quiz"": ""___ turn off the TV."",
+  ""korean_translation"": ""티비를 끄는 것을 잊지 마세요."",
+  ""option_1"": ""Don’t forget to"",
+  ""option_2"": ""Do not forgets to"",
+  ""option_3"": ""Don’t forgetting to"",
+  ""answer"": ""Don’t forget to"",
+  ""answer_index"": 1,
+  ""id"": 10691
+}",___ turn off the TV.,티비를 끄는 것을 잊지 마세요.,Don’t forget to,Do not forgets to,Don’t forgetting to,Don’t forget to,1,10691
+10698,"{
+  ""fill_in_blank_quiz"": ""My favorite subject is ___."",
+  ""korean_translation"": ""내가 가장 좋아하는 과목은 미술이야."",
+  ""option_1"": ""math"",
+  ""option_2"": ""art"",
+  ""option_3"": ""science"",
+  ""answer"": ""art"",
+  ""answer_index"": 2,
+  ""id"": 10698
+}",My favorite subject is ___.,내가 가장 좋아하는 과목은 미술이야.,math,art,science,art,2,10698
+10703,"{
+  ""fill_in_blank_quiz"": ""___, could you please help me with this?"",
+  ""korean_translation"": ""실례합니다, 이것 좀 도와주시겠어요?"",
+  ""option_1"": ""Excuse me!"",
+  ""option_2"": ""Pardon me!"",
+  ""option_3"": ""Sorry!"",
+  ""answer"": ""Excuse me!"",
+  ""answer_index"": 1,
+  ""id"": 10703
+}","___, could you please help me with this?","실례합니다, 이것 좀 도와주시겠어요?",Excuse me!,Pardon me!,Sorry!,Excuse me!,1,10703
+10713,"{
+  ""fill_in_blank_quiz"": ""___ you later."",
+  ""korean_translation"": ""나중에 봐."",
+  ""option_1"": ""Call"",
+  ""option_2"": ""See"",
+  ""option_3"": ""Meet"",
+  ""answer"": ""See"",
+  ""answer_index"": 2,
+  ""id"": 10713
+}",___ you later.,나중에 봐.,Call,See,Meet,See,2,10713
+10730,"{
+  ""fill_in_blank_quiz"": ""I'm planning to ___ the park."",
+  ""korean_translation"": ""나는 공원을 방문할 계획이야."",
+  ""option_1"": ""see"",
+  ""option_2"": ""enjoy"",
+  ""option_3"": ""visit"",
+  ""answer"": ""visit"",
+  ""answer_index"": 3,
+  ""id"": 10730
+}",I'm planning to ___ the park.,나는 공원을 방문할 계획이야.,see,enjoy,visit,visit,3,10730
+10740,"{
+  ""fill_in_blank_quiz"": ""___ know anything about folk tales?"",
+  ""korean_translation"": ""너는 민담에 대해 뭔가 알고 있니?"",
+  ""option_1"": ""Have you"",
+  ""option_2"": ""Do you"",
+  ""option_3"": ""Are you"",
+  ""answer"": ""Do you"",
+  ""answer_index"": 2,
+  ""id"": 10740
+}",___ know anything about folk tales?,너는 민담에 대해 뭔가 알고 있니?,Have you,Do you,Are you,Do you,2,10740
+10755,"{
+  ""fill_in_blank_quiz"": ""It's ___ the park."",
+  ""korean_translation"": ""그것은 공원 옆에 있습니다."",
+  ""option_1"": ""in"",
+  ""option_2"": ""next to"",
+  ""option_3"": ""on"",
+  ""answer"": ""next to"",
+  ""answer_index"": 2,
+  ""id"": 10755
+}",It's ___ the park.,그것은 공원 옆에 있습니다.,in,next to,on,next to,2,10755
+10760,"{
+  ""fill_in_blank_quiz"": ""___ do you watch cartoons?"",
+  ""korean_translation"": ""너는 얼마나 자주 만화를 보니?"",
+  ""option_1"": ""How long"",
+  ""option_2"": ""How often"",
+  ""option_3"": ""How many"",
+  ""answer"": ""How often"",
+  ""answer_index"": 2,
+  ""id"": 10760
+}",___ do you watch cartoons?,너는 얼마나 자주 만화를 보니?,How long,How often,How many,How often,2,10760
+10761,"{
+  ""fill_in_blank_quiz"": ""___ for you!"",
+  ""korean_translation"": ""너에게 좋은 일이네!"",
+  ""option_1"": ""Well for you!"",
+  ""option_2"": ""Good for you!"",
+  ""option_3"": ""Great for you!"",
+  ""answer"": ""Good for you!"",
+  ""answer_index"": 2,
+  ""id"": 10761
+}",___ for you!,너에게 좋은 일이네!,Well for you!,Good for you!,Great for you!,Good for you!,2,10761
+10765,"{
+  ""fill_in_blank_quiz"": ""I ___ it's challenging."",
+  ""korean_translation"": ""나는 그것이 도전적이라고 생각해."",
+  ""option_1"": ""I believe"",
+  ""option_2"": ""I think"",
+  ""option_3"": ""I feel"",
+  ""answer"": ""I think"",
+  ""answer_index"": 2,
+  ""id"": 10765
+}",I ___ it's challenging.,나는 그것이 도전적이라고 생각해.,I believe,I think,I feel,I think,2,10765
+10767,"{
+  ""fill_in_blank_quiz"": ""Did you say ___?"",
+  ""korean_translation"": ""너 'Shakespeare'라고 말했니?"",
+  ""option_1"": ""Tolkien"",
+  ""option_2"": ""Shakespeare"",
+  ""option_3"": ""Cervantes"",
+  ""answer"": ""Shakespeare"",
+  ""answer_index"": 2,
+  ""id"": 10767
+}",Did you say ___?,너 'Shakespeare'라고 말했니?,Tolkien,Shakespeare,Cervantes,Shakespeare,2,10767
+10768,"{
+  ""fill_in_blank_quiz"": ""We ___ take care of animals."",
+  ""korean_translation"": ""우리는 동물을 돌봐야 해요."",
+  ""option_1"": ""should"",
+  ""option_2"": ""could"",
+  ""option_3"": ""must"",
+  ""answer"": ""should"",
+  ""answer_index"": 1,
+  ""id"": 10768
+}",We ___ take care of animals.,우리는 동물을 돌봐야 해요.,should,could,must,should,1,10768
