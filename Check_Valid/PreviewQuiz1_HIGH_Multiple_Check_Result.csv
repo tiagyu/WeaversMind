@@ -1,0 +1,141 @@
+﻿id,result_json,fill_in_blank_quiz,korean_translation,option_1,option_2,option_3,answer,answer_index,id
+1020,"{
+  ""fill_in_blank_quiz"": ""My teacher ___ me to read more books."",
+  ""korean_translation"": ""나의 선생님이 나에게 책을 더 읽도록 격려했어."",
+  ""option_1"": ""encouraged"",
+  ""option_2"": ""requested"",
+  ""option_3"": ""advised"",
+  ""answer"": ""encouraged"",
+  ""answer_index"": 1,
+  ""id"": 1020
+}",My teacher ___ me to read more books.,나의 선생님이 나에게 책을 더 읽도록 격려했어.,encouraged,requested,advised,encouraged,1,1020
+1024,"{
+  ""fill_in_blank_quiz"": ""Ms. Lee ___ that her friend remain honest."",
+  ""korean_translation"": ""미스 리가 친구에게 정직하길 요청했다."",
+  ""option_1"": ""ordered"",
+  ""option_2"": ""requested"",
+  ""option_3"": ""suggested"",
+  ""answer"": ""requested"",
+  ""answer_index"": 2,
+  ""id"": 1024
+}",Ms. Lee ___ that her friend remain honest.,미스 리가 친구에게 정직하길 요청했다.,ordered,requested,suggested,requested,2,1024
+1025,"{
+  ""fill_in_blank_quiz"": ""I ___ singing."",
+  ""korean_translation"": ""나는 노래 부르는 것을 즐긴다."",
+  ""option_1"": ""enjoy"",
+  ""option_2"": ""like"",
+  ""option_3"": ""admire"",
+  ""answer"": ""enjoy"",
+  ""answer_index"": 1,
+  ""id"": 1025
+}",I ___ singing.,나는 노래 부르는 것을 즐긴다.,enjoy,like,admire,enjoy,1,1025
+1037,"{
+  ""fill_in_blank_quiz"": ""What do you mean by ___?"",
+  ""korean_translation"": ""인공지능으로 생성된 음악이란 무슨 뜻이야?"",
+  ""option_1"": ""computer composed music"",
+  ""option_2"": ""AI-generated music"",
+  ""option_3"": ""electronic music"",
+  ""answer"": ""AI-generated music"",
+  ""answer_index"": 2,
+  ""id"": 1037
+}",What do you mean by ___?,인공지능으로 생성된 음악이란 무슨 뜻이야?,computer composed music,AI-generated music,electronic music,AI-generated music,2,1037
+1043,"{
+  ""fill_in_blank_quiz"": ""I was excited by the ___ my neighbor learned a new language."",
+  ""korean_translation"": ""나는 이웃이 새로운 언어를 배운다는 사실에 신이 났어."",
+  ""option_1"": ""idea that"",
+  ""option_2"": ""fact that"",
+  ""option_3"": ""reason why"",
+  ""answer"": ""fact that"",
+  ""answer_index"": 2,
+  ""id"": 1043
+}",I was excited by the ___ my neighbor learned a new language.,나는 이웃이 새로운 언어를 배운다는 사실에 신이 났어.,idea that,fact that,reason why,fact that,2,1043
+1050,"{
+  ""fill_in_blank_quiz"": ""You ___ it!"",
+  ""korean_translation"": ""너는 해낼 수 있어!"",
+  ""option_1"": ""will do"",
+  ""option_2"": ""can do"",
+  ""option_3"": ""could do"",
+  ""answer"": ""can do"",
+  ""answer_index"": 2,
+  ""id"": 1050
+}",You ___ it!,너는 해낼 수 있어!,will do,can do,could do,can do,2,1050
+1064,"{
+  ""fill_in_blank_quiz"": ""___ I study every day, I improve my skills."",
+  ""korean_translation"": ""내가 매일 공부하는 한, 나는 내 능력을 향상시켜."",
+  ""option_1"": ""As long as"",
+  ""option_2"": ""Even if"",
+  ""option_3"": ""Unless"",
+  ""answer"": ""As long as"",
+  ""answer_index"": 1,
+  ""id"": 1064
+}","___ I study every day, I improve my skills.","내가 매일 공부하는 한, 나는 내 능력을 향상시켜.",As long as,Even if,Unless,As long as,1,1064
+1065,"{
+  ""fill_in_blank_quiz"": ""Don't forget to ____ your ID."",
+  ""korean_translation"": ""너의 신분증을 가져오는 것을 잊지 마라."",
+  ""option_1"": ""take"",
+  ""option_2"": ""bring"",
+  ""option_3"": ""show"",
+  ""answer"": ""bring"",
+  ""answer_index"": 2,
+  ""id"": 1065
+}",Don't forget to ____ your ID.,너의 신분증을 가져오는 것을 잊지 마라.,take,bring,show,bring,2,1065
+1066,"{
+  ""fill_in_blank_quiz"": ""I’d like to talk about ___."",
+  ""korean_translation"": ""나는 기후 변화에 대해 이야기하고 싶어."",
+  ""option_1"": ""global warming"",
+  ""option_2"": ""climate change"",
+  ""option_3"": ""weather"",
+  ""answer"": ""climate change"",
+  ""answer_index"": 2,
+  ""id"": 1066
+}",I’d like to talk about ___.,나는 기후 변화에 대해 이야기하고 싶어.,global warming,climate change,weather,climate change,2,1066
+1077,"{
+  ""fill_in_blank_quiz"": ""Are you interested in ___?"",
+  ""korean_translation"": ""새로운 언어 배우는 것에 관심이 있나요?"",
+  ""option_1"": ""learning new languages"",
+  ""option_2"": ""studying history"",
+  ""option_3"": ""watching movies"",
+  ""answer"": ""learning new languages"",
+  ""answer_index"": 1,
+  ""id"": 1077
+}",Are you interested in ___?,새로운 언어 배우는 것에 관심이 있나요?,learning new languages,studying history,watching movies,learning new languages,1,1077
+1084,"{
+  ""fill_in_blank_quiz"": ""If I ___, I would travel around the world."",
+  ""korean_translation"": ""만약 내가 시간이 더 있다면, 나는 세계 여행을 할 텐데."",
+  ""option_1"": ""have enough time"",
+  ""option_2"": ""had more time"",
+  ""option_3"": ""had enough time"",
+  ""answer"": ""had more time"",
+  ""answer_index"": 2,
+  ""id"": 1084
+}","If I ___, I would travel around the world.","만약 내가 시간이 더 있다면, 나는 세계 여행을 할 텐데.",have enough time,had more time,had enough time,had more time,2,1084
+1087,"{
+  ""fill_in_blank_quiz"": ""She ___ about the meeting."",
+  ""korean_translation"": ""그녀는 회의를 잊었음에 틀림없어."",
+  ""option_1"": ""must have forgotten"",
+  ""option_2"": ""might have forgotten"",
+  ""option_3"": ""must have remembered"",
+  ""answer"": ""must have forgotten"",
+  ""answer_index"": 1,
+  ""id"": 1087
+}",She ___ about the meeting.,그녀는 회의를 잊었음에 틀림없어.,must have forgotten,might have forgotten,must have remembered,must have forgotten,1,1087
+1093,"{
+  ""fill_in_blank_quiz"": ""What do you ___ by that?"",
+  ""korean_translation"": ""그게 무슨 뜻이야?"",
+  ""option_1"": ""mean"",
+  ""option_2"": ""speak"",
+  ""option_3"": ""ask"",
+  ""answer"": ""mean"",
+  ""answer_index"": 1,
+  ""id"": 1093
+}",What do you ___ by that?,그게 무슨 뜻이야?,mean,speak,ask,mean,1,1093
+1098,"{
+  ""fill_in_blank_quiz"": ""Can you ___ them separately?"",
+  ""korean_translation"": ""그들을 개별적으로 포장해 줄 수 있니?"",
+  ""option_1"": ""wrap"",
+  ""option_2"": ""fold"",
+  ""option_3"": ""mix"",
+  ""answer"": ""wrap"",
+  ""answer_index"": 1,
+  ""id"": 1098
+}",Can you ___ them separately?,그들을 개별적으로 포장해 줄 수 있니?,wrap,fold,mix,wrap,1,1098
