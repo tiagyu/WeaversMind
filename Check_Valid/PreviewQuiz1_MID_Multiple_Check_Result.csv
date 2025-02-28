@@ -1,0 +1,1511 @@
+﻿id,result_json,fill_in_blank_quiz,korean_translation,option_1,option_2,option_3,answer,answer_index,id
+3,"{
+  ""fill_in_blank_quiz"": ""I ___ travel."",
+  ""korean_translation"": ""나는 여행할 거야."",
+  ""option_1"": ""are going to"",
+  ""option_2"": ""am going to"",
+  ""option_3"": ""is going to"",
+  ""answer"": ""am going to"",
+  ""answer_index"": 2,
+  ""id"": 3
+}",I ___ travel.,나는 여행할 거야.,are going to,am going to,is going to,am going to,2,3
+6,"{
+  ""fill_in_blank_quiz"": ""___ borrow your book?"",
+  ""korean_translation"": ""너의 책을 빌려도 될까?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Is it okay if I"",
+  ""option_3"": ""Can I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 3,
+  ""id"": 6
+}",___ borrow your book?,너의 책을 빌려도 될까?,May I,Is it okay if I,Can I,Can I,3,6
+10,"{
+  ""fill_in_blank_quiz"": ""Don’t _____, you'll do fine."",
+  ""korean_translation"": ""걱정하지 마, 너는 잘할 거야."",
+  ""option_1"": ""worry"",
+  ""option_2"": ""cry"",
+  ""option_3"": ""hesitate"",
+  ""answer"": ""worry"",
+  ""answer_index"": 1,
+  ""id"": 10
+}","Don’t _____, you'll do fine.","걱정하지 마, 너는 잘할 거야.",worry,cry,hesitate,worry,1,10
+11,"{
+  ""fill_in_blank_quiz"": ""What do you think of ___?"",
+  ""korean_translation"": ""이 영화에 대해 어떻게 생각해?"",
+  ""option_1"": ""this book"",
+  ""option_2"": ""this game"",
+  ""option_3"": ""this movie"",
+  ""answer"": ""this movie"",
+  ""answer_index"": 3,
+  ""id"": 11
+}",What do you think of ___?,이 영화에 대해 어떻게 생각해?,this book,this game,this movie,this movie,3,11
+33,"{
+  ""fill_in_blank_quiz"": ""He ___ finish his work."",
+  ""korean_translation"": ""그는 그의 일을 끝내야 한다."",
+  ""option_1"": ""must"",
+  ""option_2"": ""needs to"",
+  ""option_3"": ""has to"",
+  ""answer"": ""has to"",
+  ""answer_index"": 3,
+  ""id"": 33
+}",He ___ finish his work.,그는 그의 일을 끝내야 한다.,must,needs to,has to,has to,3,33
+38,"{
+  ""fill_in_blank_quiz"": ""That’s ________!"",
+  ""korean_translation"": ""정말 놀랍네요!"",
+  ""option_1"": ""surprising"",
+  ""option_2"": ""incredible"",
+  ""option_3"": ""unbelievable"",
+  ""answer"": ""surprising"",
+  ""answer_index"": 1,
+  ""id"": 38
+}",That’s ________!,정말 놀랍네요!,surprising,incredible,unbelievable,surprising,1,38
+46,"{
+  ""fill_in_blank_quiz"": ""Are you going to visit the ___ next weekend?"",
+  ""korean_translation"": ""다음 주말에 테마파크를 방문할 예정이니?"",
+  ""option_1"": ""museum"",
+  ""option_2"": ""theme park"",
+  ""option_3"": ""beach"",
+  ""answer"": ""theme park"",
+  ""answer_index"": 2,
+  ""id"": 46
+}",Are you going to visit the ___ next weekend?,다음 주말에 테마파크를 방문할 예정이니?,museum,theme park,beach,theme park,2,46
+61,"{
+  ""fill_in_blank_quiz"": ""___ to meet you."",
+  ""korean_translation"": ""만나서 반가워요."",
+  ""option_1"": ""Happy"",
+  ""option_2"": ""Glad"",
+  ""option_3"": ""Pleased"",
+  ""answer"": ""Pleased"",
+  ""answer_index"": 3,
+  ""id"": 61
+}",___ to meet you.,만나서 반가워요.,Happy,Glad,Pleased,Pleased,3,61
+65,"{
+  ""fill_in_blank_quiz"": ""___ you please help me with my homework?"",
+  ""korean_translation"": ""너는 내 숙제를 도와줄 수 있니?"",
+  ""option_1"": ""Do"",
+  ""option_2"": ""Can"",
+  ""option_3"": ""Should"",
+  ""answer"": ""Can"",
+  ""answer_index"": 2,
+  ""id"": 65
+}",___ you please help me with my homework?,너는 내 숙제를 도와줄 수 있니?,Do,Can,Should,Can,2,65
+72,"{
+  ""fill_in_blank_quiz"": ""I ___ a doctor."",
+  ""korean_translation"": ""나는 의사가 되고 싶어."",
+  ""option_1"": ""am to be"",
+  ""option_2"": ""want to be"",
+  ""option_3"": ""like to be"",
+  ""answer"": ""want to be"",
+  ""answer_index"": 2,
+  ""id"": 72
+}",I ___ a doctor.,나는 의사가 되고 싶어.,am to be,want to be,like to be,want to be,2,72
+73,"{
+  ""fill_in_blank_quiz"": ""What are you ___ do this weekend?"",
+  ""korean_translation"": ""이번 주말에 무엇을 할 거야?"",
+  ""option_1"": ""going to"",
+  ""option_2"": ""will"",
+  ""option_3"": ""gonna"",
+  ""answer"": ""going to"",
+  ""answer_index"": 1,
+  ""id"": 73
+}",What are you ___ do this weekend?,이번 주말에 무엇을 할 거야?,going to,will,gonna,going to,1,73
+74,"{
+  ""fill_in_blank_quiz"": ""Have a ___ day!"",
+  ""korean_translation"": ""멋진 하루 보내세요."",
+  ""option_1"": ""good"",
+  ""option_2"": ""wonderful"",
+  ""option_3"": ""happy"",
+  ""answer"": ""wonderful"",
+  ""answer_index"": 2,
+  ""id"": 74
+}",Have a ___ day!,멋진 하루 보내세요.,good,wonderful,happy,wonderful,2,74
+99,"{
+  ""fill_in_blank_quiz"": ""___ did you do last summer? I traveled to Japan."",
+  ""korean_translation"": ""지난 여름에 너는 무엇을 했니? 나는 일본을 여행했어."",
+  ""option_1"": ""What"",
+  ""option_2"": ""When"",
+  ""option_3"": ""Where"",
+  ""answer"": ""What"",
+  ""answer_index"": 1,
+  ""id"": 99
+}",___ did you do last summer? I traveled to Japan.,지난 여름에 너는 무엇을 했니? 나는 일본을 여행했어.,What,When,Where,What,1,99
+101,"{
+  ""fill_in_blank_quiz"": ""What are you ___ do this weekend?"",
+  ""korean_translation"": ""이번 주말에 무엇을 할 거야?"",
+  ""option_1"": ""willing to"",
+  ""option_2"": ""going to"",
+  ""option_3"": ""planning to"",
+  ""answer"": ""going to"",
+  ""answer_index"": 2,
+  ""id"": 101
+}",What are you ___ do this weekend?,이번 주말에 무엇을 할 거야?,willing to,going to,planning to,going to,2,101
+124,"{
+  ""fill_in_blank_quiz"": ""This kimchi is much ________ than the regular one."",
+  ""korean_translation"": ""이 김치는 일반 것보다 훨씬 더 매워."",
+  ""option_1"": ""spicier"",
+  ""option_2"": ""sour"",
+  ""option_3"": ""salty"",
+  ""answer"": ""spicier"",
+  ""answer_index"": 1,
+  ""id"": 124
+}",This kimchi is much ________ than the regular one.,이 김치는 일반 것보다 훨씬 더 매워.,spicier,sour,salty,spicier,1,124
+131,"{
+  ""fill_in_blank_quiz"": ""___ to hear that."",
+  ""korean_translation"": ""그 말을 들어서 기뻐."",
+  ""option_1"": ""Delighted to hear that."",
+  ""option_2"": ""Glad to hear that."",
+  ""option_3"": ""Worried to hear that."",
+  ""answer"": ""Glad to hear that."",
+  ""answer_index"": 2,
+  ""id"": 131
+}",___ to hear that.,그 말을 들어서 기뻐.,Delighted to hear that.,Glad to hear that.,Worried to hear that.,Glad to hear that.,2,131
+132,"{
+  ""fill_in_blank_quiz"": ""What are you ___ do in the summer?"",
+  ""korean_translation"": ""여름에 무엇을 할 예정인가요?"",
+  ""option_1"": ""gonna"",
+  ""option_2"": ""going to"",
+  ""option_3"": ""will"",
+  ""answer"": ""going to"",
+  ""answer_index"": 2,
+  ""id"": 132
+}",What are you ___ do in the summer?,여름에 무엇을 할 예정인가요?,gonna,going to,will,going to,2,132
+159,"{
+  ""fill_in_blank_quiz"": ""How’s the weather ______?"",
+  ""korean_translation"": ""오늘 날씨 어때?"",
+  ""option_1"": ""today"",
+  ""option_2"": ""tomorrow"",
+  ""option_3"": ""yesterday"",
+  ""answer"": ""today"",
+  ""answer_index"": 1,
+  ""id"": 159
+}",How’s the weather ______?,오늘 날씨 어때?,today,tomorrow,yesterday,today,1,159
+163,"{
+  ""fill_in_blank_quiz"": ""What ___ you going to do this weekend?"",
+  ""korean_translation"": ""이번 주말에 무엇을 할 거야?"",
+  ""option_1"": ""am"",
+  ""option_2"": ""is"",
+  ""option_3"": ""are"",
+  ""answer"": ""are"",
+  ""answer_index"": 3,
+  ""id"": 163
+}",What ___ you going to do this weekend?,이번 주말에 무엇을 할 거야?,am,is,are,are,3,163
+171,"{
+  ""fill_in_blank_quiz"": ""Where do you ___ to travel?"",
+  ""korean_translation"": ""어디로 여행하고 싶어?"",
+  ""option_1"": ""need"",
+  ""option_2"": ""want"",
+  ""option_3"": ""love"",
+  ""answer"": ""want"",
+  ""answer_index"": 2,
+  ""id"": 171
+}",Where do you ___ to travel?,어디로 여행하고 싶어?,need,want,love,want,2,171
+194,"{
+  ""fill_in_blank_quiz"": ""___ give you a hand?"",
+  ""korean_translation"": ""너에게 도움을 줄 수 있을까?"",
+  ""option_1"": ""Can I"",
+  ""option_2"": ""Should I"",
+  ""option_3"": ""May I"",
+  ""answer"": ""Can I"",
+  ""answer_index"": 1,
+  ""id"": 194
+}",___ give you a hand?,너에게 도움을 줄 수 있을까?,Can I,Should I,May I,Can I,1,194
+199,"{
+  ""fill_in_blank_quiz"": ""Can you ___ me?"",
+  ""korean_translation"": ""너 좀 도와줄래?"",
+  ""option_1"": ""assist me"",
+  ""option_2"": ""help me"",
+  ""option_3"": ""support me"",
+  ""answer"": ""help me"",
+  ""answer_index"": 2,
+  ""id"": 199
+}",Can you ___ me?,너 좀 도와줄래?,assist me,help me,support me,help me,2,199
+200,"{
+  ""fill_in_blank_quiz"": ""I enjoy _______."",
+  ""korean_translation"": ""나는 그림 그리기를 즐겨요."",
+  ""option_1"": ""singing"",
+  ""option_2"": ""painting"",
+  ""option_3"": ""dancing"",
+  ""answer"": ""painting"",
+  ""answer_index"": 2,
+  ""id"": 200
+}",I enjoy _______.,나는 그림 그리기를 즐겨요.,singing,painting,dancing,painting,2,200
+218,"{
+  ""fill_in_blank_quiz"": ""We swim as ___ as the sea."",
+  ""korean_translation"": ""우리는 바다만큼 깊게 수영한다."",
+  ""option_1"": ""deep"",
+  ""option_2"": ""fast"",
+  ""option_3"": ""high"",
+  ""answer"": ""deep"",
+  ""answer_index"": 1,
+  ""id"": 218
+}",We swim as ___ as the sea.,우리는 바다만큼 깊게 수영한다.,deep,fast,high,deep,1,218
+219,"{
+  ""fill_in_blank_quiz"": ""They started ___ the guitar."",
+  ""korean_translation"": ""그들은 기타를 연주하기 시작했다."",
+  ""option_1"": ""dancing"",
+  ""option_2"": ""playing"",
+  ""option_3"": ""singing"",
+  ""answer"": ""playing"",
+  ""answer_index"": 2,
+  ""id"": 219
+}",They started ___ the guitar.,그들은 기타를 연주하기 시작했다.,dancing,playing,singing,playing,2,219
+223,"{
+  ""fill_in_blank_quiz"": ""This is ___, my sister."",
+  ""korean_translation"": ""이 사람은 내 여동생 앨리스야."",
+  ""option_1"": ""Linda"",
+  ""option_2"": ""Alice"",
+  ""option_3"": ""Sophie"",
+  ""answer"": ""Alice"",
+  ""answer_index"": 2,
+  ""id"": 223
+}","This is ___, my sister.",이 사람은 내 여동생 앨리스야.,Linda,Alice,Sophie,Alice,2,223
+236,"{
+  ""fill_in_blank_quiz"": ""I ___ buy a new phone."",
+  ""korean_translation"": ""나는 새 휴대폰을 살 거야."",
+  ""option_1"": ""are going to"",
+  ""option_2"": ""am going to"",
+  ""option_3"": ""is going to"",
+  ""answer"": ""am going to"",
+  ""answer_index"": 2,
+  ""id"": 236
+}",I ___ buy a new phone.,나는 새 휴대폰을 살 거야.,are going to,am going to,is going to,am going to,2,236
+242,"{
+  ""fill_in_blank_quiz"": ""I ___ to try new dishes."",
+  ""korean_translation"": ""나는 새로운 요리를 시도하는 것을 좋아해."",
+  ""option_1"": ""love"",
+  ""option_2"": ""enjoy"",
+  ""option_3"": ""prefer"",
+  ""answer"": ""love"",
+  ""answer_index"": 1,
+  ""id"": 242
+}",I ___ to try new dishes.,나는 새로운 요리를 시도하는 것을 좋아해.,love,enjoy,prefer,love,1,242
+248,"{
+  ""fill_in_blank_quiz"": ""My cat is ______ than my dog."",
+  ""korean_translation"": ""내 고양이는 내 개보다 더 친근하다."",
+  ""option_1"": ""more friendly"",
+  ""option_2"": ""friendlier"",
+  ""option_3"": ""kindlier"",
+  ""answer"": ""friendlier"",
+  ""answer_index"": 2,
+  ""id"": 248
+}",My cat is ______ than my dog.,내 고양이는 내 개보다 더 친근하다.,more friendly,friendlier,kindlier,friendlier,2,248
+251,"{
+  ""fill_in_blank_quiz"": ""How ___ you doing?"",
+  ""korean_translation"": ""어떻게 지내고 있어?"",
+  ""option_1"": ""are"",
+  ""option_2"": ""is"",
+  ""option_3"": ""am"",
+  ""answer"": ""are"",
+  ""answer_index"": 1,
+  ""id"": 251
+}",How ___ you doing?,어떻게 지내고 있어?,are,is,am,are,1,251
+253,"{
+  ""fill_in_blank_quiz"": ""___ help me, please?"",
+  ""korean_translation"": ""너는 나를 도와줄 수 있니?"",
+  ""option_1"": ""Could you"",
+  ""option_2"": ""Can you"",
+  ""option_3"": ""Will you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 2,
+  ""id"": 253
+}","___ help me, please?",너는 나를 도와줄 수 있니?,Could you,Can you,Will you,Can you,2,253
+256,"{
+  ""fill_in_blank_quiz"": ""Would you like some ___?"",
+  ""korean_translation"": ""케이크 좀 드실래요?"",
+  ""option_1"": ""coffee"",
+  ""option_2"": ""cake"",
+  ""option_3"": ""tea"",
+  ""answer"": ""cake"",
+  ""answer_index"": 2,
+  ""id"": 256
+}",Would you like some ___?,케이크 좀 드실래요?,coffee,cake,tea,cake,2,256
+264,"{
+  ""fill_in_blank_quiz"": ""I ___ to be a doctor."",
+  ""korean_translation"": ""나는 의사가 되고 싶어."",
+  ""option_1"": ""would like"",
+  ""option_2"": ""want"",
+  ""option_3"": ""need"",
+  ""answer"": ""want"",
+  ""answer_index"": 2,
+  ""id"": 264
+}",I ___ to be a doctor.,나는 의사가 되고 싶어.,would like,want,need,want,2,264
+268,"{
+  ""fill_in_blank_quiz"": ""What are you ___ do this weekend?"",
+  ""korean_translation"": ""이번 주말에 무엇을 할 거야?"",
+  ""option_1"": ""planning to"",
+  ""option_2"": ""going to"",
+  ""option_3"": ""willing to"",
+  ""answer"": ""going to"",
+  ""answer_index"": 2,
+  ""id"": 268
+}",What are you ___ do this weekend?,이번 주말에 무엇을 할 거야?,planning to,going to,willing to,going to,2,268
+275,"{
+  ""fill_in_blank_quiz"": ""I hope to ___ a famous writer."",
+  ""korean_translation"": ""나는 유명한 작가가 되고 싶어."",
+  ""option_1"": ""become"",
+  ""option_2"": ""create"",
+  ""option_3"": ""choose"",
+  ""answer"": ""become"",
+  ""answer_index"": 1,
+  ""id"": 275
+}",I hope to ___ a famous writer.,나는 유명한 작가가 되고 싶어.,become,create,choose,become,1,275
+288,"{
+  ""fill_in_blank_quiz"": ""This is my ___."",
+  ""korean_translation"": ""이 사람은 내 형제, 제이크야."",
+  ""option_1"": ""my friend, Tom"",
+  ""option_2"": ""my sister, Anna"",
+  ""option_3"": ""my brother, Jake"",
+  ""answer"": ""my brother, Jake"",
+  ""answer_index"": 3,
+  ""id"": 288
+}",This is my ___.,"이 사람은 내 형제, 제이크야.","my friend, Tom","my sister, Anna","my brother, Jake","my brother, Jake",3,288
+297,"{
+  ""fill_in_blank_quiz"": ""___ the train station?"",
+  ""korean_translation"": ""기차역에 어떻게 가나요?"",
+  ""option_1"": ""Where is"",
+  ""option_2"": ""How can I get to"",
+  ""option_3"": ""How do I get to"",
+  ""answer"": ""How can I get to"",
+  ""answer_index"": 2,
+  ""id"": 297
+}",___ the train station?,기차역에 어떻게 가나요?,Where is,How can I get to,How do I get to,How can I get to,2,297
+298,"{
+  ""fill_in_blank_quiz"": ""___ use your laptop?"",
+  ""korean_translation"": ""노트북을 사용해도 될까요?"",
+  ""option_1"": ""Can I"",
+  ""option_2"": ""May I"",
+  ""option_3"": ""Is it okay if I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 2,
+  ""id"": 298
+}",___ use your laptop?,노트북을 사용해도 될까요?,Can I,May I,Is it okay if I,May I,2,298
+327,"{
+  ""fill_in_blank_quiz"": ""I got a new phone. I’m ___."",
+  ""korean_translation"": ""나는 새 전화기를 샀어. 나는 정말 기뻐."",
+  ""option_1"": ""confused"",
+  ""option_2"": ""thrilled"",
+  ""option_3"": ""angry"",
+  ""answer"": ""thrilled"",
+  ""answer_index"": 2,
+  ""id"": 327
+}",I got a new phone. I’m ___.,나는 새 전화기를 샀어. 나는 정말 기뻐.,confused,thrilled,angry,thrilled,2,327
+329,"{
+  ""fill_in_blank_quiz"": ""I’m ___ visit my grandparents."",
+  ""korean_translation"": ""나는 조부모님을 방문할 거야."",
+  ""option_1"": ""are going to"",
+  ""option_2"": ""am going to"",
+  ""option_3"": ""is going to"",
+  ""answer"": ""am going to"",
+  ""answer_index"": 2,
+  ""id"": 329
+}",I’m ___ visit my grandparents.,나는 조부모님을 방문할 거야.,are going to,am going to,is going to,am going to,2,329
+331,"{
+  ""fill_in_blank_quiz"": ""___ I leave early?"",
+  ""korean_translation"": ""일찍 퇴근해도 될까요?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Could I"",
+  ""option_3"": ""Can I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 1,
+  ""id"": 331
+}",___ I leave early?,일찍 퇴근해도 될까요?,May I,Could I,Can I,May I,1,331
+332,"{
+  ""fill_in_blank_quiz"": ""You ___ not smoke here."",
+  ""korean_translation"": ""여기서 담배 피우면 안 됩니다."",
+  ""option_1"": ""should"",
+  ""option_2"": ""must"",
+  ""option_3"": ""can"",
+  ""answer"": ""must"",
+  ""answer_index"": 2,
+  ""id"": 332
+}",You ___ not smoke here.,여기서 담배 피우면 안 됩니다.,should,must,can,must,2,332
+333,"{
+  ""fill_in_blank_quiz"": ""___ you please help me with this?"",
+  ""korean_translation"": ""이것 좀 도와줄 수 있니?"",
+  ""option_1"": ""Do"",
+  ""option_2"": ""Can"",
+  ""option_3"": ""Will"",
+  ""answer"": ""Can"",
+  ""answer_index"": 2,
+  ""id"": 333
+}",___ you please help me with this?,이것 좀 도와줄 수 있니?,Do,Can,Will,Can,2,333
+361,"{
+  ""fill_in_blank_quiz"": ""___ do me a favor?"",
+  ""korean_translation"": ""나에게 부탁 좀 해줄 수 있어?"",
+  ""option_1"": ""May you"",
+  ""option_2"": ""Can you"",
+  ""option_3"": ""Should you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 2,
+  ""id"": 361
+}",___ do me a favor?,나에게 부탁 좀 해줄 수 있어?,May you,Can you,Should you,Can you,2,361
+365,"{
+  ""fill_in_blank_quiz"": ""What ___ to eat?"",
+  ""korean_translation"": ""너는 무엇을 먹고 싶어?"",
+  ""option_1"": ""like"",
+  ""option_2"": ""would like"",
+  ""option_3"": ""will like"",
+  ""answer"": ""would like"",
+  ""answer_index"": 2,
+  ""id"": 365
+}",What ___ to eat?,너는 무엇을 먹고 싶어?,like,would like,will like,would like,2,365
+388,"{
+  ""fill_in_blank_quiz"": ""___ playing soccer."",
+  ""korean_translation"": ""나는 축구하는 것을 좋아해."",
+  ""option_1"": ""I love"",
+  ""option_2"": ""I like"",
+  ""option_3"": ""I enjoy"",
+  ""answer"": ""I like"",
+  ""answer_index"": 2,
+  ""id"": 388
+}",___ playing soccer.,나는 축구하는 것을 좋아해.,I love,I like,I enjoy,I like,2,388
+406,"{
+  ""fill_in_blank_quiz"": ""___ at the local shelter is our school's best way to contribute."",
+  ""korean_translation"": ""지역 보호소에서 자원봉사를 하는 것은 우리 학교가 기여할 수 있는 최고의 방법이다."",
+  ""option_1"": ""Volunteering"",
+  ""option_2"": ""Cooking"",
+  ""option_3"": ""Reading"",
+  ""answer"": ""Volunteering"",
+  ""answer_index"": 1,
+  ""id"": 406
+}",___ at the local shelter is our school's best way to contribute.,지역 보호소에서 자원봉사를 하는 것은 우리 학교가 기여할 수 있는 최고의 방법이다.,Volunteering,Cooking,Reading,Volunteering,1,406
+407,"{
+  ""fill_in_blank_quiz"": ""___ explore new ideas is to be innovative."",
+  ""korean_translation"": ""새로운 아이디어를 탐구하는 것은 혁신적이라는 것입니다."",
+  ""option_1"": ""To"",
+  ""option_2"": ""By"",
+  ""option_3"": ""In"",
+  ""answer"": ""To"",
+  ""answer_index"": 1,
+  ""id"": 407
+}",___ explore new ideas is to be innovative.,새로운 아이디어를 탐구하는 것은 혁신적이라는 것입니다.,To,By,In,To,1,407
+420,"{
+  ""fill_in_blank_quiz"": ""What sport do you ___?"",
+  ""korean_translation"": ""어떤 스포츠를 좋아하니?"",
+  ""option_1"": ""like"",
+  ""option_2"": ""hate"",
+  ""option_3"": ""play"",
+  ""answer"": ""like"",
+  ""answer_index"": 1,
+  ""id"": 420
+}",What sport do you ___?,어떤 스포츠를 좋아하니?,like,hate,play,like,1,420
+423,"{
+  ""fill_in_blank_quiz"": ""___ use your phone?"",
+  ""korean_translation"": ""너의 전화를 사용해도 될까요?"",
+  ""option_1"": ""May I"",
+  ""option_2"": ""Do I"",
+  ""option_3"": ""Can I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 1,
+  ""id"": 423
+}",___ use your phone?,너의 전화를 사용해도 될까요?,May I,Do I,Can I,May I,1,423
+426,"{
+  ""fill_in_blank_quiz"": ""Thank you for ___ help."",
+  ""korean_translation"": ""너의 도움에 감사해."",
+  ""option_1"": ""your"",
+  ""option_2"": ""my"",
+  ""option_3"": ""his"",
+  ""answer"": ""your"",
+  ""answer_index"": 1,
+  ""id"": 426
+}",Thank you for ___ help.,너의 도움에 감사해.,your,my,his,your,1,426
+431,"{
+  ""fill_in_blank_quiz"": ""I’d like to ___ the world."",
+  ""korean_translation"": ""나는 세계를 여행하고 싶어."",
+  ""option_1"": ""travel"",
+  ""option_2"": ""visit"",
+  ""option_3"": ""explore"",
+  ""answer"": ""travel"",
+  ""answer_index"": 1,
+  ""id"": 431
+}",I’d like to ___ the world.,나는 세계를 여행하고 싶어.,travel,visit,explore,travel,1,431
+446,"{
+  ""fill_in_blank_quiz"": ""I met my best friend ___."",
+  ""korean_translation"": ""나는 박물관을 방문했을 때 가장 친한 친구를 만났어."",
+  ""option_1"": ""while I visited the museum"",
+  ""option_2"": ""when I visited the museum"",
+  ""option_3"": ""after I visited the museum"",
+  ""answer"": ""when I visited the museum"",
+  ""answer_index"": 2,
+  ""id"": 446
+}",I met my best friend ___.,나는 박물관을 방문했을 때 가장 친한 친구를 만났어.,while I visited the museum,when I visited the museum,after I visited the museum,when I visited the museum,2,446
+455,"{
+  ""fill_in_blank_quiz"": ""Can you ___ me with my homework?"",
+  ""korean_translation"": ""너 내 숙제 도와줄래?"",
+  ""option_1"": ""deliver"",
+  ""option_2"": ""help"",
+  ""option_3"": ""buy"",
+  ""answer"": ""help"",
+  ""answer_index"": 2,
+  ""id"": 455
+}",Can you ___ me with my homework?,너 내 숙제 도와줄래?,deliver,help,buy,help,2,455
+456,"{
+  ""fill_in_blank_quiz"": ""I'm ____."",
+  ""korean_translation"": ""나는 피곤해."",
+  ""option_1"": ""happy"",
+  ""option_2"": ""tired"",
+  ""option_3"": ""hungry"",
+  ""answer"": ""tired"",
+  ""answer_index"": 2,
+  ""id"": 456
+}",I'm ____.,나는 피곤해.,happy,tired,hungry,tired,2,456
+474,"{
+  ""fill_in_blank_quiz"": ""You ___ eat more vegetables."",
+  ""korean_translation"": ""너는 더 많은 야채를 먹어야 한다."",
+  ""option_1"": ""must"",
+  ""option_2"": ""should"",
+  ""option_3"": ""could"",
+  ""answer"": ""should"",
+  ""answer_index"": 2,
+  ""id"": 474
+}",You ___ eat more vegetables.,너는 더 많은 야채를 먹어야 한다.,must,should,could,should,2,474
+480,"{
+  ""fill_in_blank_quiz"": ""___ I leave early?"",
+  ""korean_translation"": ""내가 일찍 떠나도 될까요?"",
+  ""option_1"": ""Might I"",
+  ""option_2"": ""Can I"",
+  ""option_3"": ""May I"",
+  ""answer"": ""May I"",
+  ""answer_index"": 3,
+  ""id"": 480
+}",___ I leave early?,내가 일찍 떠나도 될까요?,Might I,Can I,May I,May I,3,480
+482,"{
+  ""fill_in_blank_quiz"": ""I ___ this restaurant."",
+  ""korean_translation"": ""나는 이 식당을 추천해."",
+  ""option_1"": ""reject"",
+  ""option_2"": ""recommend"",
+  ""option_3"": ""enjoy"",
+  ""answer"": ""recommend"",
+  ""answer_index"": 2,
+  ""id"": 482
+}",I ___ this restaurant.,나는 이 식당을 추천해.,reject,recommend,enjoy,recommend,2,482
+490,"{
+  ""fill_in_blank_quiz"": ""How long does it ______ from Seoul to Busan?"",
+  ""korean_translation"": ""서울에서 부산까지 얼마나 걸리나요?"",
+  ""option_1"": ""take"",
+  ""option_2"": ""cost"",
+  ""option_3"": ""need"",
+  ""answer"": ""take"",
+  ""answer_index"": 1,
+  ""id"": 490
+}",How long does it ______ from Seoul to Busan?,서울에서 부산까지 얼마나 걸리나요?,take,cost,need,take,1,490
+492,"{
+  ""fill_in_blank_quiz"": ""What do I ____ to do?"",
+  ""korean_translation"": ""내가 무엇을 해야 하지?"",
+  ""option_1"": ""should"",
+  ""option_2"": ""need"",
+  ""option_3"": ""have"",
+  ""answer"": ""need"",
+  ""answer_index"": 2,
+  ""id"": 492
+}",What do I ____ to do?,내가 무엇을 해야 하지?,should,need,have,need,2,492
+514,"{
+  ""fill_in_blank_quiz"": ""Are you _____ about your answer?"",
+  ""korean_translation"": ""너의 답이 확실하니?"",
+  ""option_1"": ""confident"",
+  ""option_2"": ""sure"",
+  ""option_3"": ""certain"",
+  ""answer"": ""sure"",
+  ""answer_index"": 2,
+  ""id"": 514
+}",Are you _____ about your answer?,너의 답이 확실하니?,confident,sure,certain,sure,2,514
+521,"{
+  ""fill_in_blank_quiz"": ""You ___ eat too much junk food."",
+  ""korean_translation"": ""너는 너무 많은 정크 푸드를 먹으면 안돼."",
+  ""option_1"": ""might"",
+  ""option_2"": ""should"",
+  ""option_3"": ""could"",
+  ""answer"": ""should"",
+  ""answer_index"": 2,
+  ""id"": 521
+}",You ___ eat too much junk food.,너는 너무 많은 정크 푸드를 먹으면 안돼.,might,should,could,should,2,521
+523,"{
+  ""fill_in_blank_quiz"": ""___ movie do you watch on weekends?"",
+  ""korean_translation"": ""어떤 영화를 주말에 보니?"",
+  ""option_1"": ""What"",
+  ""option_2"": ""Where"",
+  ""option_3"": ""Which"",
+  ""answer"": ""Which"",
+  ""answer_index"": 3,
+  ""id"": 523
+}",___ movie do you watch on weekends?,어떤 영화를 주말에 보니?,What,Where,Which,Which,3,523
+542,"{
+  ""fill_in_blank_quiz"": ""How do I ___ to the train station?"",
+  ""korean_translation"": ""나는 어떻게 기차역에 갈 수 있나요?"",
+  ""option_1"": ""get"",
+  ""option_2"": ""arrive"",
+  ""option_3"": ""reach"",
+  ""answer"": ""get"",
+  ""answer_index"": 1,
+  ""id"": 542
+}",How do I ___ to the train station?,나는 어떻게 기차역에 갈 수 있나요?,get,arrive,reach,get,1,542
+546,"{
+  ""fill_in_blank_quiz"": ""Can you tell me more about ___?"",
+  ""korean_translation"": ""행사에 대해 좀 더 말해줄 수 있어?"",
+  ""option_1"": ""the process"",
+  ""option_2"": ""the event"",
+  ""option_3"": ""the venue"",
+  ""answer"": ""the event"",
+  ""answer_index"": 2,
+  ""id"": 546
+}",Can you tell me more about ___?,행사에 대해 좀 더 말해줄 수 있어?,the process,the event,the venue,the event,2,546
+548,"{
+  ""fill_in_blank_quiz"": ""___ you turn off the lights before leaving."",
+  ""korean_translation"": ""떠나기 전에 전등을 끄는 것을 잊지 마세요."",
+  ""option_1"": ""Be sure"",
+  ""option_2"": ""Make sure"",
+  ""option_3"": ""Remember"",
+  ""answer"": ""Make sure"",
+  ""answer_index"": 2,
+  ""id"": 548
+}",___ you turn off the lights before leaving.,떠나기 전에 전등을 끄는 것을 잊지 마세요.,Be sure,Make sure,Remember,Make sure,2,548
+549,"{
+  ""fill_in_blank_quiz"": ""I’m planning to ______ this weekend."",
+  ""korean_translation"": ""나는 이번 주말에 조부모님을 방문할 계획이야."",
+  ""option_1"": ""go shopping"",
+  ""option_2"": ""visit my grandparents"",
+  ""option_3"": ""attend a meeting"",
+  ""answer"": ""visit my grandparents"",
+  ""answer_index"": 2,
+  ""id"": 549
+}",I’m planning to ______ this weekend.,나는 이번 주말에 조부모님을 방문할 계획이야.,go shopping,visit my grandparents,attend a meeting,visit my grandparents,2,549
+550,"{
+  ""fill_in_blank_quiz"": ""What time and where ___ we meet?"",
+  ""korean_translation"": ""몇 시에 어디서 만날까?"",
+  ""option_1"": ""should"",
+  ""option_2"": ""could"",
+  ""option_3"": ""would"",
+  ""answer"": ""should"",
+  ""answer_index"": 1,
+  ""id"": 550
+}",What time and where ___ we meet?,몇 시에 어디서 만날까?,should,could,would,should,1,550
+560,"{
+  ""fill_in_blank_quiz"": ""I ___ my neighbor singing on the rooftop."",
+  ""korean_translation"": ""나는 옥상에서 이웃이 노래하는 것을 들었어."",
+  ""option_1"": ""heard"",
+  ""option_2"": ""watched"",
+  ""option_3"": ""saw"",
+  ""answer"": ""heard"",
+  ""answer_index"": 1,
+  ""id"": 560
+}",I ___ my neighbor singing on the rooftop.,나는 옥상에서 이웃이 노래하는 것을 들었어.,heard,watched,saw,heard,1,560
+576,"{
+  ""fill_in_blank_quiz"": ""___ do you exercise every day?"",
+  ""korean_translation"": ""왜 너는 매일 운동하니?"",
+  ""option_1"": ""How"",
+  ""option_2"": ""What"",
+  ""option_3"": ""Why"",
+  ""answer"": ""Why"",
+  ""answer_index"": 3,
+  ""id"": 576
+}",___ do you exercise every day?,왜 너는 매일 운동하니?,How,What,Why,Why,3,576
+583,"{
+  ""fill_in_blank_quiz"": ""Can you ___ a good restaurant?"",
+  ""korean_translation"": ""좋은 식당을 추천해 줄 수 있어?"",
+  ""option_1"": ""suggest"",
+  ""option_2"": ""recommend"",
+  ""option_3"": ""avoid"",
+  ""answer"": ""recommend"",
+  ""answer_index"": 2,
+  ""id"": 583
+}",Can you ___ a good restaurant?,좋은 식당을 추천해 줄 수 있어?,suggest,recommend,avoid,recommend,2,583
+586,"{
+  ""fill_in_blank_quiz"": ""___ it’s going to rain tomorrow."",
+  ""korean_translation"": ""내일 비가 올 것 같아."",
+  ""option_1"": ""I assume"",
+  ""option_2"": ""I guess"",
+  ""option_3"": ""I think"",
+  ""answer"": ""I guess"",
+  ""answer_index"": 2,
+  ""id"": 586
+}",___ it’s going to rain tomorrow.,내일 비가 올 것 같아.,I assume,I guess,I think,I guess,2,586
+599,"{
+  ""fill_in_blank_quiz"": ""I can _____ dancers gliding across the stage."",
+  ""korean_translation"": ""나는 무대 위에서 미끄러지듯 춤추는 무용수들을 볼 수 있다."",
+  ""option_1"": ""observe"",
+  ""option_2"": ""see"",
+  ""option_3"": ""watch"",
+  ""answer"": ""see"",
+  ""answer_index"": 2,
+  ""id"": 599
+}",I can _____ dancers gliding across the stage.,나는 무대 위에서 미끄러지듯 춤추는 무용수들을 볼 수 있다.,observe,see,watch,see,2,599
+606,"{
+  ""fill_in_blank_quiz"": ""Don’t ______ to bring your homework."",
+  ""korean_translation"": ""너의 숙제를 가져오는 것을 잊지 마."",
+  ""option_1"": ""remember"",
+  ""option_2"": ""forget"",
+  ""option_3"": ""ignore"",
+  ""answer"": ""forget"",
+  ""answer_index"": 2,
+  ""id"": 606
+}",Don’t ______ to bring your homework.,너의 숙제를 가져오는 것을 잊지 마.,remember,forget,ignore,forget,2,606
+623,"{
+  ""fill_in_blank_quiz"": ""I have ______ new paths in life."",
+  ""korean_translation"": ""나는 인생에서 새로운 길을 발견했어."",
+  ""option_1"": ""explored"",
+  ""option_2"": ""discovered"",
+  ""option_3"": ""imagined"",
+  ""answer"": ""discovered"",
+  ""answer_index"": 2,
+  ""id"": 623
+}",I have ______ new paths in life.,나는 인생에서 새로운 길을 발견했어.,explored,discovered,imagined,discovered,2,623
+626,"{
+  ""fill_in_blank_quiz"": ""The weather was ___ that we couldn't plan our trip."",
+  ""korean_translation"": ""날씨가 너무 예측할 수 없어서 우리는 여행 계획을 세울 수 없었다."",
+  ""option_1"": ""so sunny"",
+  ""option_2"": ""so unpredictable"",
+  ""option_3"": ""so calm"",
+  ""answer"": ""so unpredictable"",
+  ""answer_index"": 2,
+  ""id"": 626
+}",The weather was ___ that we couldn't plan our trip.,날씨가 너무 예측할 수 없어서 우리는 여행 계획을 세울 수 없었다.,so sunny,so unpredictable,so calm,so unpredictable,2,626
+646,"{
+  ""fill_in_blank_quiz"": ""___ return the books."",
+  ""korean_translation"": ""책을 반납하는 것을 잊지 마세요."",
+  ""option_1"": ""Make sure to"",
+  ""option_2"": ""Don't forget to"",
+  ""option_3"": ""Remember to"",
+  ""answer"": ""Don't forget to"",
+  ""answer_index"": 2,
+  ""id"": 646
+}",___ return the books.,책을 반납하는 것을 잊지 마세요.,Make sure to,Don't forget to,Remember to,Don't forget to,2,646
+647,"{
+  ""fill_in_blank_quiz"": ""Have you ever ___ sushi?"",
+  ""korean_translation"": ""너는 스시를 먹어본 적이 있니?"",
+  ""option_1"": ""tried"",
+  ""option_2"": ""watched"",
+  ""option_3"": ""ignored"",
+  ""answer"": ""tried"",
+  ""answer_index"": 1,
+  ""id"": 647
+}",Have you ever ___ sushi?,너는 스시를 먹어본 적이 있니?,tried,watched,ignored,tried,1,647
+652,"{
+  ""fill_in_blank_quiz"": ""I met the friend ___ I value the most at the school event."",
+  ""korean_translation"": ""나는 학교 행사에서 내가 가장 소중히 여기는 친구를 만났어."",
+  ""option_1"": ""who"",
+  ""option_2"": ""whom"",
+  ""option_3"": ""whose"",
+  ""answer"": ""whom"",
+  ""answer_index"": 2,
+  ""id"": 652
+}",I met the friend ___ I value the most at the school event.,나는 학교 행사에서 내가 가장 소중히 여기는 친구를 만났어.,who,whom,whose,whom,2,652
+666,"{
+  ""fill_in_blank_quiz"": ""I ___ when the bus arrives."",
+  ""korean_translation"": ""나는 버스가 언제 도착하는지 궁금해."",
+  ""option_1"": ""wonder"",
+  ""option_2"": ""think"",
+  ""option_3"": ""guess"",
+  ""answer"": ""wonder"",
+  ""answer_index"": 1,
+  ""id"": 666
+}",I ___ when the bus arrives.,나는 버스가 언제 도착하는지 궁금해.,wonder,think,guess,wonder,1,666
+669,"{
+  ""fill_in_blank_quiz"": ""I’m planning to ___ to Europe next year."",
+  ""korean_translation"": ""나는 내년에 유럽으로 여행할 계획이야."",
+  ""option_1"": ""study"",
+  ""option_2"": ""travel"",
+  ""option_3"": ""visit"",
+  ""answer"": ""travel"",
+  ""answer_index"": 2,
+  ""id"": 669
+}",I’m planning to ___ to Europe next year.,나는 내년에 유럽으로 여행할 계획이야.,study,travel,visit,travel,2,669
+670,"{
+  ""fill_in_blank_quiz"": ""___ at 3 p.m.?"",
+  ""korean_translation"": ""너는 오후 3시에 올 수 있니?"",
+  ""option_1"": ""Will you"",
+  ""option_2"": ""Can you"",
+  ""option_3"": ""Could you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 2,
+  ""id"": 670
+}",___ at 3 p.m.?,너는 오후 3시에 올 수 있니?,Will you,Can you,Could you,Can you,2,670
+673,"{
+  ""fill_in_blank_quiz"": ""___ our trip to Jeju Island?"",
+  ""korean_translation"": ""우리의 제주도 여행을 기억하니?"",
+  ""option_1"": ""Do you remember"",
+  ""option_2"": ""Have you ever thought about"",
+  ""option_3"": ""Can you recall"",
+  ""answer"": ""Do you remember"",
+  ""answer_index"": 1,
+  ""id"": 673
+}",___ our trip to Jeju Island?,우리의 제주도 여행을 기억하니?,Do you remember,Have you ever thought about,Can you recall,Do you remember,1,673
+678,"{
+  ""fill_in_blank_quiz"": ""___ surprising!"",
+  ""korean_translation"": ""그거 정말 놀랍네!"",
+  ""option_1"": ""That is"",
+  ""option_2"": ""This is"",
+  ""option_3"": ""That's"",
+  ""answer"": ""That's"",
+  ""answer_index"": 3,
+  ""id"": 678
+}",___ surprising!,그거 정말 놀랍네!,That is,This is,That's,That's,3,678
+681,"{
+  ""fill_in_blank_quiz"": ""I'm not happy about ___."",
+  ""korean_translation"": ""나는 서비스에 대해 기분이 좋지 않아."",
+  ""option_1"": ""the food"",
+  ""option_2"": ""the service"",
+  ""option_3"": ""the price"",
+  ""answer"": ""the service"",
+  ""answer_index"": 2,
+  ""id"": 681
+}",I'm not happy about ___.,나는 서비스에 대해 기분이 좋지 않아.,the food,the service,the price,the service,2,681
+701,"{
+  ""fill_in_blank_quiz"": ""Don't forget to ___ your homework."",
+  ""korean_translation"": ""숙제를 가져오는 것을 잊지 마세요."",
+  ""option_1"": ""take"",
+  ""option_2"": ""bring"",
+  ""option_3"": ""get"",
+  ""answer"": ""bring"",
+  ""answer_index"": 2,
+  ""id"": 701
+}",Don't forget to ___ your homework.,숙제를 가져오는 것을 잊지 마세요.,take,bring,get,bring,2,701
+702,"{
+  ""fill_in_blank_quiz"": ""You’d better not ___."",
+  ""korean_translation"": ""너는 늦으면 안 돼."",
+  ""option_1"": ""be early"",
+  ""option_2"": ""be late"",
+  ""option_3"": ""be busy"",
+  ""answer"": ""be late"",
+  ""answer_index"": 2,
+  ""id"": 702
+}",You’d better not ___.,너는 늦으면 안 돼.,be early,be late,be busy,be late,2,702
+714,"{
+  ""fill_in_blank_quiz"": ""___ help me, please?"",
+  ""korean_translation"": ""제발 나를 도와줄 수 있니?"",
+  ""option_1"": ""Do you"",
+  ""option_2"": ""Can you"",
+  ""option_3"": ""Would you"",
+  ""answer"": ""Can you"",
+  ""answer_index"": 2,
+  ""id"": 714
+}","___ help me, please?",제발 나를 도와줄 수 있니?,Do you,Can you,Would you,Can you,2,714
+729,"{
+  ""fill_in_blank_quiz"": ""I will be a writer ___ readers admire."",
+  ""korean_translation"": ""나는 독자들이 존경하는 작가가 될 것이다."",
+  ""option_1"": ""whom"",
+  ""option_2"": ""which"",
+  ""option_3"": ""who"",
+  ""answer"": ""who"",
+  ""answer_index"": 3,
+  ""id"": 729
+}",I will be a writer ___ readers admire.,나는 독자들이 존경하는 작가가 될 것이다.,whom,which,who,who,3,729
+736,"{
+  ""fill_in_blank_quiz"": ""What do you ___ doing when you have free time?"",
+  ""korean_translation"": ""여가 시간에 무엇을 하고 즐깁니까?"",
+  ""option_1"": ""like"",
+  ""option_2"": ""enjoy"",
+  ""option_3"": ""appreciate"",
+  ""answer"": ""enjoy"",
+  ""answer_index"": 2,
+  ""id"": 736
+}",What do you ___ doing when you have free time?,여가 시간에 무엇을 하고 즐깁니까?,like,enjoy,appreciate,enjoy,2,736
+739,"{
+  ""fill_in_blank_quiz"": ""Which ___ do you like? Coffee or tea?"",
+  ""korean_translation"": ""어떤 음료를 좋아하나요? 커피 아니면 차?"",
+  ""option_1"": ""food"",
+  ""option_2"": ""drink"",
+  ""option_3"": ""dessert"",
+  ""answer"": ""drink"",
+  ""answer_index"": 2,
+  ""id"": 739
+}",Which ___ do you like? Coffee or tea?,어떤 음료를 좋아하나요? 커피 아니면 차?,food,drink,dessert,drink,2,739
+743,"{
+  ""fill_in_blank_quiz"": ""___"",
+  ""korean_translation"": ""그거 재미있을 것 같아."",
+  ""option_1"": ""That sounds like fun."",
+  ""option_2"": ""That is fun."",
+  ""option_3"": ""That looks like fun."",
+  ""answer"": ""That sounds like fun."",
+  ""answer_index"": 1,
+  ""id"": 743
+}",___,그거 재미있을 것 같아.,That sounds like fun.,That is fun.,That looks like fun.,That sounds like fun.,1,743
+744,"{
+  ""fill_in_blank_quiz"": ""___ to change the schedule?"",
+  ""korean_translation"": ""일정을 변경하는 것이 가능합니까?"",
+  ""option_1"": ""Can you"",
+  ""option_2"": ""Is it possible"",
+  ""option_3"": ""Are you able to"",
+  ""answer"": ""Is it possible"",
+  ""answer_index"": 2,
+  ""id"": 744
+}",___ to change the schedule?,일정을 변경하는 것이 가능합니까?,Can you,Is it possible,Are you able to,Is it possible,2,744
+758,"{
+  ""fill_in_blank_quiz"": ""I practice English every day to ______ my skills."",
+  ""korean_translation"": ""나는 내 실력을 향상시키기 위해 매일 영어를 연습해."",
+  ""option_1"": ""improve"",
+  ""option_2"": ""destroy"",
+  ""option_3"": ""maintain"",
+  ""answer"": ""improve"",
+  ""answer_index"": 1,
+  ""id"": 758
+}",I practice English every day to ______ my skills.,나는 내 실력을 향상시키기 위해 매일 영어를 연습해.,improve,destroy,maintain,improve,1,758
+767,"{
+  ""fill_in_blank_quiz"": ""I’m good at ________ puzzles."",
+  ""korean_translation"": ""나는 퍼즐을 푸는 데 능숙해."",
+  ""option_1"": ""playing puzzles"",
+  ""option_2"": ""solving puzzles"",
+  ""option_3"": ""fixing puzzles"",
+  ""answer"": ""solving puzzles"",
+  ""answer_index"": 2,
+  ""id"": 767
+}",I’m good at ________ puzzles.,나는 퍼즐을 푸는 데 능숙해.,playing puzzles,solving puzzles,fixing puzzles,solving puzzles,2,767
+769,"{
+  ""fill_in_blank_quiz"": ""What kind of ___ do you want to have?"",
+  ""korean_translation"": ""어떤 종류의 반려동물을 갖고 싶니?"",
+  ""option_1"": ""dog"",
+  ""option_2"": ""pet"",
+  ""option_3"": ""car"",
+  ""answer"": ""pet"",
+  ""answer_index"": 2,
+  ""id"": 769
+}",What kind of ___ do you want to have?,어떤 종류의 반려동물을 갖고 싶니?,dog,pet,car,pet,2,769
+773,"{
+  ""fill_in_blank_quiz"": ""Can you ___ this box?"",
+  ""korean_translation"": ""이 상자를 옮기는 데 도와줄 수 있어?"",
+  ""option_1"": ""move"",
+  ""option_2"": ""help me carry"",
+  ""option_3"": ""lift"",
+  ""answer"": ""help me carry"",
+  ""answer_index"": 2,
+  ""id"": 773
+}",Can you ___ this box?,이 상자를 옮기는 데 도와줄 수 있어?,move,help me carry,lift,help me carry,2,773
+776,"{
+  ""fill_in_blank_quiz"": ""What time shall we ___?"",
+  ""korean_translation"": ""우리는 몇 시에 공원에 갈까요?"",
+  ""option_1"": ""have a party"",
+  ""option_2"": ""go to the park"",
+  ""option_3"": ""buy groceries"",
+  ""answer"": ""go to the park"",
+  ""answer_index"": 2,
+  ""id"": 776
+}",What time shall we ___?,우리는 몇 시에 공원에 갈까요?,have a party,go to the park,buy groceries,go to the park,2,776
+777,"{
+  ""fill_in_blank_quiz"": ""Do you prefer ___ or coffee?"",
+  ""korean_translation"": ""너는 차와 커피 중 무엇을 선호하니?"",
+  ""option_1"": ""coffee"",
+  ""option_2"": ""tea"",
+  ""option_3"": ""soda"",
+  ""answer"": ""tea"",
+  ""answer_index"": 2,
+  ""id"": 777
+}",Do you prefer ___ or coffee?,너는 차와 커피 중 무엇을 선호하니?,coffee,tea,soda,tea,2,777
+778,"{
+  ""fill_in_blank_quiz"": ""___ recommend a movie for me?"",
+  ""korean_translation"": ""영화 하나 추천해 줄 수 있어요?"",
+  ""option_1"": ""Would you"",
+  ""option_2"": ""Could you"",
+  ""option_3"": ""Should you"",
+  ""answer"": ""Could you"",
+  ""answer_index"": 2,
+  ""id"": 778
+}",___ recommend a movie for me?,영화 하나 추천해 줄 수 있어요?,Would you,Could you,Should you,Could you,2,778
+779,"{
+  ""fill_in_blank_quiz"": ""I’ve heard our school is getting a new ____."",
+  ""korean_translation"": ""우리 학교에 새 체육관이 생긴다고 들었어."",
+  ""option_1"": ""library"",
+  ""option_2"": ""gym"",
+  ""option_3"": ""cafeteria"",
+  ""answer"": ""gym"",
+  ""answer_index"": 2,
+  ""id"": 779
+}",I’ve heard our school is getting a new ____.,우리 학교에 새 체육관이 생긴다고 들었어.,library,gym,cafeteria,gym,2,779
+781,"{
+  ""fill_in_blank_quiz"": ""I’m interested in ___ new languages."",
+  ""korean_translation"": ""나는 새로운 언어를 배우는 것에 관심이 있다."",
+  ""option_1"": ""teaching"",
+  ""option_2"": ""learning"",
+  ""option_3"": ""forgetting"",
+  ""answer"": ""learning"",
+  ""answer_index"": 2,
+  ""id"": 781
+}",I’m interested in ___ new languages.,나는 새로운 언어를 배우는 것에 관심이 있다.,teaching,learning,forgetting,learning,2,781
+783,"{
+  ""fill_in_blank_quiz"": ""He met a musician ___."",
+  ""korean_translation"": ""그는 바이올린을 아름답게 연주하는 음악가를 만났어."",
+  ""option_1"": ""who dances gracefully"",
+  ""option_2"": ""who plays the violin beautifully"",
+  ""option_3"": ""who sings beautifully"",
+  ""answer"": ""who plays the violin beautifully"",
+  ""answer_index"": 2,
+  ""id"": 783
+}",He met a musician ___.,그는 바이올린을 아름답게 연주하는 음악가를 만났어.,who dances gracefully,who plays the violin beautifully,who sings beautifully,who plays the violin beautifully,2,783
+784,"{
+  ""fill_in_blank_quiz"": ""While he was jogging, he ___."",
+  ""korean_translation"": ""그가 조깅하는 동안 음악을 들었어."",
+  ""option_1"": ""was listening to music"",
+  ""option_2"": ""listened to music"",
+  ""option_3"": ""is listening to music"",
+  ""answer"": ""listened to music"",
+  ""answer_index"": 2,
+  ""id"": 784
+}","While he was jogging, he ___.",그가 조깅하는 동안 음악을 들었어.,was listening to music,listened to music,is listening to music,listened to music,2,784
+805,"{
+  ""fill_in_blank_quiz"": ""___ the matter?"",
+  ""korean_translation"": ""무슨 일이야?"",
+  ""option_1"": ""What’s"",
+  ""option_2"": ""How’s"",
+  ""option_3"": ""Why’s"",
+  ""answer"": ""What’s"",
+  ""answer_index"": 1,
+  ""id"": 805
+}",___ the matter?,무슨 일이야?,What’s,How’s,Why’s,What’s,1,805
+808,"{
+  ""fill_in_blank_quiz"": ""I can’t wait to ___ my family again."",
+  ""korean_translation"": ""나는 다시 가족을 볼 날을 손꼽아 기다리고 있어."",
+  ""option_1"": ""visit"",
+  ""option_2"": ""call"",
+  ""option_3"": ""see"",
+  ""answer"": ""see"",
+  ""answer_index"": 3,
+  ""id"": 808
+}",I can’t wait to ___ my family again.,나는 다시 가족을 볼 날을 손꼽아 기다리고 있어.,visit,call,see,see,3,808
+816,"{
+  ""fill_in_blank_quiz"": ""I wondered whether I ________ the skills needed to make a difference."",
+  ""korean_translation"": ""나는 변화를 만들기 위해 필요한 기술을 가지고 있는지 궁금해했다."",
+  ""option_1"": ""possessed"",
+  ""option_2"": ""had possessed"",
+  ""option_3"": ""would possess"",
+  ""answer"": ""possessed"",
+  ""answer_index"": 1,
+  ""id"": 816
+}",I wondered whether I ________ the skills needed to make a difference.,나는 변화를 만들기 위해 필요한 기술을 가지고 있는지 궁금해했다.,possessed,had possessed,would possess,possessed,1,816
+822,"{
+  ""fill_in_blank_quiz"": ""___ it was my first time experiencing a heavy rain, I didn’t know how to react."",
+  ""korean_translation"": ""내가 처음으로 폭우를 경험했을 때, 어떻게 반응해야 할지 몰랐어."",
+  ""option_1"": ""Since"",
+  ""option_2"": ""Because"",
+  ""option_3"": ""Although"",
+  ""answer"": ""Since"",
+  ""answer_index"": 1,
+  ""id"": 822
+}","___ it was my first time experiencing a heavy rain, I didn’t know how to react.","내가 처음으로 폭우를 경험했을 때, 어떻게 반응해야 할지 몰랐어.",Since,Because,Although,Since,1,822
+827,"{
+  ""fill_in_blank_quiz"": ""___, this is the best solution."",
+  ""korean_translation"": ""내 생각에는, 이것이 최선의 해결책입니다."",
+  ""option_1"": ""In my opinion"",
+  ""option_2"": ""In my view"",
+  ""option_3"": ""I think so"",
+  ""answer"": ""In my opinion"",
+  ""answer_index"": 1,
+  ""id"": 827
+}","___, this is the best solution.","내 생각에는, 이것이 최선의 해결책입니다.",In my opinion,In my view,I think so,In my opinion,1,827
+829,"{
+  ""fill_in_blank_quiz"": ""How do ___ like your new job?"",
+  ""korean_translation"": ""너의 새 직장은 어때?"",
+  ""option_1"": ""they"",
+  ""option_2"": ""you"",
+  ""option_3"": ""it"",
+  ""answer"": ""you"",
+  ""answer_index"": 2,
+  ""id"": 829
+}",How do ___ like your new job?,너의 새 직장은 어때?,they,you,it,you,2,829
+830,"{
+  ""fill_in_blank_quiz"": ""I’m ___ you like it."",
+  ""korean_translation"": ""네가 그것을 좋아하다니 기뻐."",
+  ""option_1"": ""tired"",
+  ""option_2"": ""glad"",
+  ""option_3"": ""sad"",
+  ""answer"": ""glad"",
+  ""answer_index"": 2,
+  ""id"": 830
+}",I’m ___ you like it.,네가 그것을 좋아하다니 기뻐.,tired,glad,sad,glad,2,830
+839,"{
+  ""fill_in_blank_quiz"": ""___, How about 3 PM?"",
+  ""korean_translation"": ""잠깐만 생각해 보고, 오후 3시 어때?"",
+  ""option_1"": ""Let me think"",
+  ""option_2"": ""Give me a moment"",
+  ""option_3"": ""Let me see"",
+  ""answer"": ""Let me see"",
+  ""answer_index"": 3,
+  ""id"": 839
+}","___, How about 3 PM?","잠깐만 생각해 보고, 오후 3시 어때?",Let me think,Give me a moment,Let me see,Let me see,3,839
+853,"{
+  ""fill_in_blank_quiz"": ""I sometimes ___ the wind whispering through the trees."",
+  ""korean_translation"": ""나는 가끔 바람이 나무 사이로 속삭이는 것을 듣는다."",
+  ""option_1"": ""see"",
+  ""option_2"": ""hear"",
+  ""option_3"": ""feel"",
+  ""answer"": ""hear"",
+  ""answer_index"": 2,
+  ""id"": 853
+}",I sometimes ___ the wind whispering through the trees.,나는 가끔 바람이 나무 사이로 속삭이는 것을 듣는다.,see,hear,feel,hear,2,853
+864,"{
+  ""fill_in_blank_quiz"": ""I ____ you try this new restaurant."",
+  ""korean_translation"": ""나는 네가 이 새로운 레스토랑을 시도해보길 제안해."",
+  ""option_1"": ""advise"",
+  ""option_2"": ""suggest"",
+  ""option_3"": ""recommend"",
+  ""answer"": ""suggest"",
+  ""answer_index"": 2,
+  ""id"": 864
+}",I ____ you try this new restaurant.,나는 네가 이 새로운 레스토랑을 시도해보길 제안해.,advise,suggest,recommend,suggest,2,864
+870,"{
+  ""fill_in_blank_quiz"": ""It seems to me that the economy ___ improving."",
+  ""korean_translation"": ""내게는 경제가 개선되고 있는 것 같다."",
+  ""option_1"": ""is improving"",
+  ""option_2"": ""has improved"",
+  ""option_3"": ""will improve"",
+  ""answer"": ""is improving"",
+  ""answer_index"": 1,
+  ""id"": 870
+}",It seems to me that the economy ___ improving.,내게는 경제가 개선되고 있는 것 같다.,is improving,has improved,will improve,is improving,1,870
+871,"{
+  ""fill_in_blank_quiz"": ""I didn't know ___ the new club."",
+  ""korean_translation"": ""나는 새 클럽을 진정으로 즐겼는지 몰랐다."",
+  ""option_1"": ""if I truly enjoyed"",
+  ""option_2"": ""that I really enjoyed"",
+  ""option_3"": ""whether I truly enjoyed"",
+  ""answer"": ""whether I truly enjoyed"",
+  ""answer_index"": 3,
+  ""id"": 871
+}",I didn't know ___ the new club.,나는 새 클럽을 진정으로 즐겼는지 몰랐다.,if I truly enjoyed,that I really enjoyed,whether I truly enjoyed,whether I truly enjoyed,3,871
+884,"{
+  ""fill_in_blank_quiz"": ""The book is ___ every writer cherishes."",
+  ""korean_translation"": ""책은 모든 작가가 소중히 여기는 것이다."",
+  ""option_1"": ""that"",
+  ""option_2"": ""what"",
+  ""option_3"": ""which"",
+  ""answer"": ""what"",
+  ""answer_index"": 2,
+  ""id"": 884
+}",The book is ___ every writer cherishes.,책은 모든 작가가 소중히 여기는 것이다.,that,what,which,what,2,884
+887,"{
+  ""fill_in_blank_quiz"": ""How have you ___?"",
+  ""korean_translation"": ""어떻게 지냈어?"",
+  ""option_1"": ""doing"",
+  ""option_2"": ""went"",
+  ""option_3"": ""been"",
+  ""answer"": ""been"",
+  ""answer_index"": 3,
+  ""id"": 887
+}",How have you ___?,어떻게 지냈어?,doing,went,been,been,3,887
+888,"{
+  ""fill_in_blank_quiz"": ""B: I’m ___ to hear that."",
+  ""korean_translation"": ""시험에 합격했다니, 그 소식을 듣고 기뻐."",
+  ""option_1"": ""happy"",
+  ""option_2"": ""glad"",
+  ""option_3"": ""sad"",
+  ""answer"": ""happy"",
+  ""answer_index"": 1,
+  ""id"": 888
+}",B: I’m ___ to hear that.,"시험에 합격했다니, 그 소식을 듣고 기뻐.",happy,glad,sad,happy,1,888
+902,"{
+  ""fill_in_blank_quiz"": ""___ take my final exam tomorrow."",
+  ""korean_translation"": ""내일 기말고사를 볼 거야."",
+  ""option_1"": ""am going to"",
+  ""option_2"": ""is going to"",
+  ""option_3"": ""are going to"",
+  ""answer"": ""am going to"",
+  ""answer_index"": 1,
+  ""id"": 902
+}",___ take my final exam tomorrow.,내일 기말고사를 볼 거야.,am going to,is going to,are going to,am going to,1,902
+905,"{
+  ""fill_in_blank_quiz"": ""The director ___ us check the schedule carefully."",
+  ""korean_translation"": ""감독이 우리에게 일정을 꼼꼼히 확인하게 했다."",
+  ""option_1"": ""had"",
+  ""option_2"": ""let"",
+  ""option_3"": ""got"",
+  ""answer"": ""had"",
+  ""answer_index"": 1,
+  ""id"": 905
+}",The director ___ us check the schedule carefully.,감독이 우리에게 일정을 꼼꼼히 확인하게 했다.,had,let,got,had,1,905
+908,"{
+  ""fill_in_blank_quiz"": ""The designer painted the mural ___ students could appreciate art."",
+  ""korean_translation"": ""그 디자이너가 벽화를 그린 것은 학생들이 예술을 감상할 수 있도록 하기 위해서였다."",
+  ""option_1"": ""because"",
+  ""option_2"": ""so that"",
+  ""option_3"": ""even though"",
+  ""answer"": ""so that"",
+  ""answer_index"": 2,
+  ""id"": 908
+}",The designer painted the mural ___ students could appreciate art.,그 디자이너가 벽화를 그린 것은 학생들이 예술을 감상할 수 있도록 하기 위해서였다.,because,so that,even though,so that,2,908
+912,"{
+  ""fill_in_blank_quiz"": ""Organic waste can be ____ into energy easily."",
+  ""korean_translation"": ""유기성 쓰레기는 쉽게 에너지로 전환될 수 있다."",
+  ""option_1"": ""turned"",
+  ""option_2"": ""wasted"",
+  ""option_3"": ""melted"",
+  ""answer"": ""turned"",
+  ""answer_index"": 1,
+  ""id"": 912
+}",Organic waste can be ____ into energy easily.,유기성 쓰레기는 쉽게 에너지로 전환될 수 있다.,turned,wasted,melted,turned,1,912
+918,"{
+  ""fill_in_blank_quiz"": ""The report mentioned that Martin Luther King ___ given a famous speech."",
+  ""korean_translation"": ""보고서는 마틴 루터 킹이 유명한 연설을 했다고 언급했다."",
+  ""option_1"": ""has"",
+  ""option_2"": ""had"",
+  ""option_3"": ""was"",
+  ""answer"": ""had"",
+  ""answer_index"": 2,
+  ""id"": 918
+}",The report mentioned that Martin Luther King ___ given a famous speech.,보고서는 마틴 루터 킹이 유명한 연설을 했다고 언급했다.,has,had,was,had,2,918
+922,"{
+  ""fill_in_blank_quiz"": ""I’ve heard that ___."",
+  ""korean_translation"": ""나는 새 영화가 정말 좋다고 들었어."",
+  ""option_1"": ""the party was fun."",
+  ""option_2"": ""she is a doctor."",
+  ""option_3"": ""the new movie is really good."",
+  ""answer"": ""the new movie is really good."",
+  ""answer_index"": 3,
+  ""id"": 922
+}",I’ve heard that ___.,나는 새 영화가 정말 좋다고 들었어.,the party was fun.,she is a doctor.,the new movie is really good.,the new movie is really good.,3,922
+929,"{
+  ""fill_in_blank_quiz"": ""Don't worry about ____."",
+  ""korean_translation"": ""시험에 대해 걱정하지 마세요."",
+  ""option_1"": ""your homework"",
+  ""option_2"": ""the test"",
+  ""option_3"": ""the exam"",
+  ""answer"": ""the test"",
+  ""answer_index"": 2,
+  ""id"": 929
+}",Don't worry about ____.,시험에 대해 걱정하지 마세요.,your homework,the test,the exam,the test,2,929
+951,"{
+  ""fill_in_blank_quiz"": ""I’m ___ that you made it."",
+  ""korean_translation"": ""네가 무사히 도착해서 기뻐."",
+  ""option_1"": ""happy"",
+  ""option_2"": ""glad"",
+  ""option_3"": ""worried"",
+  ""answer"": ""glad"",
+  ""answer_index"": 2,
+  ""id"": 951
+}",I’m ___ that you made it.,네가 무사히 도착해서 기뻐.,happy,glad,worried,glad,2,951
+952,"{
+  ""fill_in_blank_quiz"": ""The weather is so nice today. B: ___"",
+  ""korean_translation"": ""오늘 날씨가 정말 좋아. 너도 그렇게 생각하지?"",
+  ""option_1"": ""Absolutely"",
+  ""option_2"": ""You can say that again"",
+  ""option_3"": ""I agree completely"",
+  ""answer"": ""You can say that again"",
+  ""answer_index"": 2,
+  ""id"": 952
+}",The weather is so nice today. B: ___,오늘 날씨가 정말 좋아. 너도 그렇게 생각하지?,Absolutely,You can say that again,I agree completely,You can say that again,2,952
+957,"{
+  ""fill_in_blank_quiz"": ""___ if she will come to the party."",
+  ""korean_translation"": ""그녀가 파티에 올지 궁금해."",
+  ""option_1"": ""I wonder"",
+  ""option_2"": ""I think"",
+  ""option_3"": ""I hope"",
+  ""answer"": ""I wonder"",
+  ""answer_index"": 1,
+  ""id"": 957
+}",___ if she will come to the party.,그녀가 파티에 올지 궁금해.,I wonder,I think,I hope,I wonder,1,957
+960,"{
+  ""fill_in_blank_quiz"": ""I’m looking forward to ____."",
+  ""korean_translation"": ""나는 주말을 기대하고 있어."",
+  ""option_1"": ""the morning"",
+  ""option_2"": ""the weekend"",
+  ""option_3"": ""the party"",
+  ""answer"": ""the weekend"",
+  ""answer_index"": 2,
+  ""id"": 960
+}",I’m looking forward to ____.,나는 주말을 기대하고 있어.,the morning,the weekend,the party,the weekend,2,960
+966,"{
+  ""fill_in_blank_quiz"": ""I’m afraid you’re ________."",
+  ""korean_translation"": ""내가 두려워하는 것은 당신이 잘못 생각하고 있다는 것입니다."",
+  ""option_1"": ""right"",
+  ""option_2"": ""mistaken"",
+  ""option_3"": ""correct"",
+  ""answer"": ""mistaken"",
+  ""answer_index"": 2,
+  ""id"": 966
+}",I’m afraid you’re ________.,내가 두려워하는 것은 당신이 잘못 생각하고 있다는 것입니다.,right,mistaken,correct,mistaken,2,966
+976,"{
+  ""fill_in_blank_quiz"": ""___ the little puppy barked loudly, people admired its cuteness."",
+  ""korean_translation"": ""작은 강아지가 크게 짖었기 때문에, 사람들은 그 귀여움에 감탄했어."",
+  ""option_1"": ""Although"",
+  ""option_2"": ""Since"",
+  ""option_3"": ""Because"",
+  ""answer"": ""Since"",
+  ""answer_index"": 2,
+  ""id"": 976
+}","___ the little puppy barked loudly, people admired its cuteness.","작은 강아지가 크게 짖었기 때문에, 사람들은 그 귀여움에 감탄했어.",Although,Since,Because,Since,2,976
+983,"{
+  ""fill_in_blank_quiz"": ""___ are you feeling?"",
+  ""korean_translation"": ""너는 기분이 어때?"",
+  ""option_1"": ""How"",
+  ""option_2"": ""What"",
+  ""option_3"": ""When"",
+  ""answer"": ""How"",
+  ""answer_index"": 1,
+  ""id"": 983
+}",___ are you feeling?,너는 기분이 어때?,How,What,When,How,1,983
+985,"{
+  ""fill_in_blank_quiz"": ""___ our next trip."",
+  ""korean_translation"": ""우리 다음 여행에 대해 이야기하자."",
+  ""option_1"": ""Let's speak of"",
+  ""option_2"": ""Let’s talk about"",
+  ""option_3"": ""Let's discuss"",
+  ""answer"": ""Let’s talk about"",
+  ""answer_index"": 2,
+  ""id"": 985
+}",___ our next trip.,우리 다음 여행에 대해 이야기하자.,Let's speak of,Let’s talk about,Let's discuss,Let’s talk about,2,985
+993,"{
+  ""fill_in_blank_quiz"": ""Which do you ___, coffee or tea?"",
+  ""korean_translation"": ""커피와 차 중 어느 것을 선호해?"",
+  ""option_1"": ""choose"",
+  ""option_2"": ""prefer"",
+  ""option_3"": ""like"",
+  ""answer"": ""prefer"",
+  ""answer_index"": 2,
+  ""id"": 993
+}","Which do you ___, coffee or tea?",커피와 차 중 어느 것을 선호해?,choose,prefer,like,prefer,2,993
+998,"{
+  ""fill_in_blank_quiz"": ""___ down!"",
+  ""korean_translation"": ""진정해!"",
+  ""option_1"": ""Calm"",
+  ""option_2"": ""Hurry"",
+  ""option_3"": ""Cheer"",
+  ""answer"": ""Calm"",
+  ""answer_index"": 1,
+  ""id"": 998
+}",___ down!,진정해!,Calm,Hurry,Cheer,Calm,1,998
+1000,"{
+  ""fill_in_blank_quiz"": ""I was relieved that my friend ___ the broken bench."",
+  ""korean_translation"": ""나는 친구가 부서진 벤치를 고쳐서 안심했어."",
+  ""option_1"": ""fixes"",
+  ""option_2"": ""had repaired"",
+  ""option_3"": ""had fixed"",
+  ""answer"": ""had repaired"",
+  ""answer_index"": 2,
+  ""id"": 1000
+}",I was relieved that my friend ___ the broken bench.,나는 친구가 부서진 벤치를 고쳐서 안심했어.,fixes,had repaired,had fixed,had repaired,2,1000
+1020,"{
+  ""fill_in_blank_quiz"": ""___ that she is very talented."",
+  ""korean_translation"": ""나에게는 그녀가 매우 재능 있는 것처럼 보인다."",
+  ""option_1"": ""I think that"",
+  ""option_2"": ""It seems to me"",
+  ""option_3"": ""In my view"",
+  ""answer"": ""It seems to me"",
+  ""answer_index"": 2,
+  ""id"": 1020
+}",___ that she is very talented.,나에게는 그녀가 매우 재능 있는 것처럼 보인다.,I think that,It seems to me,In my view,It seems to me,2,1020
+1024,"{
+  ""fill_in_blank_quiz"": ""A: ___ the concert."",
+  ""korean_translation"": ""나는 그 콘서트가 기대돼."",
+  ""option_1"": ""I'm excited about"",
+  ""option_2"": ""I'm looking forward to"",
+  ""option_3"": ""I can't wait for"",
+  ""answer"": ""I'm looking forward to"",
+  ""answer_index"": 2,
+  ""id"": 1024
+}",A: ___ the concert.,나는 그 콘서트가 기대돼.,I'm excited about,I'm looking forward to,I can't wait for,I'm looking forward to,2,1024
+1025,"{
+  ""fill_in_blank_quiz"": ""___ talk about our travel plans."",
+  ""korean_translation"": ""우리의 여행 계획에 대해 이야기하자."",
+  ""option_1"": ""Let’s"",
+  ""option_2"": ""I’m"",
+  ""option_3"": ""We’re"",
+  ""answer"": ""Let’s"",
+  ""answer_index"": 1,
+  ""id"": 1025
+}",___ talk about our travel plans.,우리의 여행 계획에 대해 이야기하자.,Let’s,I’m,We’re,Let’s,1,1025
+1037,"{
+  ""fill_in_blank_quiz"": ""I remembered the dream that I ___ seen during the national parade."",
+  ""korean_translation"": ""나는 국경일 행진 중에 본 꿈을 기억했어."",
+  ""option_1"": ""have"",
+  ""option_2"": ""had"",
+  ""option_3"": ""has"",
+  ""answer"": ""had"",
+  ""answer_index"": 2,
+  ""id"": 1037
+}",I remembered the dream that I ___ seen during the national parade.,나는 국경일 행진 중에 본 꿈을 기억했어.,have,had,has,had,2,1037
+1043,"{
+  ""fill_in_blank_quiz"": ""I saw a cheerful friend ___ a book at the cafe."",
+  ""korean_translation"": ""나는 카페에서 책을 읽고 있는 쾌활한 친구를 보았어."",
+  ""option_1"": ""eating"",
+  ""option_2"": ""reading"",
+  ""option_3"": ""sleeping"",
+  ""answer"": ""reading"",
+  ""answer_index"": 2,
+  ""id"": 1043
+}",I saw a cheerful friend ___ a book at the cafe.,나는 카페에서 책을 읽고 있는 쾌활한 친구를 보았어.,eating,reading,sleeping,reading,2,1043
+1050,"{
+  ""fill_in_blank_quiz"": ""She ___ if she could help the community."",
+  ""korean_translation"": ""그녀가 지역 사회를 도울 수 있는지 물었다."",
+  ""option_1"": ""asked"",
+  ""option_2"": ""wondered"",
+  ""option_3"": ""inquired"",
+  ""answer"": ""asked"",
+  ""answer_index"": 1,
+  ""id"": 1050
+}",She ___ if she could help the community.,그녀가 지역 사회를 도울 수 있는지 물었다.,asked,wondered,inquired,asked,1,1050
+1064,"{
+  ""fill_in_blank_quiz"": ""___..."",
+  ""korean_translation"": ""잠시 생각해볼게요."",
+  ""option_1"": ""Let me check"",
+  ""option_2"": ""Let me see"",
+  ""option_3"": ""Give me a moment"",
+  ""answer"": ""Let me see"",
+  ""answer_index"": 2,
+  ""id"": 1064
+}",___...,잠시 생각해볼게요.,Let me check,Let me see,Give me a moment,Let me see,2,1064
+1065,"{
+  ""fill_in_blank_quiz"": ""___ say that again?"",
+  ""korean_translation"": ""다시 한 번 말해 주시겠어요?"",
+  ""option_1"": ""Would you"",
+  ""option_2"": ""Could you"",
+  ""option_3"": ""Will you"",
+  ""answer"": ""Could you"",
+  ""answer_index"": 2,
+  ""id"": 1065
+}",___ say that again?,다시 한 번 말해 주시겠어요?,Would you,Could you,Will you,Could you,2,1065
+1066,"{
+  ""fill_in_blank_quiz"": ""Could you ___ a good book?"",
+  ""korean_translation"": ""좋은 책을 추천해줄 수 있을까요?"",
+  ""option_1"": ""borrow"",
+  ""option_2"": ""recommend"",
+  ""option_3"": ""read"",
+  ""answer"": ""recommend"",
+  ""answer_index"": 2,
+  ""id"": 1066
+}",Could you ___ a good book?,좋은 책을 추천해줄 수 있을까요?,borrow,recommend,read,recommend,2,1066
+1077,"{
+  ""fill_in_blank_quiz"": ""It is ___ that keeps me healthy."",
+  ""korean_translation"": ""운동이 나를 건강하게 해준다."",
+  ""option_1"": ""water"",
+  ""option_2"": ""exercise"",
+  ""option_3"": ""sleep"",
+  ""answer"": ""exercise"",
+  ""answer_index"": 2,
+  ""id"": 1077
+}",It is ___ that keeps me healthy.,운동이 나를 건강하게 해준다.,water,exercise,sleep,exercise,2,1077
+1084,"{
+  ""fill_in_blank_quiz"": ""Do you want me to ___ your bag?"",
+  ""korean_translation"": ""내가 네 가방을 들어줄까?"",
+  ""option_1"": ""hold"",
+  ""option_2"": ""carry"",
+  ""option_3"": ""open"",
+  ""answer"": ""carry"",
+  ""answer_index"": 2,
+  ""id"": 1084
+}",Do you want me to ___ your bag?,내가 네 가방을 들어줄까?,hold,carry,open,carry,2,1084
+1087,"{
+  ""fill_in_blank_quiz"": ""Is something ___ you?"",
+  ""korean_translation"": ""무언가 너를 괴롭히고 있니?"",
+  ""option_1"": ""annoying"",
+  ""option_2"": ""bothering"",
+  ""option_3"": ""disturbing"",
+  ""answer"": ""bothering"",
+  ""answer_index"": 2,
+  ""id"": 1087
+}",Is something ___ you?,무언가 너를 괴롭히고 있니?,annoying,bothering,disturbing,bothering,2,1087
+1093,"{
+  ""fill_in_blank_quiz"": ""___ my haircut."",
+  ""korean_translation"": ""나는 내 머리 모양에 만족하지 않아."",
+  ""option_1"": ""I don't like"",
+  ""option_2"": ""I'm not satisfied with"",
+  ""option_3"": ""I'm unhappy with"",
+  ""answer"": ""I'm not satisfied with"",
+  ""answer_index"": 2,
+  ""id"": 1093
+}",___ my haircut.,나는 내 머리 모양에 만족하지 않아.,I don't like,I'm not satisfied with,I'm unhappy with,I'm not satisfied with,2,1093
+1098,"{
+  ""fill_in_blank_quiz"": ""___ he was sick, he still went to school."",
+  ""korean_translation"": ""비록 그는 아팠음에도 불구하고, 학교에 갔다."",
+  ""option_1"": ""Even though"",
+  ""option_2"": ""Although"",
+  ""option_3"": ""Despite"",
+  ""answer"": ""Although"",
+  ""answer_index"": 2,
+  ""id"": 1098
+}","___ he was sick, he still went to school.","비록 그는 아팠음에도 불구하고, 학교에 갔다.",Even though,Although,Despite,Although,2,1098
